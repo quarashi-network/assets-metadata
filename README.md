@@ -1,4 +1,4 @@
-<img alt="" src="https://raw.githubusercontent.com/quarashi-network/assets-metadata/main/logo-quarashi.png" />
+<img alt="" src="https://raw.githubusercontent.com/quarashi-network/assets-metadata/master/logo-quarashi.png" />
 
 # Quarashi Assets Manager
 
