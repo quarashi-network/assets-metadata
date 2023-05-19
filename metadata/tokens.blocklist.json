@@ -1,0 +1,24 @@
+{
+	"1": {
+		"id": 1,
+		"name": "Ethereum",
+		"tokens": {
+			"blocklist": [{
+				"address": "0x0aFf88B4Cf3015c9c17f1dA1FCCb88C632F3505E",
+				"name": "Quarashi V1 ERC-20",
+				"status": "DEPRECATED"
+			}]
+		}
+	},
+	"56": {
+		"id": 56,
+		"name": "Binance Smart Chain",
+		"tokens": {
+			"blocklist": [{
+				"address": "0x7c0DCE613443a493d69Df8AA7623486602e63B65",
+				"name": "Quarashi V1 BEP-20",
+				"status": "DEPRECATED"
+			}]
+		}
+	}
+}

@@ -1,0 +1,316 @@
+{
+	"1": {
+		"enabled": true,
+		"id": 1,
+		"name": "Ethereum",
+		"slug": "eth-mainnet",
+		"urls": ["https://ethereum.org"],
+		"explorers": ["https://etherscan.io"],
+		"testnet": {
+			"5": {
+				"enabled": false,
+				"id": 5,
+				"name": "Ethereum Görli",
+				"explorers": ["https://goerli.etherscan.io"]
+			},
+			"11155111": {
+				"enabled": false,
+				"id": 11155111,
+				"name": "Ethereum Sepolia",
+				"explorers": ["https://sepolia.etherscan.io"]
+			}
+		}
+	},
+	"10": {
+		"enabled": true,
+		"id": 10,
+		"name": "Optimism",
+		"slug": "opt-mainnet",
+		"urls": ["https://optimism.io"],
+		"explorers": ["https://optimistic.etherscan.io"],
+		"testnet": {
+			"420": {
+				"enabled": false,
+				"id": 420,
+				"name": "Optimism Görli",
+				"explorers": ["https://goerli-explorer.optimism.io"]
+			}
+		}
+	},
+	"24": {
+		"enabled": true,
+		"id": 24,
+		"name": "KardiaChain",
+		"urls": ["https://kardiachain.io"],
+		"explorers": ["https://kardiachain.io"]
+	},
+	"25": {
+		"enabled": true,
+		"id": 25,
+		"name": "Cronos",
+		"urls": ["https://cronos.org"],
+		"explorers": ["https://cronoscan.com"]
+	},
+	"56": {
+		"enabled": true,
+		"id": 56,
+		"name": "Binance Smart Chain",
+		"urls": ["https://bnbchain.org"],
+		"explorers": ["https://bscscan.com"],
+		"testnet": {
+			"97": {
+				"enabled": false,
+				"id": 97,
+				"name": "Binance Smart Chain Testnet",
+				"explorers": ["https://testnet.bscscan.com"]
+			}
+		}
+	},
+	"57": {
+		"enabled": true,
+		"id": 57,
+		"name": "Syscoin",
+		"urls": ["https://syscoin.org"],
+		"explorers": ["https://explorer.syscoin.org"]
+	},
+	"60": {
+		"enabled": true,
+		"id": 60,
+		"name": "GoChain",
+		"urls": ["https://gochain.io"],
+		"explorers": ["https://explorer.gochain.io"]
+	},
+	"61": {
+		"enabled": true,
+		"id": 61,
+		"name": "Ethereum Classic",
+		"urls": ["https://ethereumclassic.org"],
+		"explorers": ["https://blockscout.com/etc/mainnet/"]
+	},
+	"66": {
+		"enabled": true,
+		"id": 66,
+		"name": "OKXChain",
+		"urls": ["https://okx.com/oktc"],
+		"explorers": ["https://okx.com/explorer/oktc"],
+		"testnet": {
+			"65": {
+				"enabled": false,
+				"id": 65,
+				"name": "OKXChain Testnet",
+				"explorers": ["https://www.oklink.com/okexchain-test"]
+			}
+		}
+	},
+	"88": {
+		"enabled": true,
+		"id": 88,
+		"name": "TomoChain",
+		"urls": ["https://tomochain.com"],
+		"explorers": ["https://tomochain.com"]
+	},
+	"100": {
+		"enabled": true,
+		"id": 100,
+		"name": "Gnosis Chain",
+		"urls": ["https://gnosischain.com"],
+		"explorers": ["https://blockscout.com/xdai/mainnet/"]
+	},
+	"128": {
+		"enabled": true,
+		"id": 128,
+		"name": "Huobi ECO Chain",
+		"urls": ["https://hecochain.com"],
+		"explorers": ["https://hecoinfo.com"]
+	},
+	"137": {
+		"enabled": true,
+		"id": 137,
+		"name": "Polygon",
+		"slug": "polygon-mainnet",
+		"urls": ["https://polygon.technology"],
+		"explorers": ["https://polygonscan.com"],
+		"testnet": {
+			"80001": {
+				"enabled": false,
+				"id": 80001,
+				"name": "Polygon Mumbai",
+				"explorers": ["https://mumbai.polygonscan.com"]
+			}
+		}
+	},
+	"250": {
+		"enabled": true,
+		"id": 250,
+		"name": "Fantom Opera",
+		"urls": ["https://fantom.foundation"],
+		"explorers": ["https://ftmscan.com"]
+	},
+	"288": {
+		"enabled": true,
+		"id": 288,
+		"name": "Boba Network",
+		"urls": ["https://boba.network"],
+		"explorers": ["https://bobascan.com"]
+	},
+	"314": {
+		"enabled": true,
+		"special_address": true,
+		"id": 314,
+		"name": "Filecoin",
+		"urls": ["https://filecoin.io"],
+		"explorers": ["https://filfox.info"]
+	},
+	"324": {
+		"enabled": true,
+		"id": 324,
+		"name": "zkSync Era",
+		"urls": ["https://zksync.io"],
+		"explorers": ["https://explorer.zksync.io"],
+		"testnet": {
+			"280": {
+				"enabled": false,
+				"id": 280,
+				"name": "zkSync Era Testnet",
+				"explorers": ["https://goerli.explorer.zksync.io"]
+			}
+		}
+	},
+	"361": {
+		"enabled": true,
+		"id": 361,
+		"name": "Theta",
+		"urls": ["https://thetatoken.org"],
+		"explorers": ["https://explorer.thetatoken.org"]
+	},
+	"1030": {
+		"enabled": true,
+		"id": 1030,
+		"name": "Conflux eSpace",
+		"urls": ["https://confluxnetwork.org"],
+		"explorers": ["https://evm.confluxscan.net"],
+		"testnet": {
+			"71": {
+				"enabled": false,
+				"id": 71,
+				"name": "Conflux eSpace Testnet",
+				"explorers": ["https://evmtestnet.confluxscan.net"]
+			}
+		}
+	},
+	"1284": {
+		"enabled": true,
+		"id": 1284,
+		"name": "Moonbeam",
+		"urls": ["https://moonbeam.network"],
+		"explorers": ["https://moonbeam.moonscan.io"]
+	},
+	"1285": {
+		"enabled": true,
+		"id": 1285,
+		"name": "Moonriver",
+		"urls": ["https://moonbeam.network/networks/moonriver/"],
+		"explorers": ["https://moonriver.moonscan.io"]
+	},
+	"8217": {
+		"enabled": true,
+		"id": 8217,
+		"name": "Klaytn",
+		"urls": ["https://klaytn.foundation"],
+		"explorers": ["https://scope.klaytn.com"]
+	},
+	"10001": {
+		"enabled": true,
+		"id": 10001,
+		"name": "EthereumPoW",
+		"urls": ["https://ethereumpow.org"],
+		"explorers": ["https://ethwscan.com"]
+	},
+	"32659": {
+		"enabled": true,
+		"id": 32659,
+		"name": "Fusion",
+		"urls": ["https://fusion.org"],
+		"explorers": ["https://fsnscan.com"]
+	},
+	"42161": {
+		"enabled": true,
+		"id": 42161,
+		"name": "Arbitrum One",
+		"slug": "arb-mainnet",
+		"urls": ["https://arbitrum.io"],
+		"explorers": ["https://arbiscan.io"],
+		"testnet": {
+			"421613": {
+				"enabled": false,
+				"id": 421613,
+				"name": "Arbitrum Görli",
+				"explorers": ["https://testnet.arbiscan.io"]
+			}
+		}
+	},
+	"42170": {
+		"enabled": true,
+		"id": 42170,
+		"name": "Arbitrum Nova",
+		"urls": ["https://nova.arbitrum.io"],
+		"explorers": ["https://nova-explorer.arbitrum.io"]
+	},
+	"42220": {
+		"enabled": true,
+		"id": 42220,
+		"name": "Celo",
+		"urls": ["https://celo.org"],
+		"explorers": ["https://explorer.celo.org"],
+		"testnet": {
+			"44787": {
+				"enabled": false,
+				"id": 44787,
+				"name": "Celo Alfajores",
+				"explorers": ["https://alfajores-blockscout.celo-testnet.org"]
+			},
+			"62320": {
+				"enabled": false,
+				"id": 62320,
+				"name": "Celo Baklava",
+				"explorers": ["https://docs.celo.org"]
+			}
+		}
+	},
+	"43114": {
+		"enabled": true,
+		"id": 43114,
+		"name": "Avalanche",
+		"urls": ["https://avax.network"],
+		"explorers": ["https://snowtrace.io"]
+	},
+	"513100": {
+		"enabled": true,
+		"id": 513100,
+		"name": "Ethereum Fair",
+		"urls": ["https://etherfair.org"],
+		"explorers": ["https://oklink.com/ethf"]
+	},
+	"1313161554": {
+		"enabled": true,
+		"id": 1313161554,
+		"name": "Aurora",
+		"urls": ["https://aurora.dev"],
+		"explorers": ["https://explorer.aurora.dev"]
+	},
+	"1666600000": {
+		"enabled": true,
+		"special_address": true,
+		"id": 1666600000,
+		"name": "Harmony",
+		"urls": ["https://harmony.one"],
+		"explorers": ["https://explorer.harmony.one"]
+	},
+	"11297108109": {
+		"enabled": true,
+		"id": 11297108109,
+		"name": "Palm",
+		"urls": ["https://palmnftstudio.com"],
+		"explorers": ["https://explorer.palm.io"]
+	}
+}

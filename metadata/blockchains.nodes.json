@@ -1,0 +1,693 @@
+{
+	"1": {
+		"id": 1,
+		"name": "Ethereum",
+		"nodes": {
+			"rpc": [{
+				"enabled": false,
+				"url": "https://cloudflare-eth.com"
+			} , {
+				"enabled": false,
+				"url": "https://eth.llamarpc.com"
+			} , {
+				"enabled": false,
+				"url": "https://eth.public-rpc.com"
+			} , {
+				"enabled": false,
+				"url": "https://rpc.ankr.com/eth"
+			} , {
+				"enabled": false,
+				"url": "https://1rpc.io/eth"
+			} , {
+				"enabled": true,
+				"url": "https://nodes.quarashi.network/eth"
+			}]
+		},
+		"testnet": {
+			"5": {
+				"id": 5,
+				"name": "Ethereum Görli",
+				"nodes": {
+					"rpc": [{
+						"enabled": true,
+						"url": "https://rpc.ankr.com/eth_goerli"
+					} , {
+						"enabled": true,
+						"url": "https://eth-goerli.public.blastapi.io"
+					}]
+				}
+			},
+			"11155111": {
+				"id": 11155111,
+				"name": "Ethereum Sepolia",
+				"nodes": {
+					"rpc": [{
+						"enabled": true,
+						"url": "https://rpc.sepolia.org"
+					} , {
+						"enabled": true,
+						"url": "https://rpc2.sepolia.org"
+					} , {
+						"enabled": true,
+						"url": "https://rpc.ankr.com/eth_sepolia/"
+					} , {
+						"enabled": true,
+						"url": "https://eth-sepolia.public.blastapi.io"
+					}]
+				}
+			}
+		}
+	},
+	"10": {
+		"id": 10,
+		"name": "Optimism",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://mainnet.optimism.io"
+			} , {
+				"enabled": true,
+				"url": "https://rpc.ankr.com/optimism"
+			} , {
+				"enabled": true,
+				"url": "https://1rpc.io/op"
+			} , {
+				"enabled": true,
+				"url": "https://nodes.quarashi.network/optimism"
+			}]
+		},
+		"testnet": {
+			"420": {
+				"id": 420,
+				"name": "Optimism Görli",
+				"nodes": {
+					"rpc": [{
+						"enabled": true,
+						"url": "https://goerli.optimism.io"
+					} , {
+						"enabled": true,
+						"url": "https://optimism-goerli.public.blastapi.io"
+					}]
+				}
+			}
+		}
+	},
+	"24": {
+		"id": 24,
+		"name": "KardiaChain",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://rpc.kardiachain.io"
+			}]
+		}
+	},
+	"25": {
+		"id": 25,
+		"name": "Cronos",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://rpc.nebkas.ro"
+			} , {
+				"enabled": true,
+				"url": "https://rpc.vvs.finance"
+			} , {
+				"enabled": true,
+				"url": "https://mmf-rpc.xstaking.sg"
+			} , {
+				"enabled": true,
+				"url": "https://cronosrpc-1.xstaking.sg"
+			} , {
+				"enabled": true,
+				"url": "https://nodes.quarashi.network/cronos"
+			}]
+		}
+	},
+	"56": {
+		"id": 56,
+		"name": "Binance Smart Chain",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://bsc-dataseed.binance.org"
+			} , {
+				"enabled": true,
+				"url": "https://bsc-dataseed1.binance.org"
+			} , {
+				"enabled": true,
+				"url": "https://bsc-dataseed2.binance.org"
+			} , {
+				"enabled": true,
+				"url": "https://bsc-dataseed3.binance.org"
+			} , {
+				"enabled": true,
+				"url": "https://bsc-dataseed4.binance.org"
+			} , {
+				"enabled": true,
+				"url": "https://bscrpc.com"
+			} , {
+				"enabled": true,
+				"url": "https://rpc.ankr.com/bsc"
+			} , {
+				"enabled": true,
+				"url": "https://1rpc.io/bnb"
+			} , {
+				"enabled": true,
+				"url": "https://nodes.quarashi.network/bsc"
+			}]
+		},
+		"testnet": {
+			"97": {
+				"id": 97,
+				"name": "Binance Smart Chain Testnet",
+				"nodes": {
+					"rpc": [{
+						"enabled": true,
+						"url": "https://data-seed-prebsc-1-s1.binance.org:8545"
+					} , {
+						"enabled": true,
+						"url": "https://data-seed-prebsc-1-s2.binance.org:8545"
+					} , {
+						"enabled": true,
+						"url": "https://data-seed-prebsc-1-s3.binance.org:8545"
+					} , {
+						"enabled": true,
+						"url": "https://data-seed-prebsc-2-s1.binance.org:8545"
+					} , {
+						"enabled": true,
+						"url": "https://data-seed-prebsc-2-s2.binance.org:8545"
+					} , {
+						"enabled": true,
+						"url": "https://data-seed-prebsc-2-s3.binance.org:8545"
+					}]
+				}
+			}
+		}
+	},
+	"57": {
+		"id": 57,
+		"name": "Syscoin",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://rpc.syscoin.org"
+			} , {
+				"enabled": true,
+				"url": "https://syscoin.public-rpc.com"
+			} , {
+				"enabled": true,
+				"url": "https://rpc.ankr.com/syscoin"
+			}]
+		}
+	},
+	"60": {
+		"id": 60,
+		"name": "GoChain",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://rpc.gochain.io"
+			}]
+		}
+	},
+	"61": {
+		"id": 61,
+		"name": "Ethereum Classic",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://etc.rivet.link"
+			} , {
+				"enabled": true,
+				"url": "https://nodes.quarashi.network/etc"
+			}]
+		}
+	},
+	"66": {
+		"id": 66,
+		"name": "OKXChain",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://exchainrpc.okex.org"
+			} , {
+				"enabled": true,
+				"url": "https://nodes.quarashi.network/okt"
+			}]
+		},
+		"testnet": {
+			"65": {
+				"id": 65,
+				"name": "OKXChain Testnet",
+				"nodes": {
+					"rpc": [{
+						"enabled": true,
+						"url": "https://exchaintestrpc.okex.org"
+					}]
+				}
+			}
+		}
+	},
+	"88": {
+		"id": 88,
+		"name": "TomoChain",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://rpc.tomochain.com"
+			}]
+		}
+	},
+	"100": {
+		"id": 100,
+		"name": "Gnosis Chain",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://rpc.gnosischain.com"
+			} , {
+				"enabled": true,
+				"url": "https://gnosis.public-rpc.com"
+			} , {
+				"enabled": true,
+				"url": "https://rpc.ankr.com/gnosis"
+			} , {
+				"enabled": true,
+				"url": "https://xdai-rpc.gateway.pokt.network"
+			} , {
+				"enabled": true,
+				"url": "https://gnosischain-rpc.gateway.pokt.network"
+			} , {
+				"enabled": true,
+				"url": "https://gnosis-mainnet.public.blastapi.io"
+			} , {
+				"enabled": true,
+				"url": "https://nodes.quarashi.network/xdai"
+			}]
+		}
+	},
+	"128": {
+		"id": 128,
+		"name": "Huobi ECO Chain",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://http-mainnet.hecochain.com"
+			} , {
+				"enabled": true,
+				"url": "https://nodes.quarashi.network/heco"
+			}]
+		}
+	},
+	"137": {
+		"id": 137,
+		"name": "Polygon",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://polygon-rpc.com"
+			} , {
+				"enabled": true,
+				"url": "https://polygon.llamarpc.com"
+			} , {
+				"enabled": true,
+				"url": "https://rpc.ankr.com/polygon"
+			} , {
+				"enabled": true,
+				"url": "https://1rpc.io/matic"
+			} , {
+				"enabled": true,
+				"url": "https://nodes.quarashi.network/polygon"
+			}]
+		},
+		"testnet": {
+			"80001": {
+				"id": 80001,
+				"name": "Polygon Mumbai",
+				"nodes": {
+					"rpc": [{
+						"enabled": true,
+						"url": "https://rpc-mumbai.maticvigil.com"
+					} , {
+						"enabled": true,
+						"url": "https://matic-mumbai.chainstacklabs.com"
+					} , {
+						"enabled": true,
+						"url": "https://endpoints.omniatech.io/v1/matic/mumbai/public"
+					} , {
+						"enabled": true,
+						"url": "https://polygon-testnet.public.blastapi.io"
+					} , {
+						"enabled": true,
+						"url": "https://rpc.ankr.com/polygon_mumbai"
+					}]
+				}
+			}
+		}
+	},
+	"250": {
+		"id": 250,
+		"name": "Fantom Opera",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://rpc.fantom.network"
+			} , {
+				"enabled": true,
+				"url": "https://rpc2.fantom.network"
+			} , {
+				"enabled": true,
+				"url": "https://rpc3.fantom.network"
+			} , {
+				"enabled": true,
+				"url": "https://rpc.ftm.tools"
+			} , {
+				"enabled": true,
+				"url": "https://rpc.ankr.com/fantom"
+			} , {
+				"enabled": true,
+				"url": "https://1rpc.io/ftm"
+			} , {
+				"enabled": true,
+				"url": "https://nodes.quarashi.network/fantom"
+			}]
+		}
+	},
+	"288": {
+		"id": 288,
+		"name": "Boba Network",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://mainnet.boba.network"
+			} , {
+				"enabled": true,
+				"url": "https://nodes.quarashi.network/boba"
+			}]
+		}
+	},
+	"314": {
+		"id": 314,
+		"name": "Filecoin",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://filecoin.public-rpc.com"
+			} , {
+				"enabled": true,
+				"url": "https://rpc.ankr.com/filecoin"
+			} , {
+				"enabled": true,
+				"url": "https://api.node.glif.io"
+			}]
+		}
+	},
+	"324": {
+		"id": 324,
+		"name": "zkSync Era",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://mainnet.era.zksync.io"
+			}]
+		},
+		"testnet": {
+			"280": {
+				"id": 280,
+				"name": "zkSync Era Testnet",
+				"nodes": {
+					"rpc": [{
+						"enabled": true,
+						"url": "https://testnet.era.zksync.dev"
+					}]
+				}
+			}
+		}
+	},
+	"361": {
+		"id": 361,
+		"name": "Theta",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://eth-rpc-api.thetatoken.org/rpc"
+			} , {
+				"enabled": true,
+				"url": "https://conflux-espace-public.unifra.io"
+			}]
+		}
+	},
+	"1030": {
+		"id": 1030,
+		"name": "Conflux eSpace",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://evm.confluxrpc.com"
+			}]
+		},
+		"testnet": {
+			"71": {
+				"id": 71,
+				"name": "Conflux eSpace Testnet",
+				"nodes": {
+					"rpc": [{
+						"enabled": true,
+						"url": "https://evmtestnet.confluxrpc.com"
+					}]
+				}
+			}
+		}
+	},
+	"1284": {
+		"id": 1284,
+		"name": "Moonbeam",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://rpc.api.moonbeam.network"
+			} , {
+				"enabled": true,
+				"url": "https://moonbeam.public-rpc.com"
+			} , {
+				"enabled": true,
+				"url": "https://rpc.ankr.com/moonbeam"
+			} , {
+				"enabled": true,
+				"url": "https://1rpc.io/glmr"
+			}]
+		}
+	},
+	"1285": {
+		"id": 1285,
+		"name": "Moonriver",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://rpc.api.moonriver.moonbeam.network"
+			}]
+		}
+	},
+	"8217": {
+		"id": 8217,
+		"name": "Klaytn",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://public-node-api.klaytnapi.com/v1/cypress"
+			} , {
+				"enabled": true,
+				"url": "https://klaytn.public-rpc.com"
+			} , {
+				"enabled": true,
+				"url": "https://rpc.ankr.com/klaytn"
+			} , {
+				"enabled": true,
+				"url": "https://1rpc.io/klay"
+			}]
+		}
+	},
+	"10001": {
+		"id": 10001,
+		"name": "EthereumPoW",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://mainnet.ethereumpow.org"
+			} , {
+				"enabled": true,
+				"url": "https://nodes.quarashi.network/ethw"
+			}]
+		}
+	},
+	"32659": {
+		"id": 32659,
+		"name": "Fusion",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://mainnet.fusionnetwork.io"
+			}]
+		}
+	},
+	"42161": {
+		"id": 42161,
+		"name": "Arbitrum One",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://arb1.arbitrum.io/rpc"
+			} , {
+				"enabled": true,
+				"url": "https://rpc.ankr.com/arbitrum"
+			} , {
+				"enabled": true,
+				"url": "https://1rpc.io/arb"
+			} , {
+				"enabled": true,
+				"url": "https://nodes.quarashi.network/arbitrum"
+			}]
+		},
+		"testnet": {
+			"421613": {
+				"id": 421613,
+				"name": "Arbitrum Görli",
+				"nodes": {
+					"rpc": [{
+						"enabled": true,
+						"url": "https://goerli-rollup.arbitrum.io/rpc"
+					} , {
+						"enabled": true,
+						"url": "https://endpoints.omniatech.io/v1/arbitrum/goerli/public"
+					} , {
+						"enabled": true,
+						"url": "https://optimism-goerli.public.blastapi.io"
+					}]
+				}
+			}
+		}
+	},
+	"42170": {
+		"id": 42170,
+		"name": "Arbitrum Nova",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://nova.arbitrum.io/rpc"
+			} , {
+				"enabled": true,
+				"url": "https://rpc.ankr.com/arbitrumnova"
+			}]
+		}
+	},
+	"42220": {
+		"id": 42220,
+		"name": "Celo",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://forno.celo.org"
+			} , {
+				"enabled": true,
+				"url": "https://rpc.ankr.com/celo"
+			} , {
+				"enabled": true,
+				"url": "https://1rpc.io/celo"
+			} , {
+				"enabled": true,
+				"url": "https://nodes.quarashi.network/celo"
+			}]
+		},
+		"testnet": {
+			"44787": {
+				"id": 44787,
+				"name": "Celo Alfajores",
+				"nodes": {
+					"rpc": [{
+						"enabled": true,
+						"url": "https://alfajores-forno.celo-testnet.org"
+					}]
+				}
+			},
+			"62320": {
+				"id": 62320,
+				"name": "Celo Baklava",
+				"nodes": {
+					"rpc": [{
+						"enabled": true,
+						"url": "https://baklava-forno.celo-testnet.org"
+					}]
+				}
+			}
+		}
+	},
+	"43114": {
+		"id": 43114,
+		"name": "Avalanche",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://avalanche.public-rpc.com"
+			} , {
+				"enabled": true,
+				"url": "https://rpc.ankr.com/avalanche"
+			} , {
+				"enabled": true,
+				"url": "https://nodes.quarashi.network/avalanche"
+			}]
+		}
+	},
+	"513100": {
+		"id": 513100,
+		"name": "Ethereum Fair",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://rpc.etherfair.org"
+			} , {
+				"enabled": true,
+				"url": "https://nodes.quarashi.network/etf"
+			}]
+		}
+	},
+	"1313161554": {
+		"id": 1313161554,
+		"name": "Aurora",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://mainnet.aurora.dev"
+			} , {
+				"enabled": true,
+				"url": "https://1rpc.io/aurora"
+			}]
+		}
+	},
+	"1666600000": {
+		"id": 1666600000,
+		"name": "Harmony",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://harmony.public-rpc.com"
+			} , {
+				"enabled": true,
+				"url": "https://rpc.ankr.com/harmony"
+			} , {
+				"enabled": true,
+				"url": "https://1rpc.io/one"
+			}]
+		}
+	},
+	"11297108109": {
+		"id": 11297108109,
+		"name": "Palm",
+		"nodes": {
+			"rpc": [{
+				"enabled": false,
+				"url": "https://palm-mainnet.public.blastapi.io"
+			}]
+		}
+	}
+}

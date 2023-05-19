@@ -1,0 +1,253 @@
+{
+	"1": {
+		"id": 1,
+		"name": "Ethereum",
+		"tokens": {
+			"allowlist": [{
+				"enabled": true,
+				"address": "0xd35c06a2781f648c75290976ecF71E71582188B7",
+				"name": "Quarashi",
+				"symbol": "QUA",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+				"name": "Compound",
+				"symbol": "COMP",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+				"name": "SHIBA INU",
+				"symbol": "SHIB",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+				"name": "PEPE",
+				"symbol": "PEPE",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+				"name": "Tether USD",
+				"symbol": "USDT",
+				"decimals": 6
+			}]
+		}
+	},
+	"10": {
+		"id": 10,
+		"name": "Optimism",
+		"tokens": {
+			"allowlist": [{
+				"enabled": true,
+				"address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+				"name": "Tether USD",
+				"symbol": "USDT",
+				"decimals": 6
+			} , {
+				"enabled": true,
+				"address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+				"name": "USD Coin",
+				"symbol": "USDC",
+				"decimals": 6
+			}]
+		}
+	},
+	"56": {
+		"id": 56,
+		"name": "Binance Smart Chain",
+		"tokens": {
+			"allowlist": [{
+				"enabled": true,
+				"address": "0xfD0fD32A20532ad690731c2685d77c351015ebBa",
+				"name": "Quarashi",
+				"symbol": "QUA",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0xc7E9d03b6f13d7215c2e2b1854a2B0bDbEBE6FB9",
+				"name": "Bitmarket",
+				"symbol": "BMK",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x55d398326f99059fF775485246999027B3197955",
+				"name": "Tether USD",
+				"symbol": "USDT",
+				"decimals": 6
+			}]
+		}
+	},
+	"137": {
+		"id": 137,
+		"name": "Polygon",
+		"tokens": {
+			"allowlist": [{
+				"enabled": true,
+				"address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+				"name": "ChainLink",
+				"symbol": "LINK",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+				"name": "Tether USD",
+				"symbol": "USDT",
+				"decimals": 6
+			}]
+		}
+	},
+	"250": {
+		"id": 250,
+		"name": "Fantom Opera",
+		"tokens": {
+			"allowlist": [{
+				"enabled": true,
+				"address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
+				"name": "Wrapped BTC",
+				"symbol": "WBTC",
+				"decimals": 8
+			} , {
+				"enabled": true,
+				"address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
+				"name": "Frapped USDT",
+				"symbol": "fUSDT",
+				"decimals": 6
+			} , {
+				"enabled": true,
+				"address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+				"name": "USD Coin",
+				"symbol": "USDC",
+				"decimals": 6
+			}]
+		}
+	},
+	"288": {
+		"id": 288,
+		"name": "Boba Network",
+		"tokens": {
+			"allowlist": [{
+				"enabled": true,
+				"address": "0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7",
+				"name": "BOBA",
+				"symbol": "BOBA",
+				"decimals": 18
+			}]
+		}
+	},
+	"1284": {
+		"id": 1284,
+		"name": "Moonbeam",
+		"tokens": {
+			"allowlist": [{
+				"enabled": true,
+				"address": "0x3405A1bd46B85c5C029483FbECf2F3E611026e45",
+				"name": "Matic",
+				"symbol": "MATIC",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x922D641a426DcFFaeF11680e5358F34d97d112E1",
+				"name": "Wrapped BTC",
+				"symbol": "WBTC",
+				"decimals": 8
+			} , {
+				"enabled": true,
+				"address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
+				"name": "Tether USDT",
+				"symbol": "USDT",
+				"decimals": 6
+			} , {
+				"enabled": true,
+				"address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
+				"name": "USD Coin",
+				"symbol": "USDC",
+				"decimals": 6
+			}]
+		}
+	},
+	"8217": {
+		"id": 8217,
+		"name": "Klaytn",
+		"tokens": {
+			"allowlist": [{
+				"enabled": true,
+				"address": "0x6270b58be569a7c0b8f47594f191631ae5b2c86c",
+				"name": "USD Coin",
+				"symbol": "USDC",
+				"decimals": 6
+			}]
+		}
+	},
+	"42161": {
+		"id": 42161,
+		"name": "Arbitrum One",
+		"tokens": {
+			"allowlist": [{
+				"enabled": true,
+				"address": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
+				"name": "ChainLink",
+				"symbol": "LINK",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+				"name": "Wrapped BTC",
+				"symbol": "WBTC",
+				"decimals": 8
+			} , {
+				"enabled": true,
+				"address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+				"name": "Tether USDT",
+				"symbol": "USDT",
+				"decimals": 6
+			} , {
+				"enabled": true,
+				"address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+				"name": "USD Coin",
+				"symbol": "USDC",
+				"decimals": 6
+			}]
+		}
+	},
+	"42170": {
+		"id": 42170,
+		"name": "Arbitrum Nova",
+		"tokens": {
+			"allowlist": [{
+				"enabled": true,
+				"address": "0x722E8BdD2ce80A4422E880164f2079488e115365",
+				"name": "Wrapped Ether",
+				"symbol": "WETH",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x750ba8b76187092B0D1E87E28daaf484d1b5273b",
+				"name": "USD Coin",
+				"symbol": "USDC",
+				"decimals": 6
+			}]
+		}
+	},
+	"43114": {
+		"id": 43114,
+		"name": "Avalanche",
+		"tokens": {
+			"allowlist": [{
+				"enabled": true,
+				"address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+				"name": "Tether USDT",
+				"symbol": "USDT",
+				"decimals": 6
+			} , {
+				"enabled": true,
+				"address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+				"name": "USD Coin",
+				"symbol": "USDC",
+				"decimals": 6
+			}]
+		}
+	}
+}
