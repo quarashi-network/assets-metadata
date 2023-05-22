@@ -19,9 +19,10 @@
 				"name": "Ethereum Sepolia",
 				"explorers": ["https://sepolia.etherscan.io"]
 			}
-		},
+		}
+	},
 	"10": {
-		"enabled": true,
+		"enabled": false,
 		"id": 10,
 		"name": "Optimism",
 		"slug": "opt-mainnet",
