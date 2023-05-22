@@ -22,7 +22,7 @@
 		}
 	},
 	"10": {
-		"enabled": false,
+		"enabled": true,
 		"id": 10,
 		"name": "Optimism",
 		"slug": "opt-mainnet",
