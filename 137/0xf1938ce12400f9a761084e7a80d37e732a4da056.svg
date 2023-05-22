@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns:xodm="http://www.corel.com/coreldraw/odm/2003" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 2500 2500" style="enable-background:new 0 0 2500 2500;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FF1256;}
-	.st1{fill:#FFFFFF;}
-</style>
-<g id="Layer_x0020_1">
-	<g id="_1996065010912">
-		<rect y="0" class="st0" width="2500" height="2500"></rect>
-		<g>
-			<path class="st1" d="M942,745l272-168c24-14,24-42,7-59L994,298c-4-4-12-4-16,0l-22,22c-28,28-27,72,0,100l89,82     c15,15,12,40-6,51l-106,65c-33,20-43,64-23,97l16,26C929,746,936,748,942,745z"></path>
-			<path class="st1" d="M1204,1645c22-97-4-198-71-272l-172-195c-96-108-72-277,50-354l281-180c18-12,42-9,58,5     c103,95,461,436,445,789c0,0,0,548-539,753c-79,30-160-42-139-125c75-295,88-423,88-423l0,0L1204,1645z M1274,801     c-43,27-126,80-197,125c-48,30-57,95-20,138l180,208c103,113,144,270,109,419l-30,132c-13,57,55,97,99,59     c189-163,455-556-99-1077C1305,794,1288,793,1274,801L1274,801z"></path>
-		</g>
-	</g>
-</g>
-</svg>
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="c"><stop stop-color="#FFF" stop-opacity=".5" offset="0%"/><stop stop-opacity=".5" offset="100%"/></linearGradient><filter x="-5.8%" y="-4.2%" width="111.7%" height="111.7%" filterUnits="objectBoundingBox" id="a"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur stdDeviation=".5" in="shadowOffsetOuter1" result="shadowBlurOuter1"/><feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/><feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.199473505 0" in="shadowBlurOuter1"/></filter><circle id="b" cx="16" cy="15" r="15"/></defs><g fill="none" fill-rule="evenodd"><use fill="#000" filter="url(#a)" xlink:href="#b"/><use fill="#CD0124" xlink:href="#b"/><use fill="url(#c)" style="mix-blend-mode:soft-light" xlink:href="#b"/><circle stroke-opacity=".097" stroke="#000" stroke-linejoin="square" cx="16" cy="15" r="14.5"/><path d="M23.319 6.25c.652 0 1.181.546 1.181 1.22 0 .674-.529 1.22-1.181 1.22l-.073-.001-2.544 6.192c.145.203.231.454.231.725 0 .62-.447 1.132-1.026 1.21l-2.623 6.385c.195.217.314.509.314.829 0 .674-.529 1.22-1.181 1.22s-1.181-.546-1.181-1.22c0-.324.121-.618.32-.836l-3.007-6.371-.07.004c-.611 0-1.114-.48-1.175-1.096l-.006-.125c0-.309.112-.591.295-.807L8.71 8.69l-.028.002c-.611 0-1.114-.48-1.175-1.096L7.5 7.47c0-.674.529-1.22 1.181-1.22.497 0 .922.317 1.096.765h12.446c.174-.448.6-.765 1.096-.765zm-7.077 7.141l-2.607 1.96a1.238 1.238 0 01-.29 1.086l3.01 6.375.062-.003c.023 0 .047 0 .07.002l2.558-6.227a1.252 1.252 0 01-.385-1.444l-2.418-1.749zM9.66 8.63l2.719 5.761.1-.005c.247 0 .475.078.664.21l2.337-1.756-5.82-4.21zm12.531.296l-5.196 3.9 2.291 1.659c.108-.048.224-.08.345-.093l.121-.006c.065 0 .128.005.19.016l2.249-5.476zm-.164-1.001H10.22l6.013 4.35 5.794-4.35z" fill="#FFF"/></g></svg>
