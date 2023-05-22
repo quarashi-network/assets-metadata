@@ -19,8 +19,7 @@
 				"name": "Ethereum Sepolia",
 				"explorers": ["https://sepolia.etherscan.io"]
 			}
-		}
-	},
+		},
 	"10": {
 		"enabled": true,
 		"id": 10,
