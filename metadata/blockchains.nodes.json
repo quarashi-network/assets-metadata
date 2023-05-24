@@ -438,6 +438,16 @@
 			}]
 		}
 	},
+	"369": {
+		"id": 369,
+		"name": "PulseChain",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://rpc.pulsechain.com"
+			}]
+		}
+	},
 	"1030": {
 		"id": 1030,
 		"name": "Conflux eSpace",
