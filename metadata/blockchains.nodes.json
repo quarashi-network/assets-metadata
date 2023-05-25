@@ -4,22 +4,22 @@
 		"name": "Ethereum",
 		"nodes": {
 			"rpc": [{
-				"enabled": false,
+				"enabled": true,
 				"url": "https://cloudflare-eth.com"
 			} , {
-				"enabled": false,
+				"enabled": true,
 				"url": "https://eth.llamarpc.com"
 			} , {
-				"enabled": false,
+				"enabled": true,
 				"url": "https://eth.public-rpc.com"
 			} , {
-				"enabled": false,
+				"enabled": true,
 				"url": "https://rpc.ankr.com/eth"
 			} , {
-				"enabled": false,
+				"enabled": true,
 				"url": "https://1rpc.io/eth"
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"url": "https://nodes.quarashi.network/eth"
 			}]
 		},
