@@ -65,6 +65,48 @@
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"address": "0x0000000000085d4780B73119b644AE5ecd22b376",
+				"name": "TrueUSD",
+				"symbol": "TUSD",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+				"name": "Cronos",
+				"symbol": "CRO",
+				"decimals": 8
+			} , {
+				"enabled": true,
+				"address": "0x4a220E6096B25EADb88358cb44068A3248254675",
+				"name": "Quant",
+				"symbol": "QNT",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
+				"name": "Pax Dollar",
+				"symbol": "USDP",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0xae78736Cd615f374D3085123A210448E74Fc6393",
+				"name": "Rocket Pool ETH",
+				"symbol": "rETH",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0xae78736Cd615f374D3085123A210448E74Fc6393",
+				"name": "OKB",
+				"symbol": "OKB",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
+				"name": "ApeCoin",
+				"symbol": "APE",
+				"decimals": 18
+			} , {
+				"enabled": true,
 				"address": "0x85F17Cf997934a597031b2E18a9aB6ebD4B9f6a4",
 				"name": "NEAR",
 				"symbol": "NEAR",
