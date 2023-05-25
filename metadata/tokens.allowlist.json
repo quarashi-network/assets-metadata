@@ -5,186 +5,203 @@
 		"tokens": {
 			"allowlist": [{
 				"enabled": true,
+				"id": "quarashi",
 				"address": "0xd35c06a2781f648c75290976ecF71E71582188B7",
 				"name": "Quarashi",
 				"symbol": "QUA",
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "compound-governance-token",
 				"address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
 				"name": "Compound",
 				"symbol": "COMP",
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "binance-usd",
 				"address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
 				"name": "Binance USD",
 				"symbol": "BUSD",
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "usd-coin",
 				"address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
 				"name": "USD Coin",
 				"symbol": "USDC",
 				"decimals": 6
 			} , {
 				"enabled": true,
+				"id": "dai",
 				"address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
 				"name": "DAI Stablecoin",
 				"symbol": "DAI",
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "arbitrum",
 				"address": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
 				"name": "Arbitrum",
 				"symbol": "ARB",
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "wrapped-bitcoin",
 				"address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
 				"name": "Wrapped BTC",
 				"symbol": "WTBC",
 				"decimals": 8
 			} , {
 				"enabled": true,
+				"id": "chainlink",
 				"address": "0x514910771af9ca656af840dff83e8264ecf986ca",
 				"name": "ChainLink",
 				"symbol": "LINK",
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "leo-token",
 				"address": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
 				"name": "Bitfinex LEO Token",
 				"symbol": "LEO",
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "uniswap",
 				"address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
 				"name": "Uniswap",
 				"symbol": "UNI",
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "true-usd",
 				"address": "0x0000000000085d4780B73119b644AE5ecd22b376",
 				"name": "TrueUSD",
 				"symbol": "TUSD",
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "crypto-com-chain",
 				"address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
 				"name": "Cronos",
 				"symbol": "CRO",
 				"decimals": 8
 			} , {
 				"enabled": true,
+				"id": "quant-network",
 				"address": "0x4a220E6096B25EADb88358cb44068A3248254675",
 				"name": "Quant",
 				"symbol": "QNT",
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "paxos-standard",
 				"address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
 				"name": "Pax Dollar",
 				"symbol": "USDP",
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "rocket-pool-eth",
 				"address": "0xae78736Cd615f374D3085123A210448E74Fc6393",
 				"name": "Rocket Pool ETH",
 				"symbol": "rETH",
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"address": "0xae78736Cd615f374D3085123A210448E74Fc6393",
+				"id": "okb",
+				"address": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
 				"name": "OKB",
 				"symbol": "OKB",
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "okb",
 				"address": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
 				"name": "ApeCoin",
 				"symbol": "APE",
 				"decimals": 18
-			} , {
-				"enabled": true,
-				"address": "0x85F17Cf997934a597031b2E18a9aB6ebD4B9f6a4",
-				"name": "NEAR",
-				"symbol": "NEAR",
-				"decimals": 24
 			} ,{
 				"enabled": true,
+				"id": "shiba-inu",
 				"address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
 				"name": "SHIBA INU",
 				"symbol": "SHIB",
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "pepe",
 				"address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
 				"name": "PEPE",
 				"symbol": "PEPE",
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "wrapped-fantom",
 				"address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
 				"name": "Fantom",
 				"symbol": "FTM",
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "rocket-pool",
 				"address": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
 				"name": "Rocket Pool",
 				"symbol": "RPL",
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"address": "0xba3D9687Cf50fE253cd2e1cFeEdE1d6787344Ed5",
-				"name": "Aave Interest Bearing",
-				"symbol": "aAAVE",
-				"decimals": 18
-			} , {
-				"enabled": true,
+				"id": "bitdao",
 				"address": "0x1A4b46696b2bB4794Eb3D4c26f1c55F9170fa4C5",
 				"name": "BitDAO",
 				"symbol": "BIT",
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "the-sandbox",
 				"address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
 				"name": "SAND",
 				"symbol": "SAND",
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "nxm",
 				"address": "0xd7c49CEE7E9188cCa6AD8FF264C1DA2e69D4Cf3B",
 				"name": "NXM",
 				"symbol": "NXM",
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "aave",
 				"address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
 				"name": "AAVE Token",
 				"symbol": "AAVE",
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
-				"name": "AAVE Token",
-				"symbol": "AAVE",
+				"id": "immutable-x",
+				"address": "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff",
+				"name": "Immutable X",
+				"symbol": "IMX",
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "decentraland",
 				"address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
 				"name": "Decentraland",
 				"symbol": "MANA",
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "axie-infinity",
 				"address": "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b",
 				"name": "Axie Infinity Shard",
 				"symbol": "AXS",
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "tether-eurt",
 				"address": "0xC581b735A1688071A1746c968e0798D642EDE491",
 				"name": "Euro Tether",
 				"symbol": "EURT",
@@ -231,6 +248,126 @@
 				"name": "Tether USD",
 				"symbol": "USDT",
 				"decimals": 6
+			} , {
+				"enabled": true,
+				"address": "0xD850942eF8811f2A866692A623011bDE52a462C1",
+				"name": "VeChain",
+				"symbol": "VEN",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0xD850942eF8811f2A866692A623011bDE52a462C1",
+				"name": "VeChain",
+				"symbol": "VEN",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+				"name": "Curve DAO Token",
+				"symbol": "CRV",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+				"name": "Maker",
+				"symbol": "MKR",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x0316EB71485b0Ab14103307bf65a021042c6d380",
+				"name": "Huobi BTC",
+				"symbol": "HBTC",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x4Ddc2D193948926D02f9B1fE9e1daa0718270ED5",
+				"name": "Compound Ether",
+				"symbol": "cETH",
+				"decimals": 8
+			} , {
+				"enabled": true,
+				"address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
+				"name": "Compound USD Coin",
+				"symbol": "cUSDC",
+				"decimals": 8
+			} , {
+				"enabled": true,
+				"address": "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd",
+				"name": "Gemini Dollar",
+				"symbol": "GUSD",
+				"decimals": 2
+			} , {
+				"enabled": true,
+				"address": "0x45804880De22913dAFE09f4980848ECE6EcbAf78",
+				"name": "Paxos Gold",
+				"symbol": "PAXG",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+				"name": "Synthetix Network Token",
+				"symbol": "SNX",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
+				"name": "Frax Share",
+				"symbol": "FXS",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30",
+				"name": "Injective Token",
+				"symbol": "INJ",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x6f259637dcD74C767781E37Bc6133cd6A68aa161",
+				"name": "HuobiToken",
+				"symbol": "HT",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
+				"name": "LoopringCoin V2",
+				"symbol": "LRC",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+				"name": "Wootrade Network",
+				"symbol": "WOO",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
+				"name": "Nexo",
+				"symbol": "NEXO",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
+				"name": "EnjinCoin",
+				"symbol": "ENJ",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x92D6C1e31e14520e676a687F0a93788B716BEff5",
+				"name": "dYdX",
+				"symbol": "DYDX",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+				"name": "BAT",
+				"symbol": "BAT",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+				"name": "FLOKI",
+				"symbol": "FLOKI",
+				"decimals": 18
 			}]
 		}
 	},
