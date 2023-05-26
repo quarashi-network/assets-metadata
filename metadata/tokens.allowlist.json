@@ -1411,6 +1411,7 @@
 		"name": "Binance Smart Chain",
 		"tokens": {
 			"allowlist": [{
+				"id": "quarashi",
 				"enabled": true,
 				"address": "0xfD0fD32A20532ad690731c2685d77c351015ebBa",
 				"name": "Quarashi",
@@ -1423,13 +1424,14 @@
 				"symbol": "BMK",
 				"decimals": 18
 			} , {
-				} , {
+				"id": "automata",
 				"enabled": true,
 				"address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
 				"name": "Automata",
 				"symbol": "ATA",
 				"decimals": 18
 			} , {
+				"id": "tether",
 				"enabled": true,
 				"address": "0x55d398326f99059fF775485246999027B3197955",
 				"name": "Tether USD",
