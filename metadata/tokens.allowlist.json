@@ -593,164 +593,143 @@
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"id": "ankr",
+				"id": "balancer",
 				"address": "0xba100000625a3754423978a60c9317c58a424e3D",
 				"name": "Balancer",
 				"symbol": "BAL",
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"id": "ankr",
-				"address": "0x720cd16b011b987da3518fbf38c3071d4f0d1495",
-				"name": "Flux",
-				"symbol": "FLUX",
-				"decimals": 8
-			} , {
-				"enabled": true,
-				"id": "ankr",
+				"id": "polymath",
 				"address": "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC",
 				"name": "Polymath",
 				"symbol": "POLY",
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"id": "ankr",
+				"id": "tribe-2",
 				"address": "0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B",
 				"name": "Tribe",
 				"symbol": "TRIBE",
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"id": "ankr",
-				"address": "0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B",
-				"name": "Trace",
-				"symbol": "TRAC",
-				"decimals": 18
-			} , {
-				"enabled": true,
-				"id": "ankr",
+				"id": "keep-network",
 				"address": "0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC",
 				"name": "KEEP Token",
 				"symbol": "KEEP",
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"id": "ankr",
-				"address": "0xe83cE6bfb580583bd6A62B4Be7b34fC25F02910D",
-				"name": "Wrapped ABBC",
-				"symbol": "WABBC",
-				"decimals": 8
-			} , {
-				"enabled": true,
-				"id": "ankr",
+				"id": "cdai",
 				"address": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
 				"name": "Compound Dai",
 				"symbol": "cDAI",
 				"decimals": 8
 			} , {
 				"enabled": true,
-				"id": "ankr",
+				"id": "iexec-rlc",
 				"address": "0x607F4C5BB672230e8672085532f7e901544a7375",
 				"name": "RLC",
 				"symbol": "RLC",
 				"decimals": 9
 			} , {
 				"enabled": true,
-				"id": "ankr",
+				"id": "api3",
 				"address": "0x0b38210ea11411557c13457D4dA7dC6ea731B88a",
 				"name": "API3",
 				"symbol": "API3",
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"id": "ankr",
+				"id": "staked-ether",
 				"address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
 				"name": "stETH",
 				"symbol": "stETH",
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"id": "ankr",
+				"id": "hex",
 				"address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
 				"name": "HEX",
 				"symbol": "HEX",
 				"decimals": 8
 			} , {
 				"enabled": true,
-				"id": "ankr",
+				"id": "frax",
 				"address": "0x853d955acef822db058eb8505911ed77f175b99e",
 				"name": "Frax",
 				"symbol": "FRAX",
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"id": "ankr",
-				"address": "0x3103dF8F05c4D8aF16fD22AE63E406b97FeC6938",
-				"name": "WQTUM",
-				"symbol": "WQTUM",
-				"decimals": 18
-			} , {
-				"enabled": true,
-				"id": "ankr",
+				"id": "bittorrent",
 				"address": "0xC669928185DbCE49d2230CC9B0979BE6DC797957",
 				"name": "BitTorrent",
 				"symbol": "BTT",
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"id": "ankr",
+				"id": "ftx-token",
 				"address": "0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9",
 				"name": "FTT",
 				"symbol": "FTX",
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"id": "ankr",
+				"id": "tether-gold",
 				"address": "0x68749665FF8D2d112Fa859AA293F07A622782F38",
 				"name": "Tether Gold",
 				"symbol": "XAUt",
 				"decimals": 6
 			} , {
 				"enabled": true,
-				"id": "ankr",
+				"id": "baby-doge-coin",
 				"address": "0xAC57De9C1A09FeC648E93EB98875B212DB0d460B",
 				"name": "Baby Doge Coin",
 				"symbol": "BabyDoge",
 				"decimals": 9
 			} , {
 				"enabled": true,
-				"id": "ankr",
+				"id": "defichain",
 				"address": "0x8Fc8f8269ebca376D046Ce292dC7eaC40c8D358A",
 				"name": "DeFiChain Token",
 				"symbol": "DFI",
 				"decimals": 8
 			} , {
 				"enabled": true,
-				"id": "ankr",
+				"id": "telcoin",
 				"address": "0x467bccd9d29f223bce8043b84e8c8b282827790f",
 				"name": "Telcoin",
 				"symbol": "TEL",
 				"decimals": 2
 			} , {
 				"enabled": true,
-				"id": "ankr",
+				"id": "stasis-eurs",
 				"address": "0xdB25f211AB05b1c97D595516F45794528a807ad8",
 				"name": "STASIS EURS Token",
 				"symbol": "EURS",
 				"decimals": 2
 			} , {
 				"enabled": true,
-				"id": "ankr",
+				"id": "metis-token",
 				"address": "0x9E32b13ce7f2E80A01932B42553652E053D6ed8e",
 				"name": "Metis Token",
 				"symbol": "METIS",
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"id": "ankr",
+				"id": "playdapp",
 				"address": "0x3a4f40631a4f906c2BaD353Ed06De7A5D3fCb430",
 				"name": "PlayDapp Token",
 				"symbol": "PLA",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "braintrust",
+				"address": "0x799ebfABE77a6E34311eeEe9825190B9ECe32824",
+				"name": "BTRST",
+				"symbol": "BTRST",
 				"decimals": 18
 
 			}]
