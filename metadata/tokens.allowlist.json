@@ -1266,7 +1266,7 @@
 			} , {
 				"enabled": true,
 				"id": "binancecoin",
-				"address": "0x044d078F1c86508e13328842Cc75AC021B272958",
+				"address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
 				"name": "BNB",
 				"symbol": "BNB",
 				"decimals": 18
