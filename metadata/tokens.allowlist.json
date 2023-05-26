@@ -845,66 +845,143 @@
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"id": "orbs",
-				"address": "0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA",
-				"name": "Orbs",
-				"symbol": "ORBS",
-				"decimals": 18
-			} , {
-				"enabled": true,
-				"id": "orbs",
+				"id": "request-network",
 				"address": "0x8f8221aFbB33998d8584A2B05749bA73c37a938a",
 				"name": "Request",
 				"symbol": "REQ",
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"id": "orbs",
+				"id": "covalent",
 				"address": "0xD417144312DbF50465b1C641d016962017Ef6240",
 				"name": "Covalent",
 				"symbol": "CQT",
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"id": "orbs",
+				"id": "power-ledger",
 				"address": "0x595832F8FC6BF59c85C527fEC3740A1b7a361269",
 				"name": "PowerLedger",
 				"symbol": "POWR",
 				"decimals": 6
 			} , {
 				"enabled": true,
-				"id": "orbs",
-				"address": "0x1985365e9f78359a9B6AD760e32412f4a445E862",
-				"name": "Reputation",
-				"symbol": "REP",
-				"decimals": 18
-			} , {
-				"enabled": true,
-				"id": "orbs",
+				"id": "metal",
 				"address": "0xF433089366899D83a9f26A773D59ec7eCF30355e",
 				"name": "Metal",
 				"symbol": "MTL",
 				"decimals": 8
 			} , {
 				"enabled": true,
-				"id": "orbs",
+				"id": "orchid-protocol",
 				"address": "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb",
 				"name": "Orchid",
 				"symbol": "OXT",
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"id": "orbs",
+				"id": "bancor",
 				"address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
 				"name": "Bancor",
 				"symbol": "BNT",
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"id": "orbs",
+				"id": "nucypher",
 				"address": "0x4fE83213D56308330EC302a8BD641f1d0113A4Cc",
 				"name": "NuCypher",
 				"symbol": "NU",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "fx-coin",
+				"address": "0x8c15Ef5b4B21951d50E53E4fbdA8298FFAD25057",
+				"name": "Function X",
+				"symbol": "FX",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "quark-chain",
+				"address": "0xEA26c4aC16D4a5A106820BC8AEE85fd0b7b2b664",
+				"name": "QuarkChain Token",
+				"symbol": "QKC",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "loom-network-new",
+				"address": "0x42476F744292107e34519F9c357927074Ea3F75D",
+				"name": "Loom Token",
+				"symbol": "LOOM",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "xyo-network",
+				"address": "0x55296f69f40Ea6d20E478533C15A6B08B654E758",
+				"name": "XY Oracle",
+				"symbol": "XYO",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "utrust",
+				"address": "0xdc9Ac3C20D1ed0B540dF9b1feDC10039Df13F99c",
+				"name": "Utrust Token",
+				"symbol": "UTK",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "aurora-dao",
+				"address": "0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE",
+				"name": "IDEX Token",
+				"symbol": "IDEX",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "ampleforth",
+				"address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
+				"name": "Ampleforth",
+				"symbol": "AMPL",
+				"decimals": 9
+			} , {
+				"enabled": true,
+				"id": "metadium",
+				"address": "0xDE2F7766C8BF14CA67193128535E5c7454f8387C",
+				"name": "Metadium",
+				"symbol": "META",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "arpa",
+				"address": "0xBA50933C268F567BDC86E1aC131BE072C6B0b71a",
+				"name": "ARPA Token",
+				"symbol": "ARPA",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "velas",
+				"address": "0x8C543AED163909142695f2d2aCd0D55791a9Edb9",
+				"name": "VLX",
+				"symbol": "VLX",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "mxc",
+				"address": "0x5Ca381bBfb58f0092df149bD3D243b08B9a8386e",
+				"name": "MXCToken",
+				"symbol": "MXC",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "mxc",
+				"address": "0x5Ca381bBfb58f0092df149bD3D243b08B9a8386e",
+				"name": "MXCToken",
+				"symbol": "MXC",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "melon",
+				"address": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
+				"name": "Melon Token",
+				"symbol": "MLN",
 				"decimals": 18
 
 
