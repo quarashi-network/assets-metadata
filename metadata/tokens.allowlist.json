@@ -727,7 +727,7 @@
 			} , {
 				"enabled": true,
 				"id": "braintrust",
-				"address": "0x29d578CEc46B50Fa5C88a99C6A4B70184C062953",
+				"address": "0x799ebfabe77a6e34311eeee9825190b9ece32824",
 				"name": "BTRST",
 				"symbol": "BTRST",
 				"decimals": 18
@@ -971,13 +971,6 @@
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"id": "mxc",
-				"address": "0x5Ca381bBfb58f0092df149bD3D243b08B9a8386e",
-				"name": "MXCToken",
-				"symbol": "MXC",
-				"decimals": 18
-			} , {
-				"enabled": true,
 				"id": "melon",
 				"address": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
 				"name": "Melon Token",
@@ -1046,6 +1039,349 @@
 				"name": "Propy",
 				"symbol": "PRO",
 				"decimals": 8
+			} , {
+				"enabled": true,
+				"id": "rook",
+				"address": "0xfa5047c9c78b8877af97bdcb85db743fd7313d4a",
+				"name": "ROOK",
+				"symbol": "ROOK",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "reserve",
+				"address": "0x196f4727526eA7FB1e17b2071B3d8eAA38486988",
+				"name": "Reserve",
+				"symbol": "RSV",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "measurable-data-token",
+				"address": "0x814e0908b12A99FeCf5BC101bB5d0b8B5cDf7d26",
+				"name": "Measurable Data Token",
+				"symbol": "MDT",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "ramp",
+				"address": "0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f",
+				"name": "RAMP DEFI",
+				"symbol": "RAMP",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "noia-network",
+				"address": "0xa8c8CfB141A3bB59FEA1E2ea6B79b5ECBCD7b6ca",
+				"name": "NOIA Token",
+				"symbol": "NOIA",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "cream-2",
+				"address": "0x2ba592F78dB6436527729929AAf6c908497cB200",
+				"name": "CREAM",
+				"symbol": "CREAM",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "presearch",
+				"address": "0xEC213F83defB583af3A000B1c0ada660b1902A0F",
+				"name": "Presearch",
+				"symbol": "PRE",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "streamr",
+				"address": "0x8f693ca8d21b157107184d29d398a8d082b38b76",
+				"name": "Streamr",
+				"symbol": "DATA",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "adex",
+				"address": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
+				"name": "AdEx Network",
+				"symbol": "ADX",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "bluzelle",
+				"address": "0x5732046A883704404F284Ce41FfADd5b007FD668",
+				"name": "Bluzelle",
+				"symbol": "BLZ",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "elastos",
+				"address": "0xe6fd75ff38Adca4B97FBCD938c86b98772431867",
+				"name": "ELA",
+				"symbol": "ELA",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "openanx",
+				"address": "0x701C244b988a513c945973dEFA05de933b23Fe1D",
+				"name": "OpenANX",
+				"symbol": "OAX",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "tellor",
+				"address": "0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0",
+				"name": "Tellor Tributes",
+				"symbol": "TRB",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "vite",
+				"address": "0xadd5E881984783dD432F80381Fb52F45B53f3e70",
+				"name": "Vite",
+				"symbol": "VITE",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "airswap",
+				"address": "0x27054b13b1B798B345b591a4d22e6562d47eA75a",
+				"name": "AirSwap",
+				"symbol": "AST",
+				"decimals": 4
+			} , {
+				"enabled": true,
+				"id": "proton",
+				"address": "0xD7EFB00d12C2c13131FD319336Fdf952525dA2af",
+				"name": "Proton",
+				"symbol": "XPR",
+				"decimals": 4
+			} , {
+				"enabled": true,
+				"id": "hackenai",
+				"address": "0x05Fb86775Fd5c16290f1E838F5caaa7342bD9a63",
+				"name": "Hacken Token",
+				"symbol": "HAI",
+				"decimals": 8
+			} , {
+				"enabled": true,
+				"id": "akropolis",
+				"address": "0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7",
+				"name": "Akropolis",
+				"symbol": "AKRO",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "vectorspace",
+				"address": "0x7D29A64504629172a429e64183D6673b9dAcbFCe",
+				"name": "VectorspaceAI",
+				"symbol": "VXV",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "parsiq",
+				"address": "0x362bc847A3a9637d3af6624EeC853618a43ed7D2",
+				"name": "Parsiq Token",
+				"symbol": "PRQ",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "phantasma",
+				"address": "0x75858677e27C930FB622759FeafFeE2b754Af07F",
+				"name": "Phantasma Stake",
+				"symbol": "SOUL",
+				"decimals": 8
+			} , {
+				"enabled": true,
+				"id": "district0x",
+				"address": "0x0AbdAce70D3790235af448C88547603b945604ea",
+				"name": "district0x",
+				"symbol": "DNT",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "divi",
+				"address": "0x246908BfF0b1ba6ECaDCF57fb94F6AE2FcD43a77",
+				"name": "Divi",
+				"symbol": "DIVI",
+				"decimals": 8
+			} , {
+				"enabled": true,
+				"id": "waltonchain",
+				"address": "0xb7cB1C96dB6B22b0D3d9536E0108d062BD488F74",
+				"name": "Walton",
+				"symbol": "WTC",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "pluton",
+				"address": "0xD8912C10681D8B21Fd3742244f44658dBA12264E",
+				"name": "Pluton",
+				"symbol": "PLU",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "polyswarm",
+				"address": "0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1",
+				"name": "Nectar",
+				"symbol": "NCT",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "pnetwork",
+				"address": "0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD",
+				"name": "pNetwork Token",
+				"symbol": "PNT",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "perlin",
+				"address": "0xeca82185adce47f39c684352b0439f030f860318",
+				"name": "Perlin",
+				"symbol": "PERL",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "student-coin",
+				"address": "0x15B543e986b8c34074DFc9901136d9355a537e7E",
+				"name": "Student Coin",
+				"symbol": "STC",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "pnetwork",
+				"address": "0x15B543e986b8c34074DFc9901136d9355a537e7E",
+				"name": "Student Coin",
+				"symbol": "STC",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "husd",
+				"address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
+				"name": "HUSD",
+				"symbol": "HUSD",
+				"decimals": 8
+			} , {
+				"enabled": true,
+				"id": "peercoin",
+				"address": "0x044d078F1c86508e13328842Cc75AC021B272958",
+				"name": "WrappedPeercoin",
+				"symbol": "wPPC",
+				"decimals": 6
+			} , {
+				"enabled": true,
+				"id": "binancecoin",
+				"address": "0x044d078F1c86508e13328842Cc75AC021B272958",
+				"name": "BNB",
+				"symbol": "BNB",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "my-neighbor-alice",
+				"address": "0xac51066d7bec65dc4589368da368b212745d63e8",
+				"name": "ALICE",
+				"symbol": "ALICE",
+				"decimals": 6
+			} , {
+				"enabled": true,
+				"id": "whitebit",
+				"address": "0x925206b8a707096Ed26ae47C84747fE0bb734F59",
+				"name": "WBT",
+				"symbol": "WBT",
+				"decimals": 8
+			} , {
+				"enabled": true,
+				"id": "illuvium",
+				"address": "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E",
+				"name": "Illuvium",
+				"symbol": "ILV",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "bitget-token",
+				"address": "0x19de6b897ed14a376dda0fe53a5420d2ac828a28",
+				"name": "BitgetToken",
+				"symbol": "BGB",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "dao-maker",
+				"address": "0x0f51bb10119727a7e5eA3538074fb341F56B09Ad",
+				"name": "DAO Maker",
+				"symbol": "DAO",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "multichain",
+				"address": "0x65ef703f5594d2573eb71aaf55bc0cb548492df4",
+				"name": "Multichain",
+				"symbol": "MULTI",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "lukso-token",
+				"address": "0xa8b919680258d369114910511cc87595aec0be6d",
+				"name": "LUKSO",
+				"symbol": "LYXe",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "liquity-usd",
+				"address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+				"name": "LUSD Stablecoin",
+				"symbol": "LUSD",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "mx-token",
+				"address": "0x11eeF04c884E24d9B7B4760e7476D06ddF797f36",
+				"name": "MX Token",
+				"symbol": "MX",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "skale",
+				"address": "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7",
+				"name": "SKALE",
+				"symbol": "SKL",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "ssv-network",
+				"address": "0x9d65ff81a3c488d585bbfb0bfe3c7707c7917f54",
+				"name": "SSV Token",
+				"symbol": "SSV",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "merit-circle",
+				"address": "0x949d48eca67b17269629c7194f4b727d4ef9e5d6",
+				"name": "Merit Circle",
+				"symbol": "MC",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "threshold-network-token",
+				"address": "0xCdF7028ceAB81fA0C6971208e83fa7872994beE5",
+				"name": "Threshold Network Token",
+				"symbol": "T",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "pundi-x-2",
+				"address": "0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38",
+				"name": "Pundi X Token",
+				"symbol": "PUNDIX",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "hashflow",
+				"address": "0xb3999F658C0391d94A37f7FF328F3feC942BcADC",
+				"name": "Hashflow",
+				"symbol": "HFT",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "harmony",
+				"address": "0x799a4202c12ca952cB311598a024C80eD371a41e",
+				"name": "HarmonyOne",
+				"symbol": "ONE",
+				"decimals": 18
 
 
 			}]
