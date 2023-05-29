@@ -1456,6 +1456,114 @@
 				"name": "Tether USD",
 				"symbol": "USDT",
 				"decimals": 6
+			} , {
+				"enabled": true,
+				"address": "0x50B728D8D964fd00C2d0AAD81718b71311feF68a",
+				"name": "Synthetix Network Token",
+				"symbol": "SNX",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
+				"name": "SushiToken",
+				"symbol": "SUSHI",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x8765f05ADce126d70bcdF1b0a48Db573316662eB",
+				"name": "PlayDapp Token",
+				"symbol": "PLA",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x9fB83c0635De2E815fd1c21b3a292277540C2e8d",
+				"name": "Binance USD",
+				"symbol": "BUSD",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+				"name": "USDC Coin",
+				"symbol": "USDC",
+				"decimals": 6
+			} , {
+				"enabled": true,
+				"address": "0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3",
+				"name": "BNB",
+				"symbol": "BNB",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x6f8a06447Ff6FcF75d803135a7de15CE88C1d4ec",
+				"name": "SHIBA INU",
+				"symbol": "SHIB",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
+				"name": "Avalanche Token",
+				"symbol": "AVAX",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+				"name": "Dai Stablecoin",
+				"symbol": "DAI",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+				"name": "Wrapped BTC",
+				"symbol": "WBTC",
+				"decimals": 8
+			} , {
+				"enabled": true,
+				"address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
+				"name": "Uniswap",
+				"symbol": "UNI",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x06D02e9D62A13fC76BB229373FB3BBBD1101D2fC",
+				"name": "Bitfinex LEO Token",
+				"symbol": "LEO",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0xC3C7d422809852031b44ab29EEC9F1EfF2A58756",
+				"name": "Lido DAO Token",
+				"symbol": "LDO",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0xC3C7d422809852031b44ab29EEC9F1EfF2A58756",
+				"name": "Lido DAO Token",
+				"symbol": "LDO",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0xac51C4c48Dc3116487eD4BC16542e27B5694Da1b",
+				"name": "Cosmos",
+				"symbol": "ATOM",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756",
+				"name": "TrueUSD",
+				"symbol": "TUSD",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x5fe2B58c013d7601147DcdD68C143A77499f5531",
+				"name": "Graph Token",
+				"symbol": "GRT",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89",
+				"name": "Frax Token",
+				"symbol": "FRAX",
+				"decimals": 18
 			}]
 		}
 	},
