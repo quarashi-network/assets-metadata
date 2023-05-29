@@ -3371,74 +3371,46 @@
 		"tokens": {
 			"allowlist": [{
 				"enabled": true,
-				"id": "boba-network",
-				"address": "0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7",
-				"name": "BOBA",
-				"symbol": "BOBA",
-				"decimals": 18
-			} , {
-				"enabled": true,
 				"id": "tether",
-				"address": "0x5DE1677344D3Cb0D7D465c10b72A8f60699C062d",
+				"address": "0xfe97e85d13abd9c1c33384e796f10b73905637ce",
 				"name": "Tether",
 				"symbol": "USDT",
 				"decimals": 6
 			} , {
 				"enabled": true,
+				"id": "ethereum",
+				"address": "0xa47f43de2f9623acb395ca4905746496d2014d57",
+				"name": "Ethereum",
+				"symbol": "ETH",
+				"decimals": 18
+			} , {
+				"enabled": true,
 				"id": "wbnb",
-				"address": "0x68ac1623ACf9eB9F88b65B5F229fE3e2c0d5789e",
+				"address": "0x94bd7a37d2ce24cc597e158facaa8d601083ffec",
 				"name": "BNB",
 				"symbol": "BNB",
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"id": "wmatic",
-				"address": "0x26b664736217407E0FA252b4578DB23B1E3819F3",
-				"name": "MATIC",
-				"symbol": "MATIC",
+				"id": "wrapped-bitcoin",
+				"address": "0x94bd7a37d2ce24cc597e158facaa8d601083ffec",
+				"name": "Wrapped Bitcoin",
+				"symbol": "WTC",
+				"decimals": 8
+			} , {
+				"enabled": true,
+				"id": "floki",
+				"address": "0x9b36f165bab9ebe611d491180418d8de4b8f3a1f",
+				"name": "FLOKI",
+				"symbol": "FLOKI",
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"id": "binance-usd",
-				"address": "0x352F2Fdf653A194B42e3311f869237c66309b69E",
-				"name": "Binance USD",
-				"symbol": "BUSD",
-				"decimals": 18
-			} , {
-				"enabled": true,
-				"id": "uniswap",
-				"address": "0xDBDE1347fED5dC03C74059010D571a16417d307e",
-				"name": "Uniswap",
-				"symbol": "UNI",
-				"decimals": 18
-			} , {
-				"enabled": true,
-				"id": "chainlink",
-				"address": "0xD5D5030831eE83e22a2C9a5cF99931A50c676433",
-				"name": "ChainLink",
-				"symbol": "LINK",
-				"decimals": 18
-			} , {
-				"enabled": true,
-				"id": "sushi",
-				"address": "0x5fFccc55C0d2fd6D3AC32C26C020B3267e933F1b",
-				"name": "SushiToken",
-				"symbol": "SUSHI",
-				"decimals": 18
-			} , {
-				"enabled": true,
-				"id": "omisego",
-				"address": "0xe1E2ec9a85C607092668789581251115bCBD20de",
-				"name": "OMG Token",
-				"symbol": "OMG",
-				"decimals": 18
-			} , {
-				"enabled": true,
-				"id": "dodo",
-				"address": "0x572c5B5BF34f75FB62c39b9BFE9A75bb0bb47984",
-				"name": "DODO",
-				"symbol": "DODO",
-				"decimals": 18
+				"id": "usd-coin",
+				"address": "0x6963efed0ab40f6c3d7bda44a05dcf1437c44372",
+				"name": "USDC Coin",
+				"symbol": "USDC",
+				"decimals": 6
 			}]
 		}
 	},
