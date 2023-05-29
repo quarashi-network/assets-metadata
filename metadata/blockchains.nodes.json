@@ -19,7 +19,7 @@
 				"enabled": true,
 				"url": "https://1rpc.io/eth"
 			} , {
-				"enabled": false,
+				"enabled": true,
 				"url": "https://nodes.quarashi.network/eth"
 			}]
 		},
@@ -445,6 +445,10 @@
 			"rpc": [{
 				"enabled": true,
 				"url": "https://rpc.pulsechain.com"
+			}],
+			"wss": [{
+				"enabled": true,
+				"url": "wss://ws.pulsechain.com"
 			}]
 		}
 	},
