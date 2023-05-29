@@ -2670,63 +2670,66 @@
 		"tokens": {
 			"allowlist": [{
 				"enabled": true,
+				"id": "celo-dollar",
 				"address": "0x765de816845861e75a25fca122bb6898b8b1282a",
 				"name": "Celo Dollar",
 				"symbol": "cUSD",
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "tether",
 				"address": "0x617f3112bf5397D0467D315cC709EF968D9ba546",
 				"name": "Tether",
 				"symbol": "USDT",
 				"decimals": 6
 			} , {
 				"enabled": true,
+				"id": "mimatic",
 				"address": "0xB9C8F0d3254007eE4b98970b94544e473Cd610EC",
 				"name": "Mai Stablecoin",
 				"symbol": "MAI",
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "sushi",
 				"address": "0x29dFce9c22003A4999930382Fd00f9Fd6133Acd1",
 				"name": "SushiToken",
 				"symbol": "SUSHI",
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "usd-coin",
 				"address": "0xef4229c8c3250C675F21BCefa42f58EfbfF6002a",
 				"name": "USD Coin",
 				"symbol": "USDC",
 				"decimals": 6
 			} , {
 				"enabled": true,
-				"address": "0x32A9FE697a32135BFd313a6Ac28792DaE4D9979d",
-				"name": "cMCO2",
-				"symbol": "cMCO2",
-				"decimals": 18
-			} , {
-				"enabled": true,
+				"id": "wrapped-bitcoin",
 				"address": "0xD629eb00dEced2a080B7EC630eF6aC117e614f1b",
 				"name": "Wrapped Bitcoin",
 				"symbol": "WBTC",
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "resource-protocol",
 				"address": "0x74c0C58B99b68cF16A717279AC2d056A34ba2bFe",
 				"name": "Source",
 				"symbol": "SOURCE",
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "weth",
 				"address": "0x122013fd7dF1C6F636a5bb8f03108E876548b455",
 				"name": "Wrapped Ether",
 				"symbol": "WETH",
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"address": "0x122013fd7dF1C6F636a5bb8f03108E876548b455",
-				"name": "Wrapped Ether",
-				"symbol": "WETH",
+				"id": "ubeswap",
+				"address": "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC",
+				"name": "Ubeswap",
+				"symbol": "UBE",
 				"decimals": 18
 			}]
 		}
