@@ -2250,6 +2250,87 @@
 				"name": "USD Coin",
 				"symbol": "USDC",
 				"decimals": 6
+			} , {
+				"enabled": true,
+				"id": "arbitrum",
+				"address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+				"name": "Arbitrum",
+				"symbol": "ARB",
+				"decimals": 18
+
+
+
+
+			} , {
+				"enabled": true,
+				"id": "usd-coin",
+				"address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+				"name": "Dai Stablecoin",
+				"symbol": "DAI",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "usd-coin",
+				"address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+				"name": "Dai Stablecoin",
+				"symbol": "DAI",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "usd-coin",
+				"address": "0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0",
+				"name": "Uniswap",
+				"symbol": "UNI",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "usd-coin",
+				"address": "0x0D81E50bC677fa67341c44D7eaA9228DEE64A4e1",
+				"name": "BarnBridge Governance Token",
+				"symbol": "BOND",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "usd-coin",
+				"address": "0x23A941036Ae778Ac51Ab04CEa08Ed6e2FE103614",
+				"name": "Graph Token",
+				"symbol": "GRT",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "usd-coin",
+				"address": "0xaE6aab43C4f3E0cea4Ab83752C278f8dEbabA689",
+				"name": "dForce",
+				"symbol": "DF",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "usd-coin",
+				"address": "0x51fC0f6660482Ea73330E414eFd7808811a57Fa2",
+				"name": "PREMIA",
+				"symbol": "PREMIA",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "usd-coin",
+				"address": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+				"name": "FRAX",
+				"symbol": "FRAX",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "usd-coin",
+				"address": "0x5298060A95205BE6Dd4aBc21910A4bB23D6DCD8b",
+				"name": "ROUTE",
+				"symbol": "ROUTE",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "usd-coin",
+				"address": "0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978",
+				"name": "Curve DAO Token",
+				"symbol": "CRV",
+				"decimals": 18
 			}]
 		}
 	},
@@ -2333,7 +2414,7 @@
 			} , {
 				"enabled": true,
 				"id": "weth",
-				"address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
+				"address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
 				"name": "Wrapped Ethereum",
 				"symbol": "WETH",
 				"decimals": 18
