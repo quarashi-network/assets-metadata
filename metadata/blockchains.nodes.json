@@ -130,6 +130,9 @@
 		"nodes": {
 			"rpc": [{
 				"enabled": true,
+				"url": "https://nodes.quarashi.network/bsc"
+			} , {
+				"enabled": true,
 				"url": "https://bsc-dataseed.binance.org"
 			} , {
 				"enabled": true,
@@ -152,9 +155,6 @@
 			} , {
 				"enabled": true,
 				"url": "https://1rpc.io/bnb"
-			} , {
-				"enabled": true,
-				"url": "https://nodes.quarashi.network/bsc"
 			}]
 		},
 		"testnet": {
