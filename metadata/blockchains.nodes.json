@@ -642,10 +642,16 @@
 		"nodes": {
 			"rpc": [{
 				"enabled": true,
-				"url": "https://avalanche.public-rpc.com"
+				"url": "https://api.avax.network/ext/bc/C/rpc"
+			} , {
+				"enabled": true,
+				"url": "https://avalanche-c-chain.publicnode.com"
 			} , {
 				"enabled": true,
 				"url": "https://rpc.ankr.com/avalanche"
+			} , {
+				"enabled": true,
+				"url": "https://1rpc.io/avax/c"
 			} , {
 				"enabled": true,
 				"url": "https://nodes.quarashi.network/avalanche"
