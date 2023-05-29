@@ -188,7 +188,7 @@
 		"id": 369,
 		"name": "PulseChain",
 		"urls": ["https://pulsechain.com"],
-		"explorers": ["https://otter.pulsechain.com"]
+		"explorers": ["https://otter.pulsechain.com", "https://beacon.pulsechain.com", "https://scan.pulsechain.com"]
 	},
 	"1030": {
 		"enabled": true,
