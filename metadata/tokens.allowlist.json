@@ -2515,7 +2515,7 @@
 				"id": "yearn-finance",
 				"address": "0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc",
 				"name": "yearn.finance",
-				"symbol": "YFI.e",
+				"symbol": "YFI",
 				"decimals": 18
 			}]
 		}
