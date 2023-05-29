@@ -2139,6 +2139,7 @@
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "beefy-finance",
 				"address": "0xd6070ae98b8069de6B494332d1A1a81B6179D960",
 				"name": "Beefy.Finance",
 				"symbol": "BIFI",
@@ -2273,16 +2274,249 @@
 		"tokens": {
 			"allowlist": [{
 				"enabled": true,
+				"id": "tether",
 				"address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
 				"name": "Tether USDT",
 				"symbol": "USDT",
 				"decimals": 6
 			} , {
 				"enabled": true,
+				"id": "usd-coin",
 				"address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
 				"name": "USD Coin",
 				"symbol": "USDC",
 				"decimals": 6
+			} , {
+				"enabled": true,
+				"id": "cartesi",
+				"address": "0x6b289CCeAA8639e3831095D75A3e43520faBf552",
+				"name": "Cartesi",
+				"symbol": "CTSI",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "the-graph",
+				"address": "0x8a0cAc13c7da965a312f08ea4229c37869e85cB9",
+				"name": "Graph",
+				"symbol": "GRT",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "aave",
+				"address": "0x8cE2Dee54bB9921a2AE0A63dBb2DF8eD88B91dD9",
+				"name": "Aave",
+				"symbol": "AAVE",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "binance-usd",
+				"address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+				"name": "BUSD",
+				"symbol": "BUSD",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "weth",
+				"address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
+				"name": "Wrapped Ethereum",
+				"symbol": "WETH",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "gmx",
+				"address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
+				"name": "GMX",
+				"symbol": "GMX",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "bilira",
+				"address": "0x564A341Df6C126f90cf3ECB92120FD7190ACb401",
+				"name": "BiLira",
+				"symbol": "TRYB",
+				"decimals": 6
+			} , {
+				"enabled": true,
+				"id": "defi-yield-protocol",
+				"address": "0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",
+				"name": "DeFiYieldProtocol",
+				"symbol": "DYP",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "alpha-finance",
+				"address": "0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f",
+				"name": "AlphaToken",
+				"symbol": "ALPHA.e",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "basic-attention-token",
+				"address": "0x98443B96EA4b0858FDF3219Cd13e98C7A4690588",
+				"name": "Basic Attention Token",
+				"symbol": "BAT.e",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "benqi",
+				"address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+				"name": "BENQI",
+				"symbol": "QI",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "avalaunch",
+				"address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
+				"name": "Avalaunch",
+				"symbol": "XAVA",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "frax",
+				"address": "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
+				"name": "Frax",
+				"symbol": "FRAX",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "frax-share",
+				"address": "0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454",
+				"name": "Frax Share",
+				"symbol": "FXS",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "dai",
+				"address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+				"name": "Dai Stablecoin",
+				"symbol": "DAI",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "wrapped-avax",
+				"address": "0xd6070ae98b8069de6B494332d1A1a81B6179D960",
+				"name": "beefy.finance",
+				"symbol": "BIFI",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "1inch",
+				"address": "0xd501281565bf7789224523144Fe5D98e8B28f267",
+				"name": "1INCH Token",
+				"symbol": "1INCH",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "ice-token",
+				"address": "0xe0Ce60AF0850bF54072635e66E79Df17082A1109",
+				"name": "IceToken",
+				"symbol": "ICE",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "chainlink",
+				"address": "0x5947BB275c521040051D82396192181b413227A3",
+				"name": "Chainlink",
+				"symbol": "LINK.e",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "magic-internet-money",
+				"address": "0x130966628846BFd36ff31a822705796e8cb8C18D",
+				"name": "Magic Internet Money",
+				"symbol": "MIM",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "mimatic",
+				"address": "0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e",
+				"name": "MAI",
+				"symbol": "miMatic",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "new-order",
+				"address": "0x4Bfc90322dD638F81F034517359BD447f8E0235a",
+				"name": "New Order",
+				"symbol": "NEWO",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "orbs",
+				"address": "0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A",
+				"name": "Orbs",
+				"symbol": "ORBS",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "oasis-network",
+				"address": "0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A",
+				"name": "Wrapped ROSE",
+				"symbol": "wROSE",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "spell-token",
+				"address": "0xCE1bFFBD5374Dac86a2893119683F4911a2F7814",
+				"name": "Spell Token",
+				"symbol": "SPELL",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "sushi",
+				"address": "0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc",
+				"name": "SushiToken",
+				"symbol": "SUSHI",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "true-usd",
+				"address": "0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB",
+				"name": "TrueUSD",
+				"symbol": "TUSD",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "uniswap",
+				"address": "0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580",
+				"name": "Uniswap",
+				"symbol": "UNI.e",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "vector-finance",
+				"address": "0x5817D4F0b62A59b17f75207DA1848C2cE75e7AF4",
+				"name": "VECTOR",
+				"symbol": "VTX",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "wrapped-bitcoin",
+				"address": "0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB",
+				"name": "Wrapped BTC",
+				"symbol": "WBTC",
+				"decimals": 8
+			} , {
+				"enabled": true,
+				"id": "wirex",
+				"address": "0xfcDe4A87b8b6FA58326BB462882f1778158B02F1",
+				"name": "Wirex",
+				"symbol": "WXT",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "woo-network",
+				"address": "0xaBC9547B534519fF73921b1FBA6E672b5f58D083",
+				"name": "Wootrade Network",
+				"symbol": "WOO.e",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "yearn-finance",
+				"address": "0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc",
+				"name": "yearn.finance",
+				"symbol": "YFI.e",
+				"decimals": 18
 			}]
 		}
 	}
