@@ -54,14 +54,14 @@
 	"56": {
 		"enabled": true,
 		"id": 56,
-		"name": "Binance Smart Chain",
+		"name": "BNB Smart Chain",
 		"urls": ["https://bnbchain.org"],
 		"explorers": ["https://bscscan.com"],
 		"testnet": {
 			"97": {
 				"enabled": false,
 				"id": 97,
-				"name": "Binance Smart Chain Testnet",
+				"name": "BNB Smart Chain Testnet",
 				"explorers": ["https://testnet.bscscan.com"]
 			}
 		}
@@ -287,7 +287,7 @@
 	"43114": {
 		"enabled": true,
 		"id": 43114,
-		"name": "Avalanche",
+		"name": "Avalanche C-Chain",
 		"urls": ["https://avax.network"],
 		"explorers": ["https://snowtrace.io"]
 	},
