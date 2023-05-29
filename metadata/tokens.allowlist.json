@@ -2851,5 +2851,61 @@
 				"decimals": 18
 			}]
 		}
-	}
+	},
+	"1313161554": {
+		"id": 1313161554,
+		"name": "Aurora",
+		"tokens": {
+			"allowlist": [{
+				"id": "aurora-near",
+				"enabled": true,
+				"address": "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+				"name": "Aurora",
+				"symbol": "AURORA",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "tether",
+				"address": "0x4988a896b1227218e4A686fdE5EabdcAbd91571f",
+				"name": "Tether",
+				"symbol": "USDT.e",
+				"decimals": 6
+			} , {
+				"id": "weth",
+				"enabled": true,
+				"address": "0xc9bdeed33cd01541e1eed10f90519d2c06fe3feb",
+				"name": "Wrapped Ether",
+				"symbol": "WETH",
+				"decimals": 18
+			} , {
+				"id": "bastion-protocol",
+				"enabled": true,
+				"address": "0x9f1F933C660a1DC856F0E0Fe058435879c5CCEf0",
+				"name": "Bastion",
+				"symbol": "BSTN",
+				"decimals": 18
+			} , {
+				"id": "dai",
+				"enabled": true,
+				"address": "0xe3520349f477a5f6eb06107066048508498a291b",
+				"name": "Dai Stablecoin",
+				"symbol": "DAI",
+				"decimals": 18
+			} , {
+				"id": "usd-coin",
+				"enabled": true,
+				"address": "0xb12bfca5a55806aaf64e99521918a4bf0fc40802",
+				"name": "USDC",
+				"symbol": "USDC.e",
+				"decimals": 6
+			} , {
+				"id": "wrapped-bitcoin",
+				"enabled": true,
+				"address": "0xf4eb217ba2454613b15dbdea6e5f22276410e89e",
+				"name": "Wrapped BTC",
+				"symbol": "WBTC",
+				"decimals": 8
+			}]
+		}
+	},
 }
