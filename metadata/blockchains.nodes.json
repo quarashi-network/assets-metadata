@@ -545,6 +545,28 @@
 			}]
 		}
 	},
+	"32769": {
+		"id": 32769,
+		"name": "Zilliqa EVM",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://api.zilliqa.com"
+			}]
+		},
+		"testnet": {
+			"33101": {
+				"id": 33101,
+				"name": "Zilliqa EVM Testnet",
+				"nodes": {
+					"rpc": [{
+						"enabled": true,
+						"url": "https://dev-api.zilliqa.com"
+					}]
+				}
+			}
+		}
+	},
 	"42161": {
 		"id": 42161,
 		"name": "Arbitrum One",
@@ -638,7 +660,7 @@
 	},
 	"43114": {
 		"id": 43114,
-		"name": "Avalanche",
+		"name": "Avalanche C-Chain",
 		"nodes": {
 			"rpc": [{
 				"enabled": true,

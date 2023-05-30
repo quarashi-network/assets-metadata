@@ -1565,7 +1565,7 @@
 				"address": "0x1a8E39ae59e5556B56b76fCBA98d22c9ae557396",
 				"name": "Dogecoin",
 				"symbol": "DOGE",
-				"decimals": 8	
+				"decimals": 8
 			} , {
 				"enabled": true,
 				"id": "matic-network",
@@ -1579,7 +1579,7 @@
 				"address": "0x994047FE66406CbD646cd85B990E11D7F5dB8fC7",
 				"name": "Polkadot",
 				"symbol": "DOT",
-				"decimals": 10	
+				"decimals": 10
 			} , {
 				"enabled": true,
 				"id": "shiba-inu",
@@ -1593,7 +1593,7 @@
 				"address": "0x062E66477Faf219F25D27dCED647BF57C3107d52",
 				"name": "Wrapped Bitcoin",
 				"symbol": "WBTC",
-				"decimals": 8	
+				"decimals": 8
 			} , {
 				"enabled": true,
 				"id": "chainlink",
@@ -1607,7 +1607,7 @@
 				"address": "0x747d6C858168B8cD6e537160320b5dE58FD3367C",
 				"name": "Stellar",
 				"symbol": "XLM",
-				"decimals": 7	
+				"decimals": 7
 			} , {
 				"enabled": true,
 				"id": "curve-dao-token",
@@ -1621,7 +1621,7 @@
 				"address": "0x0A92ea8a197919aCb9BC26660Ed0D43D01ed26b7",
 				"name": "Enjin Coin",
 				"symbol": "ENJ",
-				"decimals": 18	
+				"decimals": 18
 			} , {
 				"enabled": true,
 				"id": "true-usd",
@@ -1635,7 +1635,7 @@
 				"address": "0x2D03bECE6747ADC00E1a131BBA1469C15fD11e03",
 				"name": "VVS Finance",
 				"symbol": "VVS",
-				"decimals": 18	
+				"decimals": 18
 			} , {
 				"enabled": true,
 				"id": "pendle",
@@ -1649,14 +1649,14 @@
 				"address": "0xa58e3AeAeA3292c3E260378e55E9684C59E7A27a",
 				"name": "DappRadar",
 				"symbol": "RADAR",
-				"decimals": 18	
+				"decimals": 18
 			} , {
 				"enabled": true,
 				"id": "mmfinance",
 				"address": "0x97749c9B61F878a880DfE312d2594AE07AEd7656",
 				"name": "MMFinance (Cronos)",
 				"symbol": "MMF",
-				"decimals": 18		
+				"decimals": 18
 			} , {
 				"enabled": true,
 				"id": "cronos-id",
@@ -1677,16 +1677,16 @@
 				"address": "0x10C9284E6094b71D3CE4E38B8bFfc668199da677",
 				"name": "Mimas Finance",
 				"symbol": "MIMAS",
-				"decimals": 18 		  		
-		    } , {
+				"decimals": 18
+			} , {
 				"enabled": true,
 				"id": "elk-finance",
 				"address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
 				"name": "Elk Finance",
 				"symbol": "ELK",
-				"decimals":	18 		  		
-							
-										
+				"decimals":	18
+
+
 			}]
 		}
 	},
@@ -1965,7 +1965,7 @@
 				"address": "0xe48A3d7d0Bc88d552f730B62c006bC925eadB9eE",
 				"name": "Frax Share",
 				"symbol": "fxs",
-			    "decimals": 18
+				"decimals": 18
 			} , {
 				"enabled": true,
 				"id": "axie-infinity",
@@ -1986,7 +1986,7 @@
 				"address": "0x5f0Da599BB2ccCfcf6Fdfd7D81743B6020864350",
 				"name": "Maker",
 				"symbol": "mkr",
-				"decimals": 18 
+				"decimals": 18
 			} , {
 				"enabled": true,
 				"id": "dextools",
@@ -2120,7 +2120,7 @@
 				"name": "MAI",
 				"symbol": "mimatic",
 				"decimals": 18
-			 } , {
+			} , {
 				"enabled": true,
 				"id": "zcash",
 				"address": "0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb",
@@ -2148,7 +2148,7 @@
 				"name": "Refinable",
 				"symbol": "fine",
 				"decimals": 18
-		    } , {
+			} , {
 				"enabled": true,
 				"id": "litentry",
 				"address": "0xb59490aB09A0f526Cc7305822aC65f2Ab12f9723",
@@ -2183,7 +2183,7 @@
 				"name": "yearn.finance",
 				"symbol": "yfi",
 				"decimals": 18
-		    } , {
+			} , {
 				"enabled": true,
 				"id": "binance-peg-iotex",
 				"address": "0x9678E42ceBEb63F23197D726B29b1CB20d0064E5",
@@ -2232,7 +2232,7 @@
 				"name": "Cartesi",
 				"symbol": "ctsi",
 				"decimals": 18
-			 } , {
+			} , {
 				"enabled": true,
 				"id": "space-id",
 				"address": "0x2dfF88A56767223A5529eA5960Da7A3F5f766406",
@@ -2852,23 +2852,23 @@
 		}
 	},
 	"57": {
- 	 "id": 57,
-        "name": "Syscoin",
-        "tokens": {
-            "allowlist": [{
-                "id": "tether",
-                "enabled": true,
-                "address": "0x922D641a426DcFFaeF11680e5358F34d97d112E1",
-                "name": "Tether",
-                "symbol": "usdt",
-                "decimals": 6
-            } , {
-                "enabled": true,
-                "id": "usd-coin",
-                "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
-                "name": "USD Coin",
-                "symbol": "USDC",
-                "decimals": 6
+		"id": 57,
+		"name": "Syscoin",
+		"tokens": {
+			"allowlist": [{
+				"id": "tether",
+				"enabled": true,
+				"address": "0x922D641a426DcFFaeF11680e5358F34d97d112E1",
+				"name": "Tether",
+				"symbol": "usdt",
+				"decimals": 6
+			} , {
+				"enabled": true,
+				"id": "usd-coin",
+				"address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
+				"name": "USD Coin",
+				"symbol": "USDC",
+				"decimals": 6
 			}]
 		}
 	},
@@ -2895,287 +2895,287 @@
 	"88": {
 		"id": 88,
 		"name": "TomoChain",
-		 "tokens": {
-            "allowlist": [{
-                "id": "tether",
-                "enabled": true,
-                "address": "0x381b31409e4d220919b2cff012ed94d70135a59e",
-                "name": "Tether",
-                "symbol": "usdt",
-                "decimals": 6
-            } , {
-                "enabled": true,
-                "id": "usd-coin",
-                "address": "0xcca4e6302510d555b654b3eab9c0fcb223bcfdf0",
-                "name": "USD Coin",
-                "symbol": "USDC",
-                "decimals": 6
-            } , {
-                "id": "wrapped-bitcoin",
-                "enabled": true,
-                "address": "0x503B2dDc059b81788FD1239561596614b27fAADE",
-                "name": "Wrapped Bitcoin",
-                "symbol": "WBTC",
-                "decimals": 8
-            } , {
-                "id": "ethereum",
-                "enabled": true,
-                "address": "0x2EAA73Bd0db20c64f53fEbeA7b5F5E5Bccc7fb8b",
-                "name": "Ethereum",
-                "symbol": "ETH",
-                "decimals": 18
+		"tokens": {
+			"allowlist": [{
+				"id": "tether",
+				"enabled": true,
+				"address": "0x381b31409e4d220919b2cff012ed94d70135a59e",
+				"name": "Tether",
+				"symbol": "usdt",
+				"decimals": 6
+			} , {
+				"enabled": true,
+				"id": "usd-coin",
+				"address": "0xcca4e6302510d555b654b3eab9c0fcb223bcfdf0",
+				"name": "USD Coin",
+				"symbol": "USDC",
+				"decimals": 6
+			} , {
+				"id": "wrapped-bitcoin",
+				"enabled": true,
+				"address": "0x503B2dDc059b81788FD1239561596614b27fAADE",
+				"name": "Wrapped Bitcoin",
+				"symbol": "WBTC",
+				"decimals": 8
+			} , {
+				"id": "ethereum",
+				"enabled": true,
+				"address": "0x2EAA73Bd0db20c64f53fEbeA7b5F5E5Bccc7fb8b",
+				"name": "Ethereum",
+				"symbol": "ETH",
+				"decimals": 18
 			}]
 		}
 	},
 	"100": {
 		"id": 100,
-        "name": "Gnosis",
-        "tokens": {
-            "allowlist": [{
-                "id": "tether",
-                "enabled": true,
-                "address": "0x4ECaBa5870353805a9F068101A40E0f32ed605C6",
-                "name": "Tether",
-                "symbol": "USDT",
-                "decimals": 6
-            } , {
-                "enabled": true,
-                "id": "usd-coin",
-                "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
-                "name": "USD Coin",
-                "symbol": "USDC",
-                "decimals": 6
-            } , {
-                "id": "uniswap",
-                "enabled": true,
-                "address": "0x4537e328Bf7e4eFA29D05CAeA260D7fE26af9D74",
-                "name": "Uniswap",
-                "symbol": "UNI",
-                "decimals": 18
-            } , {
-                "id": "matic-network",
-                "enabled": true,
-                "address": "0x7122d7661c4564b7C6Cd4878B06766489a6028A2",
-                "name": "Polygon",
-                "symbol": "MATIC",
-                "decimals": 18
-            } , {
-                "id": "chainlink",
-                "enabled": true,
-                "address": "0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2",
-                "name": "Chainlink",
-                "symbol": "LINK",
-                "decimals": 18
-            } , {
-                "id": "rocket-pool",
-                "enabled": true,
-                "address": "0x2F0E755Efe6b58238A67DB420Ff3513Ec1fb31eF",
-                "name": "RPL",
-                "symbol": "Rocket Pool",
-                "decimals": 18
-            } , {
-                "id": "badger-dao",
-                "enabled": true,
-                "address": "0xdfc20AE04ED70bd9c7D720F449eEDAe19F659D65",
-                "name": "Badger DAO",
-                "symbol": "BADGER",
-                "decimals": 18
-            } , {
-                "enabled": true,
-                "id": "streamr",
-                "address": "0x256eb8a51f382650B2A1e946b8811953640ee47D",
-                "name": "Streamr",
-                "symbol": "DATA",
-                "decimals": 18
-            } , {
-                "id": "dxdao",
-                "enabled": true,
-                "address": "0xb90D6bec20993Be5d72A5ab353343f7a0281f158",
-                "name": "DXdao",
-                "symbol": "DXD",
-                "decimals": 18
-            } , { 
-                "id": "etherisc",
-                "enabled": true,
-                "address": "0xD3D47d5578e55C880505dC40648F7F9307C3e7A8",
-                "name": "Etherisc DIP",
-                "symbol": "DPI",
-                "decimals": 18
-            } , {
-                "id": "defipulse-index",
-                "enabled": true,
-                "address": "0x48b1B0d077b4919b65b4E4114806dD803901E1D9",
-                "name": "DeFi Pulse Index",
-                "symbol": "DIP",
-                "decimals": 18
-            } , {
-                "id": "weth",
-                "enabled": true,
-                "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
-                "name": "WETH",
-                "symbol": "WETH",
-                "decimals": 18
-            } , {
-                "enabled": true,
-                "id": "hopr",
-                "address": "0xD057604A14982FE8D88c5fC25Aac3267eA142a08",
-                "name": "HOPR",
-                "symbol": "HOPR",
-                "decimals": 18
-            } , {
-                "id": "jarvis-reward-token",
-                "enabled": true,
-                "address": "0xCCF1279C3406Ad1181bee00daB4b28B23D17Ddb1",
-                "name": "Jarvis Reward",
-                "symbol": "JRT",
-                "decimals": 18
-            } , {
-                "id": "unicrypt-2",
-                "enabled": true,
-                "address": "0x0116e28B43A358162B96f70B4De14C98A4465f25",
-                "name": "UNCX Network",
-                "symbol": "UNCX",
-                "decimals": 18
-            } , {
-                "id": "xdai-stake",
-                "enabled": true,
-                "address": "0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e",
-                "name": "STAKE",
-                "symbol": "STAKE",
-                "decimals": 18
-            } , {
-                "id": "yearn-finance",
-                "enabled": true,
-                "address": "0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e",
-                "name": "yearn.finance",
-                "symbol": "YFI",
-                "decimals": 18 
+		"name": "Gnosis",
+		"tokens": {
+			"allowlist": [{
+				"id": "tether",
+				"enabled": true,
+				"address": "0x4ECaBa5870353805a9F068101A40E0f32ed605C6",
+				"name": "Tether",
+				"symbol": "USDT",
+				"decimals": 6
+			} , {
+				"enabled": true,
+				"id": "usd-coin",
+				"address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
+				"name": "USD Coin",
+				"symbol": "USDC",
+				"decimals": 6
+			} , {
+				"id": "uniswap",
+				"enabled": true,
+				"address": "0x4537e328Bf7e4eFA29D05CAeA260D7fE26af9D74",
+				"name": "Uniswap",
+				"symbol": "UNI",
+				"decimals": 18
+			} , {
+				"id": "matic-network",
+				"enabled": true,
+				"address": "0x7122d7661c4564b7C6Cd4878B06766489a6028A2",
+				"name": "Polygon",
+				"symbol": "MATIC",
+				"decimals": 18
+			} , {
+				"id": "chainlink",
+				"enabled": true,
+				"address": "0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2",
+				"name": "Chainlink",
+				"symbol": "LINK",
+				"decimals": 18
+			} , {
+				"id": "rocket-pool",
+				"enabled": true,
+				"address": "0x2F0E755Efe6b58238A67DB420Ff3513Ec1fb31eF",
+				"name": "RPL",
+				"symbol": "Rocket Pool",
+				"decimals": 18
+			} , {
+				"id": "badger-dao",
+				"enabled": true,
+				"address": "0xdfc20AE04ED70bd9c7D720F449eEDAe19F659D65",
+				"name": "Badger DAO",
+				"symbol": "BADGER",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "streamr",
+				"address": "0x256eb8a51f382650B2A1e946b8811953640ee47D",
+				"name": "Streamr",
+				"symbol": "DATA",
+				"decimals": 18
+			} , {
+				"id": "dxdao",
+				"enabled": true,
+				"address": "0xb90D6bec20993Be5d72A5ab353343f7a0281f158",
+				"name": "DXdao",
+				"symbol": "DXD",
+				"decimals": 18
+			} , {
+				"id": "etherisc",
+				"enabled": true,
+				"address": "0xD3D47d5578e55C880505dC40648F7F9307C3e7A8",
+				"name": "Etherisc DIP",
+				"symbol": "DPI",
+				"decimals": 18
+			} , {
+				"id": "defipulse-index",
+				"enabled": true,
+				"address": "0x48b1B0d077b4919b65b4E4114806dD803901E1D9",
+				"name": "DeFi Pulse Index",
+				"symbol": "DIP",
+				"decimals": 18
+			} , {
+				"id": "weth",
+				"enabled": true,
+				"address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
+				"name": "WETH",
+				"symbol": "WETH",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "hopr",
+				"address": "0xD057604A14982FE8D88c5fC25Aac3267eA142a08",
+				"name": "HOPR",
+				"symbol": "HOPR",
+				"decimals": 18
+			} , {
+				"id": "jarvis-reward-token",
+				"enabled": true,
+				"address": "0xCCF1279C3406Ad1181bee00daB4b28B23D17Ddb1",
+				"name": "Jarvis Reward",
+				"symbol": "JRT",
+				"decimals": 18
+			} , {
+				"id": "unicrypt-2",
+				"enabled": true,
+				"address": "0x0116e28B43A358162B96f70B4De14C98A4465f25",
+				"name": "UNCX Network",
+				"symbol": "UNCX",
+				"decimals": 18
+			} , {
+				"id": "xdai-stake",
+				"enabled": true,
+				"address": "0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e",
+				"name": "STAKE",
+				"symbol": "STAKE",
+				"decimals": 18
+			} , {
+				"id": "yearn-finance",
+				"enabled": true,
+				"address": "0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e",
+				"name": "yearn.finance",
+				"symbol": "YFI",
+				"decimals": 18
 			}]
 		}
 	},
 	"128": {
 		"id": 128,
-        "name": "HECO",
-        "tokens": {
-            "allowlist": [{
-                "id": "woo-network",
-                "enabled": true,
-                "address": "0x3befb2308bce92da97264077faf37dcd6c8a75e6",
-                "name": "WOO",
-                "symbol": "WOO",
-                "decimals": 18
-            } , {
-                "enabled": true,
-                "id": "chainlink",
-                "address": "0x9e004545c59d359f6b7bfb06a26390b087717b42",
-                "name": "ChainLink",
-                "symbol": "LINK",
-                "decimals": 18
-            } , {
-                "id": "uniswap",
-                "enabled": true,
-                "address": "0x22c54ce8321a4015740ee1109d9cbc25815c46e6",
-                "name": "Uniswap",
-                "symbol": "UNI",
-                "decimals": 18
-            } , {
-                "id": "mdex",
-                "enabled": true,
-                "address": "0x25d2e80cb6b86881fd7e07dd263fb79f4abe033c",
-                "name": "MDX Token",
-                "symbol": "MDX",
-                "decimals": 18
-            } , {
-                "id": "balancer",
-                "enabled": true,
-                "address": "0x045de15ca76e76426e8fc7cba8392a3138078d0f",
-                "name": "Balancer",
-                "symbol": "BAL",
-                "decimals": 18
-            } , {
-                "id": "aave",
-                "enabled": true,
-                "address": "0x202b4936fe1a82a4965220860ae46d7d3939bb25",
-                "name": "AAVE",
-                "symbol": "AAVE",
-                "decimals": 18
-            } , {
-                "id": "beefy-finance",
-                "enabled": true,
-                "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
-                "name": "Beefy.Finance",
-                "symbol": "BIFI",
-                "decimals": 18
-            } , {
-                "enabled": true,
-                "id": "havven",
-                "address": "0x777850281719d5a96c29812ab72f822e0e09f3da",
-                "name": "Synthetix",
-                "symbol": "SNX",
-                "decimals": 18
-            } , {
-                "id": "elastos",
-                "enabled": true,
-                "address": "0xa1ecfc2bec06e4b43ddd423b94fef84d0dbc8f5c",
-                "name": "ELA",
-                "symbol": "ELA",
-                "decimals": 18
-            } , { 
-                "id": "huobi-polkadot",
-                "enabled": true,
-                "address": "0xa2c49cee16a5e5bdefde931107dc1fae9f7773e3",
-                "name": "HDOT Token",
-                "symbol": "HDOT",
-                "decimals": 18
-            } , {
-                "id": "tether",
-                "enabled": true,
-                "address": "0xa71edc38d189767582c38a3145b5873052c3e47a",
-                "name": "Tether",
-                "symbol": "USDT",
-                "decimals": 18
-            } , {
-                "id": "fsn",
-                "enabled": true,
-                "address": "0xa790b07796abed3cdaf81701b4535014bf5e1a65",
-                "name": "Fusion",
-                "symbol": "FSN",
-                "decimals": 18
-            } , {
-                "enabled": true,
-                "id": "eos",
-                "address": "0xae3a94a6dc7fce46b40d63bbf355a3ab2aa2a588",
-                "name": "EOS",
-                "symbol": "EOS",
-                "decimals": 4
-            } , {
-                "id": "huobi-fil",
-                "enabled": true,
-                "address": "0xae3a768f9ab104c69a7cd6041fe16ffa235d1810",
-                "name": "HFIL",
-                "symbol": "HFIL",
-                "decimals": 18
-            } , {
-                "id": "yearn-finance",
-                "enabled": true,
-                "address": "0xb4f019beac758abbee2f906033aaa2f0f6dacb35",
-                "name": "Yearn Finance",
-                "symbol": "YFI",
-                "decimals": 18
-            } , {
-                "id": "huobi-litecoin",
-                "enabled": true,
-                "address": "0xecb56cf772b5c9a6907fb7d32387da2fcbfb63b4",
-                "name": "Litecoin",
-                "symbol": "HLTC",
-                "decimals": 18
-            } , {
-                "id": "huobi-bitcoin-cash",
-                "enabled": true,
-                "address": "0xef3cebd77e0c52cb6f60875d9306397b5caca375",
-                "name": "Bitcoin Cash",
-                "symbol": "BCH",
-                "decimals": 18 
+		"name": "HECO",
+		"tokens": {
+			"allowlist": [{
+				"id": "woo-network",
+				"enabled": true,
+				"address": "0x3befb2308bce92da97264077faf37dcd6c8a75e6",
+				"name": "WOO",
+				"symbol": "WOO",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "chainlink",
+				"address": "0x9e004545c59d359f6b7bfb06a26390b087717b42",
+				"name": "ChainLink",
+				"symbol": "LINK",
+				"decimals": 18
+			} , {
+				"id": "uniswap",
+				"enabled": true,
+				"address": "0x22c54ce8321a4015740ee1109d9cbc25815c46e6",
+				"name": "Uniswap",
+				"symbol": "UNI",
+				"decimals": 18
+			} , {
+				"id": "mdex",
+				"enabled": true,
+				"address": "0x25d2e80cb6b86881fd7e07dd263fb79f4abe033c",
+				"name": "MDX Token",
+				"symbol": "MDX",
+				"decimals": 18
+			} , {
+				"id": "balancer",
+				"enabled": true,
+				"address": "0x045de15ca76e76426e8fc7cba8392a3138078d0f",
+				"name": "Balancer",
+				"symbol": "BAL",
+				"decimals": 18
+			} , {
+				"id": "aave",
+				"enabled": true,
+				"address": "0x202b4936fe1a82a4965220860ae46d7d3939bb25",
+				"name": "AAVE",
+				"symbol": "AAVE",
+				"decimals": 18
+			} , {
+				"id": "beefy-finance",
+				"enabled": true,
+				"address": "0x765277eebeca2e31912c9946eae1021199b39c61",
+				"name": "Beefy.Finance",
+				"symbol": "BIFI",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "havven",
+				"address": "0x777850281719d5a96c29812ab72f822e0e09f3da",
+				"name": "Synthetix",
+				"symbol": "SNX",
+				"decimals": 18
+			} , {
+				"id": "elastos",
+				"enabled": true,
+				"address": "0xa1ecfc2bec06e4b43ddd423b94fef84d0dbc8f5c",
+				"name": "ELA",
+				"symbol": "ELA",
+				"decimals": 18
+			} , {
+				"id": "huobi-polkadot",
+				"enabled": true,
+				"address": "0xa2c49cee16a5e5bdefde931107dc1fae9f7773e3",
+				"name": "HDOT Token",
+				"symbol": "HDOT",
+				"decimals": 18
+			} , {
+				"id": "tether",
+				"enabled": true,
+				"address": "0xa71edc38d189767582c38a3145b5873052c3e47a",
+				"name": "Tether",
+				"symbol": "USDT",
+				"decimals": 18
+			} , {
+				"id": "fsn",
+				"enabled": true,
+				"address": "0xa790b07796abed3cdaf81701b4535014bf5e1a65",
+				"name": "Fusion",
+				"symbol": "FSN",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "eos",
+				"address": "0xae3a94a6dc7fce46b40d63bbf355a3ab2aa2a588",
+				"name": "EOS",
+				"symbol": "EOS",
+				"decimals": 4
+			} , {
+				"id": "huobi-fil",
+				"enabled": true,
+				"address": "0xae3a768f9ab104c69a7cd6041fe16ffa235d1810",
+				"name": "HFIL",
+				"symbol": "HFIL",
+				"decimals": 18
+			} , {
+				"id": "yearn-finance",
+				"enabled": true,
+				"address": "0xb4f019beac758abbee2f906033aaa2f0f6dacb35",
+				"name": "Yearn Finance",
+				"symbol": "YFI",
+				"decimals": 18
+			} , {
+				"id": "huobi-litecoin",
+				"enabled": true,
+				"address": "0xecb56cf772b5c9a6907fb7d32387da2fcbfb63b4",
+				"name": "Litecoin",
+				"symbol": "HLTC",
+				"decimals": 18
+			} , {
+				"id": "huobi-bitcoin-cash",
+				"enabled": true,
+				"address": "0xef3cebd77e0c52cb6f60875d9306397b5caca375",
+				"name": "Bitcoin Cash",
+				"symbol": "BCH",
+				"decimals": 18
 			}]
 		}
 	},
@@ -4139,66 +4139,66 @@
 		}
 	},
 	"1285": {
-        "id": 1285,
-        "name": "Moonriver",
-        "tokens": {
-            "allowlist": [{
-                "enabled": true,
-                "id": "magic-internet-money",
-                "address": "0x0cae51e1032e8461f4806e26332c030e34de3adb",
-                "name": "Magic Internet Money",
-                "symbol": "MIM",
-                "decimals": 18
-            } , {
-                "enabled": true,
-                "id": "frax",
-                "address": "0x1a93b23281cc1cde4c4741353f3064709a16197d",
-                "name": "Frax",
-                "symbol": "FRAX",
-                "decimals": 18
-            } , {
-                "enabled": true,
-                "id": "mimatic",
-                "address": "0x7f5a79576620c046a293f54ffcdbd8f2468174f1",
-                "name": "MAI",
-                "symbol": "MIMATIC",
-                "decimals": 18
-            } , {
-                "enabled": true,
-                "id": "multichain",
-                "address": "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3",
-                "name": "Multichain",
-                "symbol": "MULTI",
-                "decimals": 18
-            } , {
-                "enabled": true,
-                "id": "dai",
-                "address": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
-                "name": "Dai",
-                "symbol": "DAI",
-                "decimals": 18
-            } , {
-                "enabled": true,
-                "id": "tether",
-                "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
-                "name": "Tether",
-                "symbol": "USDT",
-                "decimals": 6
-            } , {
-                "enabled": true,
-                "id": "usd-coin",
-                "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
-                "name": "USD Coin",
-                "symbol": "USDC",
-                "decimals": 6
-            } , {
-                "enabled": true,
-                "id": "frax-share",
-                "address": "0x6f1D1Ee50846Fcbc3de91723E61cb68CFa6D0E98",
-                "name": "Frax Share",
-                "symbol": "FXS",
-                "decimals": 18
-            }]
+		"id": 1285,
+		"name": "Moonriver",
+		"tokens": {
+			"allowlist": [{
+				"enabled": true,
+				"id": "magic-internet-money",
+				"address": "0x0cae51e1032e8461f4806e26332c030e34de3adb",
+				"name": "Magic Internet Money",
+				"symbol": "MIM",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "frax",
+				"address": "0x1a93b23281cc1cde4c4741353f3064709a16197d",
+				"name": "Frax",
+				"symbol": "FRAX",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "mimatic",
+				"address": "0x7f5a79576620c046a293f54ffcdbd8f2468174f1",
+				"name": "MAI",
+				"symbol": "MIMATIC",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "multichain",
+				"address": "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3",
+				"name": "Multichain",
+				"symbol": "MULTI",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "dai",
+				"address": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
+				"name": "Dai",
+				"symbol": "DAI",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "tether",
+				"address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+				"name": "Tether",
+				"symbol": "USDT",
+				"decimals": 6
+			} , {
+				"enabled": true,
+				"id": "usd-coin",
+				"address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+				"name": "USD Coin",
+				"symbol": "USDC",
+				"decimals": 6
+			} , {
+				"enabled": true,
+				"id": "frax-share",
+				"address": "0x6f1D1Ee50846Fcbc3de91723E61cb68CFa6D0E98",
+				"name": "Frax Share",
+				"symbol": "FXS",
+				"decimals": 18
+			}]
 		}
 	},
 	"8217": {
@@ -4221,7 +4221,7 @@
 				"decimals": 6
 			} , {
 				"enabled": true,
-				"id": "orbit-bridge-klaytn-binance-coin", 
+				"id": "orbit-bridge-klaytn-binance-coin",
 				"address": "0x574e9c26bda8b95d7329505b4657103710eb32ea",
 				"name": "BNB",
 				"symbol": "oBNB",
@@ -4745,7 +4745,7 @@
 	},
 	"43114": {
 		"id": 43114,
-		"name": "Avalanche",
+		"name": "Avalanche C-Chain",
 		"tokens": {
 			"allowlist": [{
 				"enabled": true,

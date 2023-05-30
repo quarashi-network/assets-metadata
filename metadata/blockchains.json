@@ -240,6 +240,21 @@
 		"urls": ["https://fusion.org"],
 		"explorers": ["https://fsnscan.com"]
 	},
+	"32769": {
+		"enabled": true,
+		"id": 32769,
+		"name": "Zilliqa EVM",
+		"urls": ["https://www.zilliqa.com/"],
+		"explorers": ["https://evmx.zilliqa.com"],
+		"testnet": {
+			"33101": {
+				"enabled": false,
+				"id": 33101,
+				"name": "Zilliqa EVM Testnet",
+				"explorers": ["https://evmx.zilliqa.com"]
+			}
+		}
+	},
 	"42161": {
 		"enabled": true,
 		"id": 42161,
@@ -314,7 +329,7 @@
 		"explorers": ["https://explorer.harmony.one"]
 	},
 	"11297108109": {
-		"enabled": true,
+		"enabled": false,
 		"id": 11297108109,
 		"name": "Palm",
 		"urls": ["https://palmnftstudio.com"],
