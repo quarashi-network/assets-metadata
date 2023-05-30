@@ -2830,6 +2830,265 @@
 			}]
 		}
 	},
+	"100": {
+		"id": 100,
+		"name": "Gnosis",
+		"tokens": {
+			"allowlist": [{
+				"enabled": true,
+				"id": "chainlink",
+				"address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+				"name": "ChainLink",
+				"symbol": "LINK",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "tether",
+				"address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+				"name": "Tether USD",
+				"symbol": "USDT",
+				"decimals": 6
+			} , {
+				"enabled": true,
+				"id": "usdd",
+				"address": "0xFFA4D863C96e743A2e1513824EA006B8D0353C57",
+				"name": "Decentralized USD",
+				"symbol": "USDD",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "gemini-dollar",
+				"address": "0xC8A94a3d3D2dabC3C1CaffFFDcA6A7543c3e3e65",
+				"name": "Gemini Dollar",
+				"symbol": "GUSD",
+				"decimals": 2
+			} , {
+				"enabled": true,
+				"id": "chiliz",
+				"address": "0xf1938Ce12400f9a761084E7A80d37e732a4dA056",
+				"name": "chiliZ",
+				"symbol": "CHZ",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "maker",
+				"address": "0x6f7C932e7684666C9fd1d44527765433e01fF61d",
+				"name": "Maker",
+				"symbol": "MKR",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "pax-gold",
+				"address": "0x553d3D295e0f695B9228246232eDF400ed3560B5",
+				"name": "Paxos Gold",
+				"symbol": "PAXG",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "injective-protocol",
+				"address": "0x4E8dc2149EaC3f3dEf36b1c281EA466338249371",
+				"name": "Injective Token",
+				"symbol": "INJ",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "huobi-token",
+				"address": "0xFAD65Eb62a97fF5Ed91B23aFD039956aaCa6e93b",
+				"name": "HuobiToken",
+				"symbol": "HT",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "nexo",
+				"address": "0x41b3966B4FF7b427969ddf5da3627d6AEAE9a48E",
+				"name": "Nexo",
+				"symbol": "NEXO",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "loopring",
+				"address": "0x84e1670F61347CDaeD56dcc736FB990fBB47ddC1",
+				"name": "LoopringCoin V2",
+				"symbol": "LRC",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "enjincoin",
+				"address": "0x7eC26842F195c852Fa843bB9f6D8B583a274a157",
+				"name": "EnjinCoin",
+				"symbol": "ENJ",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "holotoken",
+				"address": "0x0C51f415cF478f8D08c246a6C6Ee180C5dC3A012",
+				"name": "HoloToken",
+				"symbol": "HOT",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "fetch-ai",
+				"address": "0x7583FEDDbceFA813dc18259940F76a02710A8905",
+				"name": "Fetch",
+				"symbol": "FET",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "polymath",
+				"address": "0xcB059C5573646047D6d88dDdb87B745C18161d3b",
+				"name": "Polymath",
+				"symbol": "POLY",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "ankr",
+				"address": "0x101A023270368c0D50BFfb62780F4aFd4ea79C35",
+				"name": "ANKR",
+				"symbol": "ANKR",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "binance-peg-iotex",
+				"address": "0xf6372cDb9c1d3674E83842e3800F2A62aC9F3C66",
+				"name": "IoTeX Network",
+				"symbol": "IOTX",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "ocean-protocol",
+				"address": "0x282d8efCe846A88B159800bd4130ad77443Fa1A1",
+				"name": "Ocean Token",
+				"symbol": "OCEAN",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "0x",
+				"address": "0x5559Edb74751A0edE9DeA4DC23aeE72cCA6bE3D5",
+				"name": "ZRX",
+				"symbol": "ZRX",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "band-protocol",
+				"address": "0xA8b1E0764f85f53dfe21760e8AfE5446D82606ac",
+				"name": "BandToken",
+				"symbol": "BAND",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "amp-token",
+				"address": "0x0621d647cecbFb64b79E44302c1933cB4f27054d",
+				"name": "AMP",
+				"symbol": "AMP",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "uma",
+				"address": "0x3066818837c5e6eD6601bd5a91B0762877A6B731",
+				"name": "UMA Voting Token v1",
+				"symbol": "UMA",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "livepeer",
+				"address": "0x3962F4A0A0051DccE0be73A7e09cEf5756736712",
+				"name": "Livepeer Token",
+				"symbol": "LPT",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "omisego",
+				"address": "0x62414D03084EeB269E18C970a21f45D2967F0170",
+				"name": "OMG Network",
+				"symbol": "OMG",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "coin98",
+				"address": "0x77f56cf9365955486B12C4816992388eE8606f0E",
+				"name": "Coin98",
+				"symbol": "C98",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "celsius-degree-token",
+				"address": "0xD85d1e945766Fea5Eda9103F918Bd915FbCa63E6",
+				"name": "Celsius",
+				"symbol": "CEL",
+				"decimals": 4
+			} , {
+				"enabled": true,
+				"id": "bancor",
+				"address": "0xc26D47d5c33aC71AC5CF9F776D63Ba292a4F7842",
+				"name": "Bancor",
+				"symbol": "BNT",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "xyo-network",
+				"address": "0xd2507e7b5794179380673870d88B22F94da6abe0",
+				"name": "XY Oracle",
+				"symbol": "XYO",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "origin-protocol",
+				"address": "0xa63Beffd33AB3a2EfD92a39A7D2361CEE14cEbA8",
+				"name": "OriginToken",
+				"symbol": "OGN",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "beefy-finance",
+				"address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
+				"name": "beefy.finance",
+				"symbol": "BIFI",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "tellor",
+				"address": "0xE3322702BEdaaEd36CdDAb233360B939775ae5f1",
+				"name": "Tellor Tributes",
+				"symbol": "TRB",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "pluton",
+				"address": "0x7dc0cb65EC6019330a6841e9c274f2EE57A6CA6C",
+				"name": "Pluton",
+				"symbol": "PLU",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "boson-protocol",
+				"address": "0x9B3B0703D392321AD24338Ff1f846650437A43C9",
+				"name": "Boson",
+				"symbol": "BOSON",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "kleros",
+				"address": "0xad93E067e149f0A5ecd12D8EA83B05581dD6374C",
+				"name": "Pinakion",
+				"symbol": "PNK",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "parsiq",
+				"address": "0x9377Eeb7419486FD4D485671d50baa4BF77c2222",
+				"name": "Parsiq Token",
+				"symbol": "PRQ",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "student-coin",
+				"address": "0x779b299eA455D35A44FE9baC48648be22C08DEa2",
+				"name": "Student Coin",
+				"symbol": "STC",
+				"decimals": 18
+			}]
+		}
+	},
 	"137": {
 		"id": 137,
 		"name": "Polygon",
@@ -4628,6 +4887,69 @@
 				"address": "0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc",
 				"name": "yearn.finance",
 				"symbol": "YFI",
+				"decimals": 18
+			}]
+		}
+	},
+	"1666600000": {
+		"id": 1666600000,
+		"name": "Harmony",
+		"tokens": {
+			"allowlist": [{
+				"enabled": true,
+				"id": "tether",
+				"address": "0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f",
+				"name": "Tether USDT",
+				"symbol": "USDT",
+				"decimals": 6
+			} , {
+				"enabled": true,
+				"id": "usd-coin",
+				"address": "0x985458e523db3d53125813ed68c274899e9dfab4",
+				"name": "USD Coin",
+				"symbol": "USDC",
+				"decimals": 6
+			} , {
+				"enabled": true,
+				"id": "binance-usd",
+				"address": "0xe176ebe47d621b984a73036b9da5d834411ef734",
+				"name": "Binance USD",
+				"symbol": "BUSD",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "mimatic",
+				"address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+				"name": "Mai Stablecoin",
+				"symbol": "MAI",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "weth",
+				"address": "0x6983d1e6def3690c4d616b13597a09e6193ea013",
+				"name": "Wrapped Ethereum",
+				"symbol": "wETH",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "orbs",
+				"address": "0xAaD96d04f00b718b9Ed43E39DB8E73DE61cEf8b7",
+				"name": "ORBS",
+				"symbol": "1ORBS",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "livepeer",
+				"address": "0xbd3e698b51d340cc53b0cc549b598c13e0172b7c",
+				"name": "Livepeer",
+				"symbol": "LPT",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "dai",
+				"address": "0xef977d2f931c1978db5f6747666fa1eacb0d0339",
+				"name": "DAI Stablecoin",
+				"symbol": "DAI",
 				"decimals": 18
 			}]
 		}
