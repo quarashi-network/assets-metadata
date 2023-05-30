@@ -3457,6 +3457,19 @@
 				"decimals": 6
 			}]
 		}
+			},
+	"32659": {
+		"id": 32659,
+		"name": "Fusion",
+		"tokens": {
+			"allowlist": [{
+				"enabled": true,
+				"address": "0x9636d3294e45823ec924c8d89dd1f1dffcf044e6",
+				"name": "Tether",
+				"symbol": "USDT",
+				"decimals": 6
+			}]
+		}
 	},
 	"42161": {
 		"id": 42161,
