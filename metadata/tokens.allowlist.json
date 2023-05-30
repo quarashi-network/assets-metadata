@@ -1470,7 +1470,28 @@
 				"decimals": 18
 			}]
 		}
-		},
+	},
+	"24": {
+		"id": 24,
+		"name": "KardiaChain",
+		"tokens": {
+			"allowlist": [{
+				"enabled": true,
+				"id": "tether",
+				"address": "0x551a5dcac57c66aa010940c2dcff5da9c53aa53b",
+				"name": "Tether USD",
+				"symbol": "USDT",
+				"decimals": 6
+			} , {
+				"enabled": true,
+				"id": "weth",
+				"address": "0x1540020a94aa8bc189aa97639da213a4ca49d9a7",
+				"name": "Wrapped ETH",
+				"symbol": "wETH",
+				"decimals": 18
+			}]
+		}
+	},
 	"25": {
 		"id": 25,
 		"name": "Cronos",
@@ -3879,7 +3900,7 @@
 				"decimals": 18
 			}]
 		}
-		},
+	},
 	"1030": {
 		"id": 1030,
 		"name": "Conflux",
@@ -4026,7 +4047,7 @@
 				"decimals": 18
 			}]
 		}
-		},
+	},
 	"1285": {
         "id": 1285,
         "name": "Moonriver",
@@ -4166,7 +4187,7 @@
 				"decimals": 9
 			}]
 		}
-			},
+	},
 	"32659": {
 		"id": 32659,
 		"name": "Fusion",
