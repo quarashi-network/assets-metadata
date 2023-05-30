@@ -2851,6 +2851,27 @@
 			}]
 		}
 	},
+	"57": {
+ 	 "id": 57,
+        "name": "Syscoin",
+        "tokens": {
+            "allowlist": [{
+                "id": "tether",
+                "enabled": true,
+                "address": "0x922D641a426DcFFaeF11680e5358F34d97d112E1",
+                "name": "Tether",
+                "symbol": "usdt",
+                "decimals": 6
+            } , {
+                "enabled": true,
+                "id": "usd-coin",
+                "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
+                "name": "USD Coin",
+                "symbol": "USDC",
+                "decimals": 6
+			}]
+		}
+	},
 	"66": {
 		"id": 66,
 		"name": "OKXChain",
@@ -2868,6 +2889,41 @@
 				"name": "USD Coin",
 				"symbol": "USDC",
 				"decimals": 18
+			}]
+		}
+	},
+	"88": {
+		"id": 88,
+		"name": "TomoChain",
+		 "tokens": {
+            "allowlist": [{
+                "id": "tether",
+                "enabled": true,
+                "address": "0x381b31409e4d220919b2cff012ed94d70135a59e",
+                "name": "Tether",
+                "symbol": "usdt",
+                "decimals": 6
+            } , {
+                "enabled": true,
+                "id": "usd-coin",
+                "address": "0xcca4e6302510d555b654b3eab9c0fcb223bcfdf0",
+                "name": "USD Coin",
+                "symbol": "USDC",
+                "decimals": 6
+            } , {
+                "id": "wrapped-bitcoin",
+                "enabled": true,
+                "address": "0x503B2dDc059b81788FD1239561596614b27fAADE",
+                "name": "Wrapped Bitcoin",
+                "symbol": "WBTC",
+                "decimals": 8
+            } , {
+                "id": "ethereum",
+                "enabled": true,
+                "address": "0x2EAA73Bd0db20c64f53fEbeA7b5F5E5Bccc7fb8b",
+                "name": "Ethereum",
+                "symbol": "ETH",
+                "decimals": 18
 			}]
 		}
 	},
@@ -3918,6 +3974,20 @@
 				"name": "DODO",
 				"symbol": "DODO",
 				"decimals": 18
+			}]
+		}
+	},
+	"324": {
+		"id": 324,
+		"name": "zkSync",
+		"tokens": {
+			"allowlist": [{
+				"enabled": true,
+				"id": "boba-network",
+				"address": "0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4",
+				"name": "USD Coin",
+				"id": "usd-coin",
+				"decimals": 6
 			}]
 		}
 	},
