@@ -3776,22 +3776,66 @@
 		}
 		},
 	"1285": {
-		"id": 1285,
-		"name": "Moonriver",
-		"tokens": {
-			"allowlist": [{
-				"enabled": true,
-				"address": "",
-				"name": "",
-				"symbol": "",
-				"decimals": 18
-			} , {
-				"enabled": true,
-				"address": "",
-				"name": "",
-				"symbol": "",
-				"decimals": 8
-			}]
+        "id": 1285,
+        "name": "Moonriver",
+        "tokens": {
+            "allowlist": [{
+                "enabled": true,
+                "id": "magic-internet-money",
+                "address": "0x0cae51e1032e8461f4806e26332c030e34de3adb",
+                "name": "Magic Internet Money",
+                "symbol": "MIM",
+                "decimals": 18
+            } , {
+                "enabled": true,
+                "id": "frax",
+                "address": "0x1a93b23281cc1cde4c4741353f3064709a16197d",
+                "name": "Frax",
+                "symbol": "FRAX",
+                "decimals": 18
+            } , {
+                "enabled": true,
+                "id": "mimatic",
+                "address": "0x7f5a79576620c046a293f54ffcdbd8f2468174f1",
+                "name": "MAI",
+                "symbol": "MIMATIC",
+                "decimals": 18
+            } , {
+                "enabled": true,
+                "id": "multichain",
+                "address": "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3",
+                "name": "Multichain",
+                "symbol": "MULTI",
+                "decimals": 18
+            } , {
+                "enabled": true,
+                "id": "dai",
+                "address": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
+                "name": "Dai",
+                "symbol": "DAI",
+                "decimals": 18
+            } , {
+                "enabled": true,
+                "id": "tether",
+                "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+                "name": "Tether",
+                "symbol": "USDT",
+                "decimals": 6
+            } , {
+                "enabled": true,
+                "id": "usd-coin",
+                "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+                "name": "USD Coin",
+                "symbol": "USDC",
+                "decimals": 6
+            } , {
+                "enabled": true,
+                "id": "frax-share",
+                "address": "0x6f1D1Ee50846Fcbc3de91723E61cb68CFa6D0E98",
+                "name": "Frax Share",
+                "symbol": "FXS",
+                "decimals": 18
+            }]
 		}
 	},
 	"8217": {
