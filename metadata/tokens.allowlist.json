@@ -3640,6 +3640,79 @@
 				"name": "USD Coin",
 				"symbol": "USDC",
 				"decimals": 6
+			} , {
+				"enabled": true,
+				"address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
+				"name": "Binance USD",
+				"symbol": "BUSD",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x4792C1EcB969B036eb51330c63bD27899A13D84e",
+				"name": "Avalanche",
+				"symbol": "AVAX",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+				"name": "Dai Stablecoin",
+				"symbol": "DAI",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x922D641a426DcFFaeF11680e5358F34d97d112E1",
+				"name": "Wrapped BTC",
+				"symbol": "wBTC",
+				"decimals": 8
+			} , {
+				"enabled": true,
+				"address": "0xC19281F22A075E0F10351cd5D6Ea9f0AC63d4327",
+				"name": "Fantom",
+				"symbol": "FTM",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0xAcc15dC74880C9944775448304B263D191c6077F",
+				"name": "Wrapped GLMR",
+				"symbol": "GLMR",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x0E358838ce72d5e61E0018a2ffaC4bEC5F4c88d2",
+				"name": "StellaSwap",
+				"symbol": "STELLA",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0xcd3B51D98478D53F4515A306bE565c6EebeF1D58",
+				"name": "Beamswap Token",
+				"symbol": "STELLA",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x2Dfc76901bB2ac2A5fA5fc479590A490BBB10a5F",
+				"name": "Cougar Token",
+				"symbol": "CGS",
+				"decimals": 18
+			}]
+		}
+		},
+	"1285": {
+		"id": 1285,
+		"name": "Moonriver",
+		"tokens": {
+			"allowlist": [{
+				"enabled": true,
+				"address": "",
+				"name": "",
+				"symbol": "",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "",
+				"name": "",
+				"symbol": "",
+				"decimals": 8
 			}]
 		}
 	},
