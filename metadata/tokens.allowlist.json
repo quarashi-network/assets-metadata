@@ -2873,7 +2873,7 @@
                 "id": "rocket-pool",
                 "enabled": true,
                 "address": "0x2F0E755Efe6b58238A67DB420Ff3513Ec1fb31eF",
-                "name": "",
+                "name": "RPL",
                 "symbol": "Rocket Pool",
                 "decimals": 18
             } , {
@@ -2952,6 +2952,132 @@
                 "address": "0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e",
                 "name": "yearn.finance",
                 "symbol": "YFI",
+                "decimals": 18 
+			}]
+		}
+	},
+	"128": {
+		"id": 128,
+        "name": "HECO",
+        "tokens": {
+            "allowlist": [{
+                "id": "woo-network",
+                "enabled": true,
+                "address": "0x3befb2308bce92da97264077faf37dcd6c8a75e6",
+                "name": "WOO",
+                "symbol": "WOO",
+                "decimals": 18
+            } , {
+                "enabled": true,
+                "id": "chainlink",
+                "address": "0x9e004545c59d359f6b7bfb06a26390b087717b42",
+                "name": "ChainLink",
+                "symbol": "LINK",
+                "decimals": 18
+            } , {
+                "id": "uniswap",
+                "enabled": true,
+                "address": "0x22c54ce8321a4015740ee1109d9cbc25815c46e6",
+                "name": "Uniswap",
+                "symbol": "UNI",
+                "decimals": 18
+            } , {
+                "id": "mdex",
+                "enabled": true,
+                "address": "0x25d2e80cb6b86881fd7e07dd263fb79f4abe033c",
+                "name": "MDX Token",
+                "symbol": "MDX",
+                "decimals": 18
+            } , {
+                "id": "balancer",
+                "enabled": true,
+                "address": "0x045de15ca76e76426e8fc7cba8392a3138078d0f",
+                "name": "Balancer",
+                "symbol": "BAL",
+                "decimals": 18
+            } , {
+                "id": "aave",
+                "enabled": true,
+                "address": "0x202b4936fe1a82a4965220860ae46d7d3939bb25",
+                "name": "AAVE",
+                "symbol": "AAVE",
+                "decimals": 18
+            } , {
+                "id": "beefy-finance",
+                "enabled": true,
+                "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
+                "name": "Beefy.Finance",
+                "symbol": "BIFI",
+                "decimals": 18
+            } , {
+                "enabled": true,
+                "id": "havven",
+                "address": "0x777850281719d5a96c29812ab72f822e0e09f3da",
+                "name": "Synthetix",
+                "symbol": "SNX",
+                "decimals": 18
+            } , {
+                "id": "elastos",
+                "enabled": true,
+                "address": "0xa1ecfc2bec06e4b43ddd423b94fef84d0dbc8f5c",
+                "name": "ELA",
+                "symbol": "ELA",
+                "decimals": 18
+            } , { 
+                "id": "huobi-polkadot",
+                "enabled": true,
+                "address": "0xa2c49cee16a5e5bdefde931107dc1fae9f7773e3",
+                "name": "HDOT Token",
+                "symbol": "HDOT",
+                "decimals": 18
+            } , {
+                "id": "tether",
+                "enabled": true,
+                "address": "0xa71edc38d189767582c38a3145b5873052c3e47a",
+                "name": "Tether",
+                "symbol": "USDT",
+                "decimals": 18
+            } , {
+                "id": "fsn",
+                "enabled": true,
+                "address": "0xa790b07796abed3cdaf81701b4535014bf5e1a65",
+                "name": "Fusion",
+                "symbol": "FSN",
+                "decimals": 18
+            } , {
+                "enabled": true,
+                "id": "eos",
+                "address": "0xae3a94a6dc7fce46b40d63bbf355a3ab2aa2a588",
+                "name": "EOS",
+                "symbol": "EOS",
+                "decimals": 4
+            } , {
+                "id": "huobi-fil",
+                "enabled": true,
+                "address": "0xae3a768f9ab104c69a7cd6041fe16ffa235d1810",
+                "name": "HFIL",
+                "symbol": "HFIL",
+                "decimals": 18
+            } , {
+                "id": "yearn-finance",
+                "enabled": true,
+                "address": "0xb4f019beac758abbee2f906033aaa2f0f6dacb35",
+                "name": "Yearn Finance",
+                "symbol": "YFI",
+                "decimals": 18
+            } , {
+                "id": "huobi-litecoin",
+                "enabled": true,
+                "address": "0xecb56cf772b5c9a6907fb7d32387da2fcbfb63b4",
+                "name": "Litecoin",
+                "symbol": "HLTC",
+                "decimals": 18
+            } , {
+                "id": "huobi-bitcoin-cash",
+                "enabled": true,
+                "address": "0xef3cebd77e0c52cb6f60875d9306397b5caca375",
+                "name": "Bitcoin Cash",
+                "symbol": "BCH",
                 "decimals": 18 
 			}]
 		}
