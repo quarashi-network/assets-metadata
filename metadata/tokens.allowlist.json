@@ -2851,6 +2851,26 @@
 			}]
 		}
 	},
+	"66": {
+		"id": 66,
+		"name": "OKXChain",
+		"tokens": {
+			"allowlist": [{
+				"enabled": true,
+				"id": "quarashi",
+				"address": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+				"name": "Tether",
+				"symbol": "USDT",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0xc946daf81b08146b1c7a8da2a851ddf2b3eaaf85",
+				"name": "USD Coin",
+				"symbol": "USDC",
+				"decimals": 18
+			}]
+		}
+	},
 	"100": {
 		"id": 100,
         "name": "Gnosis",
