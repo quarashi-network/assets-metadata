@@ -551,6 +551,9 @@
 		"nodes": {
 			"rpc": [{
 				"enabled": true,
+				"url": "https://evm-api.zilliqa.com"
+			} , {
+				"enabled": true,
 				"url": "https://api.zilliqa.com"
 			}]
 		},
