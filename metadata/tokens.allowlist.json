@@ -3451,10 +3451,74 @@
 		"tokens": {
 			"allowlist": [{
 				"enabled": true,
-				"address": "0x6270b58be569a7c0b8f47594f191631ae5b2c86c",
-				"name": "USD Coin",
-				"symbol": "USDC",
+				"id": "orbit-bridge-klaytn-ethereum",
+				"address": "0x34d21b1e550d73cee41151c77f3c73359527a396",
+				"name": "Ethereum",
+				"symbol": "oETH",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "orbit-bridge-klaytn-usd-tether",
+				"address": "0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167",
+				"name": "Tether",
+				"symbol": "oUSDT",
 				"decimals": 6
+			} , {
+				"enabled": true,
+				"id": "orbit-bridge-klaytn-binance-coin", 
+				"address": "0x574e9c26bda8b95d7329505b4657103710eb32ea",
+				"name": "BNB",
+				"symbol": "oBNB",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "orbit-bridge-klaytn-usdc",
+				"address": "0x754288077d0ff82af7a5317c7cb8c444d421d103",
+				"name": "USD Coin",
+				"symbol": "oUSDC",
+				"decimals": 6
+			} , {
+				"enabled": true,
+				"id": "orbit-bridge-klaytn-ripple",
+				"address": "0x9eaefb09fe4aabfbe6b1ca316a3c36afc83a393f",
+				"name": "Ripple",
+				"symbol": "oXRP",
+				"decimals": 6
+			} , {
+				"enabled": true,
+				"id": "orbit-bridge-klaytn-matic",
+				"address": "0xa006ba407cfc6584c90bac24ed971261885a0fd6",
+				"name": "Matic",
+				"symbol": "MATIC",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "binance-usd",
+				"address": "0x210bc03f49052169d5588a52c317f71cf2078b85",
+				"name": "BUSD",
+				"symbol": "oBUSD",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "klaytn-dai",
+				"address": "0x5c74070fdea071359b86082bd9f9b3deaafbe32b",
+				"name": "Dai Stablecoin",
+				"symbol": "KDAI",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "orbit-bridge-klaytn-wrapped-btc",
+				"address": "0x16d0e1fbd024c600ca0380a4c5d57ee7a2ecbf9c",
+				"name": "Wrapped BTC",
+				"symbol": "oWBTC",
+				"decimals": 8
+			} , {
+				"enabled": true,
+				"id": "the-open-network",
+				"address": "0x4b96dbf8f42c8c296573933a6616dcafb80ca461",
+				"name": "Toncoin",
+				"symbol": "oTON",
+				"decimals": 9
 			}]
 		}
 			},
