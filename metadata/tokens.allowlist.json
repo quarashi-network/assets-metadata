@@ -4522,13 +4522,6 @@
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"id": "perpetual-protocol",
-				"address": "0x753D224bCf9AAFaCD81558c32341416df61D3DAC",
-				"name": "Perpetual",
-				"symbol": "PERP",
-				"decimals": 18
-			} , {
-				"enabled": true,
 				"id": "axelar",
 				"address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
 				"name": "Axelar",
