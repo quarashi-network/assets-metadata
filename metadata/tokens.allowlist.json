@@ -118,7 +118,7 @@
 			} , {
 				"enabled": true,
 				"id": "okb",
-				"address": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
+				"address": "0x4d224452801aced8b2f0aebe155379bb5d594381",
 				"name": "ApeCoin",
 				"symbol": "APE",
 				"decimals": 18
