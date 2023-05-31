@@ -1,1 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32"><defs><filter id="a" width="111.7%" height="111.7%" x="-5.8%" y="-4.2%" filterUnits="objectBoundingBox"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.199473505 0"/></filter><filter id="d" width="117.5%" height="117.5%" x="-8.8%" y="-6.2%" filterUnits="objectBoundingBox"><feOffset dy=".5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.204257246 0"/></filter><linearGradient id="c" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#FFF" stop-opacity=".5"/><stop offset="100%" stop-opacity=".5"/></linearGradient><circle id="b" cx="16" cy="15" r="15"/><path id="e" d="M12.116 13.404L16 9.52l3.886 3.886 2.26-2.26L16 5l-6.144 6.144 2.26 2.26zM6 15l2.26-2.26L10.52 15l-2.26 2.26L6 15zm6.116 1.596L16 20.48l3.886-3.886 2.26 2.259L16 25l-6.144-6.144-.003-.003 2.263-2.257zM21.48 15l2.26-2.26L26 15l-2.26 2.26L21.48 15zm-3.188-.002h.002V15L16 17.294l-2.291-2.29-.004-.004.004-.003.401-.402.195-.195L16 12.706l2.293 2.293z"/></defs><g fill="none"><use fill="#000" filter="url(#a)" xlink:href="#b"/><use fill="#F3BA2F" fill-rule="evenodd" xlink:href="#b"/><use fill="url(#c)" fill-rule="evenodd" style="mix-blend-mode:soft-light" xlink:href="#b"/><circle cx="16" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/><use fill="#000" filter="url(#d)" xlink:href="#e"/><use fill="#FFF" fill-rule="evenodd" xlink:href="#e"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#0055D5;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style>
+<g>
+	<g>
+		<g>
+			<path id="SVGID_1_" class="st0" d="M500,0c276.1,0,500,223.9,500,500s-223.9,500-500,500S0,776.1,0,500S223.9,0,500,0L500,0z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path id="SVGID_3_" class="st1" d="M272,330.8c0,0-53.8-43-57.5,63.2c-3.7,82.3-3.6,242.1,34.5,317.6
+				c16.1,28.4,37.6,19.7,77.6-8.6c34.8-25.7,160.7-141.7,214-192.6S702,313.5,724.5,412.7c8.9,41.7,19.9,77.1,11.5,169.6
+				c-2.6,28.5-14.8,50.1-70.4,11.5c-42-27-81.9-56-81.9-56s-7.7-13.8-25.9,8.6c-14.3,17.9-21.5,22.3,1.4,35.9
+				c23,13.6,139.3,93.8,183.9,106.3c36.8,10.7,57.8,10.5,58.9-61.8c-0.2-57.4-3.5-221.7-24.4-291.7c-15.8-43.6-39-63.4-89.1-14.4
+				S480.4,522.9,394,592.3c-57.3,43-81.8,81.8-103.4,10.1c-15.2-54.3-34.9-223.3,27.3-191.1c38.9,18.6,58.3,18.5,43.1,30.2
+				c-15.2,11.6-58.9,51.7-58.9,51.7s-13.5,10.9-7.2,34.5c6.3,16.5,6.3,24.7,40.2-7.2s58.9-56,58.9-56s5.4-8.5,21.5,7.2
+				s18.7,20.1,18.7,20.1s4.3,11.7,21.5-8.6c17.3-20.3,28.4-32.7-4.3-51.7C418.8,412.3,272,330.8,272,330.8L272,330.8z"/>
+		</g>
+	</g>
+</g>
+</svg>
