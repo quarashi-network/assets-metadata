@@ -2860,7 +2860,7 @@
 				"enabled": true,
 				"address": "0x922D641a426DcFFaeF11680e5358F34d97d112E1",
 				"name": "Tether",
-				"symbol": "usdt",
+				"symbol": "USDT",
 				"decimals": 6
 			} , {
 				"enabled": true,
@@ -2917,13 +2917,6 @@
 				"name": "Wrapped Bitcoin",
 				"symbol": "WBTC",
 				"decimals": 8
-			} , {
-				"id": "ethereum",
-				"enabled": true,
-				"address": "0x2EAA73Bd0db20c64f53fEbeA7b5F5E5Bccc7fb8b",
-				"name": "Ethereum",
-				"symbol": "ETH",
-				"decimals": 18
 			}]
 		}
 	},
