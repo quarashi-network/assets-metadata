@@ -4019,7 +4019,7 @@
 			} , {
 				"enabled": true,
 				"id": "wrapped-bitcoin",
-				"address": "0x94bd7a37d2ce24cc597e158facaa8d601083ffec",
+				"address": "0x1f545487c62e5acfea45dcadd9c627361d1616d8",
 				"name": "Wrapped Bitcoin",
 				"symbol": "WTC",
 				"decimals": 8
