@@ -4918,7 +4918,7 @@
 			} , {
 				"enabled": true,
 				"id": "oasis-network",
-				"address": "0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A",
+				"address": "0x12AF5C1a232675f62F405b5812A80e7a6F75D746",
 				"name": "Wrapped ROSE",
 				"symbol": "wROSE",
 				"decimals": 18
