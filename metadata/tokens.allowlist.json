@@ -3043,13 +3043,6 @@
 				"name": "STAKE",
 				"symbol": "STAKE",
 				"decimals": 18
-			} , {
-				"id": "yearn-finance",
-				"enabled": true,
-				"address": "0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e",
-				"name": "yearn.finance",
-				"symbol": "YFI",
-				"decimals": 18
 			}]
 		}
 	},
