@@ -1641,7 +1641,7 @@
 				"id": "pendle",
 				"address": "0x49c3bBB239f4FB44327073510f4bA72D207a81D6",
 				"name": "Pendle",
-				"symbol": "PENDELE",
+				"symbol": "PENDLE",
 				"decimals": 18
 			} , {
 				"enabled": true,
