@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns:xodm="http://www.corel.com/coreldraw/odm/2003" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 2500 2500" style="enable-background:new 0 0 2500 2500;" xml:space="preserve">
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:xodm="http://www.corel.com/coreldraw/odm/2003"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 500"
+	 style="enable-background:new 0 0 500 500;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill-rule:evenodd;clip-rule:evenodd;}
-	.st1{fill:#FFFFFF;}
+	.st0{fill:#FFFFFF;}
 </style>
-<g id="Layer_x0020_1">
-	<g id="_2806198155968">
-		<rect y="0" class="st0" width="2500" height="2500"></rect>
-		<path class="st1" d="M1967,1203v-180h-184V743h-208v281H924V743H716v281H532v180h184v93H532v180h184v280h208v-281h651v281h208    v-281h184v-180h-184v-93H1967z M1575,1296H924v-93h651V1296z"></path>
-	</g>
-</g>
+<circle cx="250" cy="250" r="250"/>
+<path class="st0" d="M439.53,237.32v-47.55h-48.6v-73.96h-54.94v74.23H164.02v-74.23h-54.94v74.23h-48.6v47.55h48.6v24.57h-48.6
+	v47.55h48.6v73.96h54.94v-74.23h171.96v74.23h54.94v-74.23h48.6v-47.55h-48.6v-24.57H439.53z M335.98,261.89H164.02v-24.57h171.96
+	V261.89z"/>
 </svg>
