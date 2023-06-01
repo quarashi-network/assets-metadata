@@ -3966,6 +3966,20 @@
 			}]
 		}
 	},
+	"369": {
+		"id": 369,
+		"name": "PulseChain",
+		"tokens": {
+			"allowlist": [{
+				"enabled": true,
+				"id": "pulsex",
+				"address": "0x95b303987a60c71504d99aa1b13b4da07b0790ab",
+				"name": "PulseX",
+				"id": "PLSX",
+				"decimals": 18
+			}]
+		}
+	},
 	"1030": {
 		"id": 1030,
 		"name": "Conflux",
