@@ -1,15 +1,28 @@
-<svg width="600" height="600" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_6718_114617)">
-<path d="M300 600.014C465.684 600.014 600 465.698 600 300.014C600 134.328 465.684 0.0136719 300 0.0136719C134.315 0.0136719 0 134.328 0 300.014C0 465.698 134.315 600.014 300 600.014Z" fill="url(#paint0_radial_6718_114617)"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M436.235 158H401.712L363.111 239.509H237.123L198.663 158H163.77V239.509H107V280.139H163.77V330.93H107.008V371.562H163.77V441.817H202.375V371.562H257.647L290.722 441.817H309.653L342.589 371.562H397.627V441.817H436.235V371.562H493V330.93H436.235V280.139H492.992V239.509H436.235V158ZM397.627 330.93V280.139H385.448L361.637 330.93H397.627ZM319.816 330.93L343.869 280.139H256.295L280.26 330.93H319.816ZM299.433 371.562L300.002 372.768L300.573 371.562H299.433ZM238.517 330.93L214.606 280.139H202.375V330.93H238.517Z" fill="white"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:none;stroke:url(#SVGID_00000021082984890336367790000006103565474145835684_);stroke-width:5.7778;}
+	.st2{fill:#FFFFFF;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="250" y1="499" x2="250" y2="5" gradientTransform="matrix(1 0 0 -1 0 501)">
+	<stop  offset="0" style="stop-color:#FFA6AA"/>
+	<stop  offset="0.2057" style="stop-color:#FB7C83"/>
+	<stop  offset="0.5189" style="stop-color:#FA515A"/>
+	<stop  offset="1" style="stop-color:#FF5C65"/>
+</linearGradient>
+<circle class="st0" cx="250" cy="249" r="247"/>
+<linearGradient id="SVGID_00000091725105526578368060000006636426003449355932_" gradientUnits="userSpaceOnUse" x1="250.0003" y1="452.1552" x2="250.0003" y2="51.8448" gradientTransform="matrix(1 0 0 -1 0 501)">
+	<stop  offset="0" style="stop-color:#E3252E"/>
+	<stop  offset="1" style="stop-color:#FF898F"/>
+</linearGradient>
+<circle style="fill:none;stroke:url(#SVGID_00000091725105526578368060000006636426003449355932_);stroke-width:5.7778;" cx="250" cy="249" r="197.3"/>
+<g>
+	<path class="st2" d="M343.3,151.4h-24.1l-70.9,149.8l-70.7-149.8h-24.3v197.9h26.9V218.4l61.6,130.9H255l61.3-130.9v130.9h26.9
+		V151.4z"/>
+	<path class="st2" d="M113.7,208.2h269.2v28.3H113.7V208.2z"/>
+	<path class="st2" d="M113.7,271.9h269.2v28.3H113.7V271.9z"/>
 </g>
-<defs>
-<radialGradient id="paint0_radial_6718_114617" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(196 143.514) rotate(54.1676) scale(497.082 497.082)">
-<stop offset="0.160391" stop-color="#FE858B"/>
-<stop offset="1" stop-color="#E82B35"/>
-</radialGradient>
-<clipPath id="clip0_6718_114617">
-<rect width="600" height="600" fill="white"/>
-</clipPath>
-</defs>
 </svg>
