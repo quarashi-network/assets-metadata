@@ -107,7 +107,7 @@
 		"id": 88,
 		"name": "TomoChain",
 		"urls": ["https://tomochain.com"],
-		"explorers": ["https://tomoscan.io/"]
+		"explorers": ["https://tomoscan.io"]
 	},
 	"100": {
 		"enabled": true,
