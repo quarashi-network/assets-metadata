@@ -1240,7 +1240,7 @@
 				"id": "student-coin",
 				"address": "0x15B543e986b8c34074DFc9901136d9355a537e7E",
 				"name": "Student Coin",
-				"symbol": "STC",
+				"symbol": "STCC",
 				"decimals": 18
 			} , {
 				"enabled": true,
