@@ -1,21 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="156.218px" height="157.986px" viewBox="0 0 156.218 157.986" enable-background="new 0 0 156.218 157.986"
-	 xml:space="preserve">
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{clip-path:url(#SVGID_00000164512229174515470700000005010068621645826960_);}
+</style>
+<circle class="st0" cx="249.9" cy="250.5" r="250"/>
 <g>
-	<defs>
-		<rect id="SVGID_1_" width="156.218" height="157.986"/>
-	</defs>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_1_"  overflow="visible"/>
-	</clipPath>
-	<path clip-path="url(#SVGID_2_)" d="M85.399,69.583l43.223-42.984l-16.396-16.307L77.202,45.123L42.178,10.292L25.781,26.599
-		l43.223,42.984c2.263,2.251,5.231,3.377,8.198,3.377C80.168,72.959,83.136,71.833,85.399,69.583 M147.97,115.5l-35.023-34.83
-		l35.023-34.831l-16.396-16.306L88.352,72.518c-4.527,4.503-4.527,11.803,0,16.306l43.222,42.983L147.97,115.5z M77.142,116.279
-		l35.023,34.83l16.396-16.307L85.34,91.819c-4.528-4.503-11.869-4.503-16.398,0l-43.221,42.983l16.397,16.307L77.142,116.279z
-		 M65.992,88.883c2.175-2.163,3.396-5.095,3.396-8.152c0-3.059-1.221-5.991-3.396-8.153L22.77,29.594L6.374,45.899L41.397,80.73
-		L6.374,115.56l16.396,16.308L65.992,88.883z"/>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="17.1" y="8.4" width="471.7" height="477.8"/>
+		</defs>
+		<clipPath id="SVGID_00000003783156974003288630000004905381009585385100_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<path style="clip-path:url(#SVGID_00000003783156974003288630000004905381009585385100_);" d="M275,218.9l130.5-130L356,39.5
+			L250.3,144.9L144.5,39.5L95,88.9l130.5,130c6.8,6.8,15.8,10.2,24.8,10.2C259.2,229.1,268.2,225.7,275,218.9 M464,357.8
+			L358.2,252.4L464,147.1l-49.5-49.3L284,227.8c-13.7,13.6-13.7,35.7,0,49.3l130.5,130L464,357.8z M250.1,360.1l105.8,105.3
+			l49.5-49.3l-130.5-130c-13.7-13.6-35.8-13.6-49.5,0l-130.5,130l49.5,49.3L250.1,360.1z M216.4,277.3c6.6-6.5,10.3-15.4,10.3-24.7
+			c0-9.3-3.7-18.1-10.3-24.7L85.9,97.9l-49.5,49.3l105.8,105.4L36.4,357.9l49.5,49.3L216.4,277.3z"/>
+	</g>
 </g>
 </svg>
