@@ -2880,7 +2880,7 @@
 				"id": "usd-coin",
 				"address": "0xc946daf81b08146b1c7a8da2a851ddf2b3eaaf85",
 				"name": "USD Coin",
-				"symbol": "USD",
+				"symbol": "USDC",
 				"decimals": 18
 			}]
 		}
