@@ -1247,7 +1247,7 @@
 				"id": "husd",
 				"address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
 				"name": "HUSD",
-				"symbol": "HUSD",
+				"symbol": "HUSDD",
 				"decimals": 8
 			} , {
 				"enabled": true,
