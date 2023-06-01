@@ -3987,7 +3987,7 @@
 				"address": "0xfe97e85d13abd9c1c33384e796f10b73905637ce",
 				"name": "Tether",
 				"symbol": "USDT",
-				"decimals": 6
+				"decimals": 18
 			} , {
 				"enabled": true,
 				"id": "ethereum",
@@ -4008,21 +4008,21 @@
 				"address": "0x1f545487c62e5acfea45dcadd9c627361d1616d8",
 				"name": "Wrapped Bitcoin",
 				"symbol": "WTC",
-				"decimals": 8
+				"decimals": 18
 			} , {
 				"enabled": true,
 				"id": "floki",
 				"address": "0x9b36f165bab9ebe611d491180418d8de4b8f3a1f",
 				"name": "FLOKI",
 				"symbol": "FLOKI",
-				"decimals": 18
+				"decimals": 9
 			} , {
 				"enabled": true,
 				"id": "usd-coin",
 				"address": "0x6963efed0ab40f6c3d7bda44a05dcf1437c44372",
 				"name": "USDC Coin",
 				"symbol": "USDC",
-				"decimals": 6
+				"decimals": 18
 			}]
 		}
 	},
