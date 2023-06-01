@@ -42,7 +42,7 @@
 		"id": 24,
 		"name": "KardiaChain",
 		"urls": ["https://kardiachain.io"],
-		"explorers": ["https://kardiachain.io"]
+		"explorers": ["https://explorer.kardiachain.io"]
 	},
 	"25": {
 		"enabled": true,
