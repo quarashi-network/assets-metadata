@@ -1514,8 +1514,8 @@
 				"enabled": true,
 				"id": "mimatic",
 				"address": "0x1c965D8E53fb1a448789e2B0FA5abc3EB2c36993",
-				"name": "MAI",
-				"symbol": "MIMATIC",
+				"name": "Mimatic",
+				"symbol": "MAI",
 				"decimals": 18
 			} , {
 				"enabled": true,
@@ -2110,8 +2110,8 @@
 				"enabled": true,
 				"id": "mimatic",
 				"address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
-				"name": "MAI",
-				"symbol": "MIMATIC",
+				"name": "Mimatic",
+				"symbol": "MAI",
 				"decimals": 18
 			} , {
 				"enabled": true,
@@ -2648,7 +2648,7 @@
 				"enabled": true,
 				"id": "mimatic",
 				"address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
-				"name": "MAI",
+				"name": "Mimatic",
 				"symbol": "MAI",
 				"decimals": 18
 			} , {
@@ -4138,8 +4138,8 @@
 				"enabled": true,
 				"id": "mimatic",
 				"address": "0x7f5a79576620c046a293f54ffcdbd8f2468174f1",
-				"name": "MAI",
-				"symbol": "MIMATIC",
+				"name": "Mimatic",
+				"symbol": "MAI",
 				"decimals": 18
 			} , {
 				"enabled": true,
@@ -4662,13 +4662,6 @@
 				"name": "Tether",
 				"symbol": "USDT",
 				"decimals": 6
-			} , {
-				"enabled": true,
-				"id": "mimatic",
-				"address": "0xB9C8F0d3254007eE4b98970b94544e473Cd610EC",
-				"name": "Mai Stablecoin",
-				"symbol": "MAI",
-				"decimals": 18
 			} , {
 				"enabled": true,
 				"id": "sushi",
