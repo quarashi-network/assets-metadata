@@ -1514,7 +1514,7 @@
 				"enabled": true,
 				"id": "mimatic",
 				"address": "0x1c965D8E53fb1a448789e2B0FA5abc3EB2c36993",
-				"name": "Mimatic",
+				"name": "miMatic (Mai Stablecoin)",
 				"symbol": "MAI",
 				"decimals": 18
 			} , {
@@ -2110,7 +2110,7 @@
 				"enabled": true,
 				"id": "mimatic",
 				"address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
-				"name": "Mimatic",
+				"name": "miMatic (Mai Stablecoin)",
 				"symbol": "MAI",
 				"decimals": 18
 			} , {
@@ -2648,7 +2648,7 @@
 				"enabled": true,
 				"id": "mimatic",
 				"address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
-				"name": "Mimatic",
+				"name": "miMatic (Mai Stablecoin)",
 				"symbol": "MAI",
 				"decimals": 18
 			} , {
@@ -4138,7 +4138,7 @@
 				"enabled": true,
 				"id": "mimatic",
 				"address": "0x7f5a79576620c046a293f54ffcdbd8f2468174f1",
-				"name": "Mimatic",
+				"name": "miMatic (Mai Stablecoin)",
 				"symbol": "MAI",
 				"decimals": 18
 			} , {
@@ -4481,8 +4481,8 @@
 				"enabled": true,
 				"id": "mimatic",
 				"address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
-				"name": "Mai Stablecoin",
-				"symbol": "DIMAIA",
+				"name": "miMatic (Mai Stablecoin)",
+				"symbol": "MAI",
 				"decimals": 18
 			} , {
 				"enabled": true,
@@ -4869,8 +4869,8 @@
 				"enabled": true,
 				"id": "mimatic",
 				"address": "0x3B55E45fD6bd7d4724F5c47E0d1bCaEdd059263e",
-				"name": "MAI",
-				"symbol": "miMatic",
+				"name": "miMatic (Mai Stablecoin)",
+				"symbol": "MAI",
 				"decimals": 18
 			} , {
 				"enabled": true,
@@ -4988,7 +4988,7 @@
 				"enabled": true,
 				"id": "mimatic",
 				"address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
-				"name": "Mai Stablecoin",
+				"name": "miMatic (Mai Stablecoin)",
 				"symbol": "MAI",
 				"decimals": 18
 			} , {
