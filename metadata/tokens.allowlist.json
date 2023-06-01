@@ -1375,8 +1375,6 @@
 				"name": "HarmonyOne",
 				"symbol": "ONE",
 				"decimals": 18
-
-
 			}]
 		}
 	},
@@ -1678,8 +1676,6 @@
 				"name": "Elk Finance",
 				"symbol": "ELK",
 				"decimals":	18
-
-
 			}]
 		}
 	},
@@ -4309,7 +4305,6 @@
 				"name": "Arbitrum",
 				"symbol": "ARB",
 				"decimals": 18
-
 			} , {
 				"enabled": true,
 				"id": "dai",
