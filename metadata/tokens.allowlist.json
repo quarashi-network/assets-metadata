@@ -4917,7 +4917,7 @@
 			} , {
 				"enabled": true,
 				"id": "sushi",
-				"address": "0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc",
+				"address": "0x37b608519f91f70f2eeb0e5ed9af4061722e4f76",
 				"name": "SushiToken",
 				"symbol": "SUSHI",
 				"decimals": 18
