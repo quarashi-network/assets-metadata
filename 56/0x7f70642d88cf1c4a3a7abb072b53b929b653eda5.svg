@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 750 750" style="enable-background:new 0 0 750 750;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);enable-background:new    ;}
+	.st1{clip-path:url(#SVGID_4_);fill:#E8307A;}
+	.st2{fill:#FFFFFF;}
+	.st3{clip-path:url(#SVGID_6_);fill:#FFFFFF;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="750" height="750"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		<g>
+			<defs>
+				<rect id="SVGID_3_" x="21.8" y="21" width="706.9" height="706.9"/>
+			</defs>
+			<clipPath id="SVGID_4_">
+				<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+			</clipPath>
+			<path class="st1" d="M21.8,374.5C21.8,179.3,180,21,375.2,21s353.4,158.2,353.4,353.4S570.4,727.9,375.2,727.9
+				S21.8,569.7,21.8,374.5"/>
+		</g>
+	</g>
+</g>
+<rect x="223.5" y="358.6" class="st2" width="319.2" height="36.5"/>
+<g>
+	<defs>
+		<rect id="SVGID_5_" width="750" height="750"/>
+	</defs>
+	<clipPath id="SVGID_6_">
+		<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+	</clipPath>
+	<path class="st3" d="M373.7,415.8h-38.1c-14.4,29.3-44.6,49.5-79.4,49.5c-48.8,0-88.5-39.6-88.5-88.5c0-54.9,39.6-94.5,88.5-94.5
+		c12.3,0,24,2.5,38,8.6l-50.7,15.6l9.8,31.3l105.6-27.7l-39.6-107.7l-30.9,13.1l13.7,40.2c-15.8-7.3-27.3-8.7-45.8-8.7
+		c-68.4,0-123.8,55.4-123.8,129.8c0,68.4,55.4,123.9,123.8,123.9C310.9,500.7,357.3,465.1,373.7,415.8"/>
+	<path class="st3" d="M392.6,337.8h38.1c14.4-29.3,44.6-49.5,79.4-49.5c48.8,0,88.5,39.6,88.5,88.5c0,54.9-39.6,94.5-88.5,94.5
+		c-12.3,0-24-2.5-38-8.6l50.7-15.6l-9.8-31.3l-105.6,27.7l39.6,107.7l30.9-13.1L464.3,498c15.8,7.3,27.3,8.7,45.8,8.7
+		c68.4,0,123.8-55.4,123.8-129.9c0-68.4-55.5-123.8-123.8-123.8C455.4,253,408.9,288.5,392.6,337.8"/>
+</g>
+</svg>
