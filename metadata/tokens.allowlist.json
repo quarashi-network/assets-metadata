@@ -2642,13 +2642,6 @@
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"id": "mimatic",
-				"address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
-				"name": "miMatic (Mai Stablecoin)",
-				"symbol": "MAI",
-				"decimals": 18
-			} , {
-				"enabled": true,
 				"id": "dusk-network",
 				"address": "0xb2bd0749dbe21f623d9baba856d3b0f0e1bfec9c",
 				"name": "DUSK Network",
