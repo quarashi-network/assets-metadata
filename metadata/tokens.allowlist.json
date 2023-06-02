@@ -1889,8 +1889,8 @@
 				"enabled": true,
 				"id": "iota",
 				"address": "0xd944f1D1e9d5f9Bb90b62f9D45e447D989580782",
-				"name": "IOTA",
-				"symbol": "MIOTA",
+				"name": "MIOTAC",
+				"symbol": "IOTA",
 				"decimals": 6
 			} , {
 				"enabled": true,
