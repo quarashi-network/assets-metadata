@@ -224,7 +224,15 @@
 		"id": 8217,
 		"name": "Klaytn",
 		"urls": ["https://klaytn.foundation"],
-		"explorers": ["https://scope.klaytn.com"]
+		"explorers": ["https://scope.klaytn.com", "https://www.klaytnfinder.io"],
+		"testnet": {
+			"1001 ": {
+				"enabled": false,
+				"id": 1001,
+				"name": "Klaytn Testnet Baobab",
+				"explorers": ["https://baobab.klaytnscope.com", "https://baobab.klaytnfinder.io"]
+			}
+		}
 	},
 	"10001": {
 		"enabled": true,

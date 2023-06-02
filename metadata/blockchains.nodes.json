@@ -520,6 +520,24 @@
 				"enabled": true,
 				"url": "https://1rpc.io/klay"
 			}]
+		},
+		"testnet": {
+			"1001": {
+				"id": 1001,
+				"name": "Klaytn Testnet Baobab",
+				"nodes": {
+					"rpc": [{
+						"enabled": true,
+						"url": "https://public-node-api.klaytnapi.com/v1/baobab"
+					} , {
+						"enabled": true,
+						"url": "https://api.baobab.klaytn.net:8651"
+					} , {
+						"enabled": true,
+						"url": "https://klaytn-baobab.blockpi.network/v1/rpc/public"
+					}]
+				}
+			}
 		}
 	},
 	"10001": {

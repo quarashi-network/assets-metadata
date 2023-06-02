@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="500px" height="500px" viewBox="0 0 500 500" enable-background="new 0 0 500 500" xml:space="preserve">
-<linearGradient id="Symbol_1_" gradientUnits="userSpaceOnUse" x1="9.3223" y1="-699.9043" x2="15.2996" y2="-682.7106" gradientTransform="matrix(16.6482 0 0 28.2353 45.5313 19780)">
-	<stop  offset="0" style="stop-color:#BBE1EB"/>
-	<stop  offset="0.5482" style="stop-color:#6064AD"/>
-	<stop  offset="1" style="stop-color:#416CB4"/>
-</linearGradient>
-<path id="Symbol" fill="url(#Symbol_1_)" d="M123.676,8.485l55.477,14.914v411.473c107.014-14.558,163.087-79.938,173.942-202.338
-	l0.356-3.697l-119.54-32.81v-57.145L410.001,187.2v28.036v0.836c-0.237,9.542-1.192,18.728-2.146,27.558
-	c-14.198,132.188-77.188,197.089-149.964,226.913c-46.407,16.462-91.146,24.215-134.214,23.382V8.485z M233.912,37.953
-	l129.917,34.836v57.742L233.912,93.786V37.953z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Logo Symbol</title>
+    <defs>
+        <linearGradient x1="32.5002914%" y1="0%" x2="67.4997086%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#BAE1EB" offset="0%"></stop>
+            <stop stop-color="#6061E6" offset="54.8203489%"></stop>
+            <stop stop-color="#006BFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Logo-Symbol" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <path d="M133,69 L163.052612,77.0365641 L163.052612,299.060702 C220.952615,291.207368 251.314195,255.948194 257.24511,189.913073 L257.41736,187.902585 L192.702402,170.212557 L192.702402,139.380719 L287.989399,165.426463 L288,180.576655 L287.989399,181.041865 C287.854621,186.175737 287.333679,191.144001 286.817279,195.939127 C279.141256,267.2347 245.025141,302.299023 205.651642,318.352225 C180.503026,327.240288 156.285812,331.443871 133,330.962974 L133,69 Z M192.668049,84.8735913 L262.995888,103.662219 L262.995888,134.816682 L192.668049,114.984278 L192.668049,84.8735913 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+        </g>
+    </g>
 </svg>
