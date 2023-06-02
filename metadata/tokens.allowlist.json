@@ -2747,6 +2747,13 @@
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "insure",
+				"address": "0x9b17bAADf0f21F03e35249e0e59723F34994F806",
+				"name": "inSure DeFi",
+				"symbol": "SURE",
+				"decimals": 18
+			} , {
+				"enabled": true,
 				"id": "merit-circle",
 				"address": "0x949D48EcA67b17269629c7194F4b727d4Ef9E5d6",
 				"name": "Merit Circle",
