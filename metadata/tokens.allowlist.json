@@ -1950,13 +1950,6 @@
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"id": "frax",
-				"address": "0xe48A3d7d0Bc88d552f730B62c006bC925eadB9eE",
-				"name": "Frax",
-				"symbol": "FRAX",
-				"decimals": 18
-			} , {
-				"enabled": true,
 				"id": "frax-share",
 				"address": "0xe48A3d7d0Bc88d552f730B62c006bC925eadB9eE",
 				"name": "Frax Share",
