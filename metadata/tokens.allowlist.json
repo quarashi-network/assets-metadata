@@ -1803,9 +1803,9 @@
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"id": "Binance-Peg Ethereum",
+				"id": "weth",
 				"address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
-				"name": "ETH",
+				"name": "Binance-Peg Ethereum",
 				"symbol": "ETH",
 				"decimals": 18
 			} , {
