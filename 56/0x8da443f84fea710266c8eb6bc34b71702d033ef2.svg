@@ -8,9 +8,9 @@
 	.st2{fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:10;}
 </style>
 <circle class="st0" cx="250" cy="250" r="250"/>
-<path class="st1" d="M141.5,184.1L261.1,53l49.1,131.1"/>
-<path class="st1" d="M307.7,370.8L238.1,447L189,315.9"/>
-<path class="st2" d="M358.5,315.1L307.7,370"/>
-<path class="st1" d="M309.4,184.1h85.2l49.1,131.1H275l-49.1-131.1H56.3l49.1,131.1h84.4"/>
-<path class="st2" d="M309.4,184.1L189,315.1"/>
+<path class="st1" d="M147.5,187.7l113-123.9l46.4,123.9"/>
+<path class="st1" d="M304.5,364.1l-65.8,72l-46.4-123.9"/>
+<path class="st2" d="M352.5,311.5l-48,51.9"/>
+<path class="st1" d="M306.1,187.7h80.5L433,311.6H273.6l-46.4-123.9H67l46.4,123.9h79.8"/>
+<path class="st2" d="M306.1,187.7L192.4,311.5"/>
 </svg>
