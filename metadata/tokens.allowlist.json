@@ -50,7 +50,7 @@
 				"id": "wrapped-bitcoin",
 				"address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
 				"name": "Wrapped BTC",
-				"symbol": "WTBC",
+				"symbol": "WBTC",
 				"decimals": 8
 			} , {
 				"enabled": true,
@@ -4945,7 +4945,7 @@
 			} , {
 				"enabled": true,
 				"id": "wrapped-bitcoin",
-				"address": "0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB",
+				"address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
 				"name": "Wrapped BTC",
 				"symbol": "WBTC",
 				"decimals": 8
