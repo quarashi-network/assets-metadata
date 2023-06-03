@@ -2698,13 +2698,6 @@
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"id": "automata",
-				"address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
-				"name": "Automata",
-				"symbol": "ATA",
-				"decimals": 18
-			} , {
-				"enabled": true,
 				"id": "synapse-2",
 				"address": "0xa4080f1778e69467e905b8d6f72f6e441f9e9484",
 				"name": "Synapse",
