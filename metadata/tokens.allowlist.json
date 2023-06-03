@@ -4077,13 +4077,6 @@
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"id": "wrapped-bitcoin",
-				"address": "0x922D641a426DcFFaeF11680e5358F34d97d112E1",
-				"name": "Wrapped BTC",
-				"symbol": "wBTC",
-				"decimals": 8
-			} , {
-				"enabled": true,
 				"id": "fantom",
 				"address": "0xC19281F22A075E0F10351cd5D6Ea9f0AC63d4327",
 				"name": "Fantom",
