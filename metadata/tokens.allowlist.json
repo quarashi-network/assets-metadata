@@ -5,6 +5,91 @@
 		"tokens": {
 			"allowlist": [{
 				"enabled": true,
+				"id": "shiba-inu",
+				"address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+				"name": "SHIBA INU",
+				"symbol": "SHIB",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "dai",
+				"address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+				"name": "DAI Stablecoin",
+				"symbol": "DAI",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "arbitrum",
+				"address": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
+				"name": "Arbitrum",
+				"symbol": "ARB",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "the-sandbox",
+				"address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+				"name": "SAND",
+				"symbol": "SAND",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "render-token",
+				"address": "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24",
+				"name": "Render Token",
+				"symbol": "RNDR",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "loopring",
+				"address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
+				"name": "LoopringCoin V2",
+				"symbol": "LRC",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "mask-network",
+				"address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
+				"name": "Mask Network",
+				"symbol": "MASK",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "enjincoin",
+				"address": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
+				"name": "Enjin Coin",
+				"symbol": "ENJ",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "jasmycoin",
+				"address": "0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC",
+				"name": "JasmyCoin",
+				"symbol": "JASMY",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "celer-network",
+				"address": "0x4F9254C83EB525f9FCf346490bbb3ed28a81C667",
+				"name": "Celer Network",
+				"symbol": "CELR",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "aragon",
+				"address": "0xa117000000f279d81a1d3cc75430faa017fa5a2e",
+				"name": "Aragon Network Token",
+				"symbol": "ANT",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "stargate-finance",
+				"address": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+				"name": "Stargate Finance",
+				"symbol": "STG",
+				"decimals": 18
+
+			} , {
+				"enabled": true,
 				"id": "quarashi",
 				"address": "0xd35c06a2781f648c75290976ecF71E71582188B7",
 				"name": "Quarashi",
@@ -30,20 +115,6 @@
 				"address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
 				"name": "USD Coin",
 				"symbol": "USDC",
-				"decimals": 18
-			} , {
-				"enabled": true,
-				"id": "dai",
-				"address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-				"name": "DAI Stablecoin",
-				"symbol": "DAI",
-				"decimals": 18
-			} , {
-				"enabled": true,
-				"id": "arbitrum",
-				"address": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
-				"name": "Arbitrum",
-				"symbol": "ARB",
 				"decimals": 18
 			} , {
 				"enabled": true,
@@ -122,13 +193,6 @@
 				"name": "ApeCoin",
 				"symbol": "APE",
 				"decimals": 18
-			} ,{
-				"enabled": true,
-				"id": "shiba-inu",
-				"address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
-				"name": "SHIBA INU",
-				"symbol": "SHIB",
-				"decimals": 18
 			} , {
 				"enabled": true,
 				"id": "pepe",
@@ -156,13 +220,6 @@
 				"address": "0x1A4b46696b2bB4794Eb3D4c26f1c55F9170fa4C5",
 				"name": "BitDAO",
 				"symbol": "BIT",
-				"decimals": 18
-			} , {
-				"enabled": true,
-				"id": "the-sandbox",
-				"address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
-				"name": "SAND",
-				"symbol": "SAND",
 				"decimals": 18
 			} , {
 				"enabled": true,
@@ -219,13 +276,6 @@
 				"address": "0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6",
 				"name": "Decentralized USD",
 				"symbol": "USDD",
-				"decimals": 18
-			} , {
-				"enabled": true,
-				"id": "render-token",
-				"address": "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24",
-				"name": "Render Token",
-				"symbol": "RNDR",
 				"decimals": 18
 			} , {
 				"enabled": true,
@@ -320,13 +370,6 @@
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"id": "loopring",
-				"address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
-				"name": "LoopringCoin V2",
-				"symbol": "LRC",
-				"decimals": 18
-			} , {
-				"enabled": true,
 				"id": "woo-network",
 				"address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
 				"name": "Wootrade Network",
@@ -338,13 +381,6 @@
 				"address": "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
 				"name": "Nexo",
 				"symbol": "NEXO",
-				"decimals": 18
-			} , {
-				"enabled": true,
-				"id": "enjincoin",
-				"address": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
-				"name": "EnjinCoin",
-				"symbol": "ENJ",
 				"decimals": 18
 			} , {
 				"enabled": true,
@@ -373,13 +409,6 @@
 				"address": "0x111111111117dC0aa78b770fA6A738034120C302",
 				"name": "1INCH",
 				"symbol": "1INCH",
-				"decimals": 18
-			} , {
-				"enabled": true,
-				"id": "mask-network",
-				"address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
-				"name": "Mask Network",
-				"symbol": "MASK",
 				"decimals": 18
 			} , {
 				"enabled": true,
@@ -499,13 +528,6 @@
 				"address": "0xfF20817765cB7f73d4bde2e66e067E58D11095C2",
 				"name": "Amp",
 				"symbol": "AMP",
-				"decimals": 18
-			} , {
-				"enabled": true,
-				"id": "aragon",
-				"address": "0xa117000000f279d81a1d3cc75430faa017fa5a2e",
-				"name": "Aragon Network Token",
-				"symbol": "ANT",
 				"decimals": 18
 			} , {
 				"enabled": true,
