@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="38.25" height="38.25" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 38.25 38.25">
+  <defs>
+    <filter id="d" data-name="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="e" stdDeviation=".077"/>
+      <feFlood flood-color="#000" flood-opacity=".13"/>
+      <feComposite in2="e" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="f" data-name="drop-shadow-2" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="g" stdDeviation=".077"/>
+      <feFlood flood-color="#000" flood-opacity=".13"/>
+      <feComposite in2="g" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="h" data-name="drop-shadow-3" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="i" stdDeviation=".077"/>
+      <feFlood flood-color="#000" flood-opacity=".13"/>
+      <feComposite in2="i" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="j" data-name="drop-shadow-4" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="k" stdDeviation=".077"/>
+      <feFlood flood-color="#000" flood-opacity=".13"/>
+      <feComposite in2="k" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="c" data-name="Layer 1">
+    <g>
+      <g>
+        <circle cx="19" cy="19" r="19" fill="#50af95"/>
+        <path d="M21.404,21.565h0c-.134,.01-.828,.052-2.377,.052-1.232,0-2.106-.037-2.413-.052h0c-4.759-.209-8.312-1.038-8.312-2.03s3.552-1.819,8.312-2.032v3.237c.311,.022,1.202,.075,2.434,.075,1.478,0,2.218-.062,2.351-.074v-3.236c4.749,.212,8.294,1.04,8.294,2.03s-3.543,1.818-8.294,2.029h.004Zm0-4.393v-2.896h6.628v-4.417H9.987v4.417h6.627v2.895c-5.386,.247-9.437,1.314-9.437,2.593s4.051,2.344,9.437,2.593v9.281h4.789v-9.285c5.374-.247,9.418-1.313,9.418-2.591s-4.04-2.343-9.418-2.592h.001Z" fill="#fff" fill-rule="evenodd"/>
+      </g>
+      <g>
+        <circle cx="32.294" cy="32.294" r="5.706" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
+        <g>
+          <path d="M32.718,31.721l2.227-2.215-.845-.84-1.805,1.795-1.805-1.795-.845,.84,2.227,2.215c.117,.116,.27,.174,.422,.174s.306-.058,.422-.174Z" filter="url(#d)"/>
+          <path d="M35.942,34.087l-1.805-1.795,1.805-1.795-.845-.84-2.227,2.215c-.233,.232-.233,.608,0,.84l2.227,2.215,.845-.84h0Z" filter="url(#f)"/>
+          <path d="M32.292,34.127l1.805,1.795,.845-.84-2.227-2.215c-.233-.232-.612-.232-.845,0l-2.227,2.215,.845,.84,1.805-1.795h0Z" filter="url(#h)"/>
+          <path d="M31.718,32.715c.112-.111,.175-.263,.175-.42s-.063-.309-.175-.42l-2.227-2.215-.845,.84,1.805,1.795-1.805,1.795,.845,.84,2.227-2.215h0Z" filter="url(#j)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

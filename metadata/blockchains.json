@@ -5,7 +5,7 @@
 		"name": "Ethereum",
 		"slug": "eth-mainnet",
 		"urls": ["https://ethereum.org"],
-		"explorers": ["https://etherscan.io"],
+		"explorers": ["https://etherscan.io", "https://ethplorer.io"],
 		"testnet": {
 			"5": {
 				"enabled": false,

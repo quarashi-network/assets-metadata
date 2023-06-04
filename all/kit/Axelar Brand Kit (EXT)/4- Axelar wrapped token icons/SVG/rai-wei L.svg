@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="38.25" height="38.25" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 38.25 38.25">
+  <defs>
+    <linearGradient id="d" x1="-3050.821" y1="4609.144" x2="-3024.134" y2="4635.831" gradientTransform="translate(5318.779 -1564.211) rotate(40.059)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7cd1f2"/>
+      <stop offset="1" stop-color="#6dc39b"/>
+    </linearGradient>
+    <linearGradient id="e" x1="-2679.728" y1="9539.788" x2="-2655.926" y2="9563.59" gradientTransform="translate(9933.551 251.959) rotate(75.741)" xlink:href="#d"/>
+    <filter id="f" data-name="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="g" stdDeviation=".077"/>
+      <feFlood flood-color="#000" flood-opacity=".13"/>
+      <feComposite in2="g" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="h" data-name="drop-shadow-2" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="i" stdDeviation=".077"/>
+      <feFlood flood-color="#000" flood-opacity=".13"/>
+      <feComposite in2="i" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="j" data-name="drop-shadow-3" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="k" stdDeviation=".077"/>
+      <feFlood flood-color="#000" flood-opacity=".13"/>
+      <feComposite in2="k" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="l" data-name="drop-shadow-4" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="m" stdDeviation=".077"/>
+      <feFlood flood-color="#000" flood-opacity=".13"/>
+      <feComposite in2="m" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="c" data-name="Layer 1">
+    <g>
+      <g>
+        <circle cx="19.029" cy="18.923" r="18.871" fill="url(#d)"/>
+        <circle cx="19.029" cy="18.923" r="16.83" fill="url(#e)"/>
+        <path d="M22.928,16.033l.883-4.455c.108-.542-.308-1.048-.86-1.048h-1.611l-.757,3.817c-.369-.123-.758-.202-1.16-.233l.4-2.018h-2.679l-.527,2.657c-1.448,.84-2.422,2.407-2.422,4.201,0,1.112,.375,2.136,1.004,2.955l-.875,4.411c-.108,.542,.307,1.048,.86,1.048h1.611l.753-3.796c.37,.12,.759,.197,1.162,.225l-.398,2.005h2.679l.529-2.667c1.428-.845,2.386-2.401,2.386-4.18,0-1.097-.364-2.109-.978-2.922Zm-3.878,4.792c-.331,0-.641-.087-.911-.237-.572-.32-.96-.931-.96-1.633,0-.959,.722-1.748,1.651-1.856,.072-.008,.145-.014,.219-.014,.343,0,.663,.094,.94,.255,.556,.324,.931,.925,.931,1.615,0,.947-.705,1.728-1.618,1.851-.083,.011-.166,.019-.252,.019Z" fill="#fff"/>
+      </g>
+      <g>
+        <circle cx="32.294" cy="32.294" r="5.706" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
+        <g>
+          <path d="M32.718,31.721l2.227-2.215-.845-.84-1.805,1.795-1.805-1.795-.845,.84,2.227,2.215c.117,.116,.27,.174,.422,.174s.306-.058,.422-.174Z" filter="url(#f)"/>
+          <path d="M35.942,34.087l-1.805-1.795,1.805-1.795-.845-.84-2.227,2.215c-.233,.232-.233,.608,0,.84l2.227,2.215,.845-.84h0Z" filter="url(#h)"/>
+          <path d="M32.292,34.127l1.805,1.795,.845-.84-2.227-2.215c-.233-.232-.612-.232-.845,0l-2.227,2.215,.845,.84,1.805-1.795h0Z" filter="url(#j)"/>
+          <path d="M31.718,32.715c.112-.111,.175-.263,.175-.42s-.063-.309-.175-.42l-2.227-2.215-.845,.84,1.805,1.795-1.805,1.795,.845,.84,2.227-2.215h0Z" filter="url(#l)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

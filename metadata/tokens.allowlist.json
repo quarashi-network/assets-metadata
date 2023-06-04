@@ -5,6 +5,7 @@
 		"tokens": {
 			"allowlist": [{
 				"enabled": true,
+				"rank": 15,
 				"id": "shiba-inu",
 				"address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
 				"name": "SHIBA INU",
@@ -12,6 +13,7 @@
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"rank": 17,
 				"id": "dai",
 				"address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
 				"name": "DAI Stablecoin",
@@ -19,6 +21,7 @@
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"rank": 35,
 				"id": "arbitrum",
 				"address": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
 				"name": "Arbitrum",
@@ -26,13 +29,15 @@
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"rank": 43,
 				"id": "the-sandbox",
 				"address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
-				"name": "SAND",
+				"name": "The Sandbox",
 				"symbol": "SAND",
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"rank": 49,
 				"id": "render-token",
 				"address": "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24",
 				"name": "Render Token",
@@ -40,13 +45,7 @@
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"id": "loopring",
-				"address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
-				"name": "LoopringCoin V2",
-				"symbol": "LRC",
-				"decimals": 18
-			} , {
-				"enabled": true,
+				"rank": 95,
 				"id": "mask-network",
 				"address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
 				"name": "Mask Network",
@@ -54,6 +53,15 @@
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"rank": 96,
+				"id": "loopring",
+				"address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
+				"name": "LoopringCoin V2",
+				"symbol": "LRC",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"rank": 102,
 				"id": "enjincoin",
 				"address": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
 				"name": "Enjin Coin",
@@ -61,6 +69,7 @@
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"rank": 135,
 				"id": "jasmycoin",
 				"address": "0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC",
 				"name": "JasmyCoin",
@@ -68,6 +77,7 @@
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"rank": 167,
 				"id": "celer-network",
 				"address": "0x4F9254C83EB525f9FCf346490bbb3ed28a81C667",
 				"name": "Celer Network",
@@ -75,18 +85,44 @@
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"rank": 174,
 				"id": "aragon",
-				"address": "0xa117000000f279d81a1d3cc75430faa017fa5a2e",
+				"address": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
 				"name": "Aragon Network Token",
 				"symbol": "ANT",
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"rank": 180,
 				"id": "stargate-finance",
 				"address": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
 				"name": "Stargate Finance",
 				"symbol": "STG",
 				"decimals": 18
+			} , {
+				"enabled": true,
+				"rank": 182,
+				"id": "cartesi",
+				"address": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
+				"name": "Cartesi Token",
+				"symbol": "CTSI",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"rank": 185,
+				"id": "axelar",
+				"address": "0x467719aD09025FcC6cF6F8311755809d45a5E5f3",
+				"name": "Axelar",
+				"symbol": "AXL",
+				"decimals": 6
+			} , {
+				"enabled": true,
+				"rank": 194,
+				"id": "chromaway",
+				"address": "0x8A2279d4A90B6fe1C4B30fa660cC9f926797bAA2",
+				"name": "Chromia",
+				"symbol": "CHR",
+				"decimals": 6
 
 			} , {
 				"enabled": true,
@@ -535,13 +571,6 @@
 				"address": "0xf17e65822b568b3903685a7c9f496cf7656cc6c2",
 				"name": "Biconomy Token",
 				"symbol": "BICO",
-				"decimals": 18
-			} , {
-				"enabled": true,
-				"id": "cartesi",
-				"address": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
-				"name": "Cartesi Token",
-				"symbol": "CTSI",
 				"decimals": 18
 			} , {
 				"enabled": true,
