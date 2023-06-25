@@ -2,6 +2,7 @@
 	"1": {
 		"enabled": true,
 		"id": 1,
+		"id2": "ethereum",
 		"name": "Ethereum",
 		"slug": "eth-mainnet",
 		"urls": ["https://ethereum.org"],
@@ -24,6 +25,7 @@
 	"10": {
 		"enabled": true,
 		"id": 10,
+		"id2": "optimistic-ethereum",
 		"name": "Optimism",
 		"slug": "opt-mainnet",
 		"urls": ["https://optimism.io"],
@@ -40,6 +42,7 @@
 	"24": {
 		"enabled": true,
 		"id": 24,
+		"id2": "kardiachain",
 		"name": "KardiaChain",
 		"urls": ["https://kardiachain.io"],
 		"explorers": ["https://explorer.kardiachain.io"]
@@ -47,6 +50,7 @@
 	"25": {
 		"enabled": true,
 		"id": 25,
+		"id2": "cronos",
 		"name": "Cronos",
 		"urls": ["https://cronos.org"],
 		"explorers": ["https://cronoscan.com"]
@@ -54,6 +58,7 @@
 	"56": {
 		"enabled": true,
 		"id": 56,
+		"id2": "binance-smart-chain",
 		"name": "BNB Smart Chain",
 		"urls": ["https://bnbchain.org"],
 		"explorers": ["https://bscscan.com"],
@@ -69,6 +74,7 @@
 	"57": {
 		"enabled": true,
 		"id": 57,
+		"id2": "syscoin",
 		"name": "Syscoin",
 		"urls": ["https://syscoin.org"],
 		"explorers": ["https://explorer.syscoin.org"]
@@ -76,6 +82,7 @@
 	"60": {
 		"enabled": true,
 		"id": 60,
+		"id2": "gochain",
 		"name": "GoChain",
 		"urls": ["https://gochain.io"],
 		"explorers": ["https://explorer.gochain.io"]
@@ -83,6 +90,7 @@
 	"61": {
 		"enabled": true,
 		"id": 61,
+		"id2": "ethereum-classic",
 		"name": "Ethereum Classic",
 		"urls": ["https://ethereumclassic.org"],
 		"explorers": ["https://blockscout.com/etc/mainnet/"]
@@ -90,6 +98,7 @@
 	"66": {
 		"enabled": true,
 		"id": 66,
+		"id": "okex-chain",
 		"name": "OKXChain",
 		"urls": ["https://okx.com/oktc"],
 		"explorers": ["https://okx.com/explorer/oktc"],
@@ -105,6 +114,7 @@
 	"88": {
 		"enabled": true,
 		"id": 88,
+		"id2": "tomochain",
 		"name": "TomoChain",
 		"urls": ["https://tomochain.com"],
 		"explorers": ["https://tomoscan.io"]
@@ -119,6 +129,7 @@
 	"128": {
 		"enabled": true,
 		"id": 128,
+		"id2": "huobi-token",
 		"name": "Huobi ECO Chain",
 		"urls": ["https://hecochain.com"],
 		"explorers": ["https://hecoinfo.com"]
@@ -126,6 +137,7 @@
 	"137": {
 		"enabled": true,
 		"id": 137,
+		"id2": "polygon-pos",
 		"name": "Polygon",
 		"slug": "polygon-mainnet",
 		"urls": ["https://polygon.technology"],
@@ -142,6 +154,7 @@
 	"250": {
 		"enabled": true,
 		"id": 250,
+		"id2": "fantom",
 		"name": "Fantom Opera",
 		"urls": ["https://fantom.foundation"],
 		"explorers": ["https://ftmscan.com"]
@@ -149,6 +162,7 @@
 	"288": {
 		"enabled": true,
 		"id": 288,
+		"id2": "boba",
 		"name": "Boba Network",
 		"urls": ["https://boba.network"],
 		"explorers": ["https://bobascan.com"]
@@ -164,6 +178,7 @@
 	"324": {
 		"enabled": true,
 		"id": 324,
+		"id2": "zksync",
 		"name": "zkSync Era",
 		"urls": ["https://zksync.io"],
 		"explorers": ["https://explorer.zksync.io"],
@@ -179,6 +194,7 @@
 	"361": {
 		"enabled": true,
 		"id": 361,
+		"id2": "theta",
 		"name": "Theta",
 		"urls": ["https://thetatoken.org"],
 		"explorers": ["https://explorer.thetatoken.org"]
@@ -186,6 +202,7 @@
 	"369": {
 		"enabled": true,
 		"id": 369,
+		"id2": "pulsechain",
 		"name": "PulseChain",
 		"urls": ["https://pulsechain.com"],
 		"explorers": ["https://otter.pulsechain.com", "https://beacon.pulsechain.com", "https://scan.pulsechain.com"]
@@ -193,6 +210,7 @@
 	"1030": {
 		"enabled": true,
 		"id": 1030,
+		"id2": "conflux",
 		"name": "Conflux eSpace",
 		"urls": ["https://confluxnetwork.org"],
 		"explorers": ["https://evm.confluxscan.net"],
@@ -208,6 +226,7 @@
 	"1284": {
 		"enabled": true,
 		"id": 1284,
+		"id2": "moonbeam",
 		"name": "Moonbeam",
 		"urls": ["https://moonbeam.network"],
 		"explorers": ["https://moonbeam.moonscan.io"]
@@ -215,6 +234,7 @@
 	"1285": {
 		"enabled": true,
 		"id": 1285,
+		"id2": "moonriver",
 		"name": "Moonriver",
 		"urls": ["https://moonbeam.network/networks/moonriver/"],
 		"explorers": ["https://moonriver.moonscan.io"]
@@ -222,6 +242,7 @@
 	"8217": {
 		"enabled": true,
 		"id": 8217,
+		"id2": "klay-token",
 		"name": "Klaytn",
 		"urls": ["https://klaytn.foundation"],
 		"explorers": ["https://scope.klaytn.com", "https://www.klaytnfinder.io"],
@@ -237,6 +258,7 @@
 	"10001": {
 		"enabled": true,
 		"id": 10001,
+		"id2": "ethereumpow",
 		"name": "EthereumPoW",
 		"urls": ["https://ethereumpow.org"],
 		"explorers": ["https://ethwscan.com"]
@@ -244,6 +266,7 @@
 	"32659": {
 		"enabled": true,
 		"id": 32659,
+		"id2": "fusion-network",
 		"name": "Fusion",
 		"urls": ["https://fusion.org"],
 		"explorers": ["https://fsnscan.com"]
@@ -251,6 +274,7 @@
 	"32769": {
 		"enabled": true,
 		"id": 32769,
+		"id2": "zilliqa",
 		"name": "Zilliqa EVM",
 		"urls": ["https://www.zilliqa.com/"],
 		"explorers": ["https://evmx.zilliqa.com"],
@@ -266,6 +290,7 @@
 	"42161": {
 		"enabled": true,
 		"id": 42161,
+		"id2": "arbitrum-one",
 		"name": "Arbitrum One",
 		"slug": "arb-mainnet",
 		"urls": ["https://arbitrum.io"],
@@ -282,6 +307,7 @@
 	"42170": {
 		"enabled": true,
 		"id": 42170,
+		"id": "arbitrum-nova",
 		"name": "Arbitrum Nova",
 		"urls": ["https://nova.arbitrum.io"],
 		"explorers": ["https://nova-explorer.arbitrum.io"]
@@ -289,6 +315,7 @@
 	"42220": {
 		"enabled": true,
 		"id": 42220,
+		"id2": "celo",
 		"name": "Celo",
 		"urls": ["https://celo.org"],
 		"explorers": ["https://explorer.celo.org"],
@@ -310,6 +337,7 @@
 	"43114": {
 		"enabled": true,
 		"id": 43114,
+		"id2": "avalanche",
 		"name": "Avalanche C-Chain",
 		"urls": ["https://avax.network"],
 		"explorers": ["https://snowtrace.io"]
@@ -324,6 +352,7 @@
 	"1313161554": {
 		"enabled": true,
 		"id": 1313161554,
+		"id2": "aurora",
 		"name": "Aurora",
 		"urls": ["https://aurora.dev"],
 		"explorers": ["https://explorer.aurora.dev"]
@@ -332,6 +361,7 @@
 		"enabled": true,
 		"special_address": true,
 		"id": 1666600000,
+		"id2": "harmony-shard-0",
 		"name": "Harmony",
 		"urls": ["https://harmony.one"],
 		"explorers": ["https://explorer.harmony.one"]

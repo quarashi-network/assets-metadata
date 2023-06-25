@@ -4233,6 +4233,27 @@
 		"tokens": {
 			"allowlist": [{
 				"enabled": true,
+				"id": "tether",
+				"address": "0x5c13e303a62fc5dedf5b52d66873f2e59fedadc2",
+				"name": "Tether USD",
+				"symbol": "USDT",
+				"decimals": 6
+			} , {
+				"enabled": true,
+				"id": "usd-coin",
+				"address": "0x6270b58be569a7c0b8f47594f191631ae5b2c86c",
+				"name": "USD Coin",
+				"symbol": "USDC",
+				"decimals": 6
+			} , {
+				"enabled": true,
+				"id": "klaytn-dai",
+				"address": "0x5c74070fdea071359b86082bd9f9b3deaafbe32b",
+				"name": "Dai Stablecoin",
+				"symbol": "KDAI",
+				"decimals": 18
+			} , {
+				"enabled": true,
 				"id": "orbit-bridge-klaytn-ethereum",
 				"address": "0x34d21b1e550d73cee41151c77f3c73359527a396",
 				"name": "Ethereum",
@@ -4279,13 +4300,6 @@
 				"address": "0x210bc03f49052169d5588a52c317f71cf2078b85",
 				"name": "BUSD",
 				"symbol": "oBUSD",
-				"decimals": 18
-			} , {
-				"enabled": true,
-				"id": "klaytn-dai",
-				"address": "0x5c74070fdea071359b86082bd9f9b3deaafbe32b",
-				"name": "Dai Stablecoin",
-				"symbol": "KDAI",
 				"decimals": 18
 			} , {
 				"enabled": true,
