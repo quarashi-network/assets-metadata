@@ -64,16 +64,17 @@
 		"nodes": {
 			"rpc": [{
 				"enabled": true,
-				"url": "https://mainnet.optimism.io"
-			} , {
-				"enabled": true,
 				"url": "https://rpc.ankr.com/optimism"
 			} , {
 				"enabled": true,
 				"url": "https://1rpc.io/op"
 			} , {
 				"enabled": true,
-				"url": "https://nodes.quarashi.network/optimism"
+				"url": "https://nodes.quarashi.network/optimism",
+			} , {
+				"enabled": true,
+				"url": "https://mainnet.optimism.io"
+			} , {
 			}]
 		},
 		"testnet": {
