@@ -98,7 +98,7 @@
 	"66": {
 		"enabled": true,
 		"id": 66,
-		"id": "okex-chain",
+		"id2": "okex-chain",
 		"name": "OKXChain",
 		"urls": ["https://okx.com/oktc"],
 		"explorers": ["https://okx.com/explorer/oktc"],
@@ -307,7 +307,7 @@
 	"42170": {
 		"enabled": true,
 		"id": 42170,
-		"id": "arbitrum-nova",
+		"id2": "arbitrum-nova",
 		"name": "Arbitrum Nova",
 		"urls": ["https://nova.arbitrum.io"],
 		"explorers": ["https://nova-explorer.arbitrum.io"]
