@@ -64,13 +64,13 @@
 		"nodes": {
 			"rpc": [{
 				"enabled": true,
+				"url": "https://mainnet.optimism.io"
+			} , {
+				"enabled": true,
 				"url": "https://rpc.ankr.com/optimism"
 			} , {
 				"enabled": true,
 				"url": "https://1rpc.io/op"
-			} , {
-				"enabled": true,
-				"url": "https://mainnet.optimism.io"
 			} , {
 				"enabled": true,
 				"url": "https://nodes.quarashi.network/optimism"
@@ -143,6 +143,30 @@
 			} , {
 				"enabled": true,
 				"url": "https://bsc-dataseed4.binance.org"
+			} , {
+				"enabled": true,
+				"url": "https://bsc-dataseed1.defibit.io"
+			} , {
+				"enabled": true,
+				"url": "https://bsc-dataseed2.defibit.io"
+			} , {
+				"enabled": true,
+				"url": "https://bsc-dataseed3.defibit.io"
+			} , {
+				"enabled": true,
+				"url": "https://bsc-dataseed4.defibit.io"
+			} , {
+				"enabled": true,
+				"url": "https://bsc-dataseed1.ninicoin.io"
+			} , {
+				"enabled": true,
+				"url": "https://bsc-dataseed2.ninicoin.io"
+			} , {
+				"enabled": true,
+				"url": "https://bsc-dataseed3.ninicoin.io"
+			} , {
+				"enabled": true,
+				"url": "https://bsc-dataseed4.ninicoin.io"
 			} , {
 				"enabled": true,
 				"url": "https://bscrpc.com"
