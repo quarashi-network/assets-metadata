@@ -4104,6 +4104,12 @@
 				"name": "Quarashi",
 				"symbol": "QUA",
 				"decimals": 18
+			} , {
+				"enabled": true,
+				"address": "0x6130a0C4eB9eA062fC10df5C564149Da1d86565F",
+				"name": "Minereum32 - Only 32 Tokens Supply (M32)",
+				"symbol": "M32",
+				"decimals": 18
 			}]
 		}
 	},
