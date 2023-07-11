@@ -4071,6 +4071,13 @@
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "compound-governance-token",
+				"address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+				"name": "Compound",
+				"symbol": "COMP",
+				"decimals": 18
+			} , {
+				"enabled": true,
 				"id": "quarashi",
 				"address": "0xd35c06a2781f648c75290976ecF71E71582188B7",
 				"name": "Quarashi",
@@ -4411,6 +4418,13 @@
 				"address": "0x514910771af9ca656af840dff83e8264ecf986ca",
 				"name": "ChainLink",
 				"symbol": "LINK",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "compound-governance-token",
+				"address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+				"name": "Compound",
+				"symbol": "COMP",
 				"decimals": 18
 			} , {
 				"enabled": true,
@@ -5180,6 +5194,13 @@
 				"address": "0x514910771af9ca656af840dff83e8264ecf986ca",
 				"name": "ChainLink",
 				"symbol": "LINK",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "compound-governance-token",
+				"address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+				"name": "Compound",
+				"symbol": "COMP",
 				"decimals": 18
 			} , {
 				"enabled": true,
