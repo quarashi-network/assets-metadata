@@ -150,7 +150,7 @@
 				"address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
 				"name": "USD Coin",
 				"symbol": "USDC",
-				"decimals": 18
+				"decimals": 6
 			} , {
 				"enabled": true,
 				"id": "wrapped-bitcoin",
@@ -2903,13 +2903,34 @@
 			}]
 		}
 	},
+	"61": {
+		"id": 61,
+		"name": "Ethereum Classic",
+		"tokens": {
+			"allowlist": [{
+				"enabled": true,
+				"id": "tether",
+				"address": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
+				"name": "Tether",
+				"symbol": "USDT",
+				"decimals": 6
+			} , {
+				"enabled": true,
+				"id": "usd-coin",
+				"address": "0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
+				"name": "USD Coin",
+				"symbol": "USDC",
+				"decimals": 6
+			}]
+		}
+	},
 	"66": {
 		"id": 66,
 		"name": "OKXChain",
 		"tokens": {
 			"allowlist": [{
 				"enabled": true,
-				"id": "quarashi",
+				"id": "tether",
 				"address": "0x382bb369d343125bfb2117af9c149795c6c65c50",
 				"name": "Tether",
 				"symbol": "USDT",
@@ -4033,7 +4054,7 @@
 				"address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
 				"name": "USD Coin",
 				"symbol": "USDC",
-				"decimals": 18
+				"decimals": 6
 			} , {
 				"enabled": true,
 				"id": "wrapped-bitcoin",
@@ -4383,7 +4404,7 @@
 				"address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
 				"name": "USD Coin",
 				"symbol": "USDC",
-				"decimals": 18
+				"decimals": 6
 			} , {
 				"enabled": true,
 				"id": "wrapped-bitcoin",
@@ -4442,6 +4463,7 @@
 		"tokens": {
 			"allowlist": [{
 				"enabled": true,
+				"id": "tether",
 				"address": "0x9636d3294e45823ec924c8d89dd1f1dffcf044e6",
 				"name": "Tether",
 				"symbol": "USDT",
@@ -5159,7 +5181,7 @@
 				"address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
 				"name": "USD Coin",
 				"symbol": "USDC",
-				"decimals": 18
+				"decimals": 6
 			} , {
 				"enabled": true,
 				"id": "wrapped-bitcoin",
