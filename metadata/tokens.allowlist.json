@@ -2955,7 +2955,7 @@
 	},
 	"100": {
 		"id": 100,
-		"name": "Gnosis",
+		"name": "Gnosis Chain",
 		"tokens": {
 			"allowlist": [{
 				"enabled": true,
@@ -3074,7 +3074,7 @@
 	},
 	"128": {
 		"id": 128,
-		"name": "HECO",
+		"name": "Huobi ECO Chain",
 		"tokens": {
 			"allowlist": [{
 				"enabled": true,
