@@ -123,7 +123,6 @@
 				"name": "Chromia",
 				"symbol": "CHR",
 				"decimals": 6
-
 			} , {
 				"enabled": true,
 				"id": "quarashi",
@@ -4233,20 +4232,6 @@
 		"tokens": {
 			"allowlist": [{
 				"enabled": true,
-				"id": "tether",
-				"address": "0x5c13e303a62fc5dedf5b52d66873f2e59fedadc2",
-				"name": "Tether USD",
-				"symbol": "USDT",
-				"decimals": 6
-			} , {
-				"enabled": true,
-				"id": "usd-coin",
-				"address": "0x6270b58be569a7c0b8f47594f191631ae5b2c86c",
-				"name": "USD Coin",
-				"symbol": "USDC",
-				"decimals": 6
-			} , {
-				"enabled": true,
 				"id": "klaytn-dai",
 				"address": "0x5c74070fdea071359b86082bd9f9b3deaafbe32b",
 				"name": "Dai Stablecoin",
@@ -4292,7 +4277,7 @@
 				"id": "orbit-bridge-klaytn-matic",
 				"address": "0xa006ba407cfc6584c90bac24ed971261885a0fd6",
 				"name": "Matic",
-				"symbol": "MATIC",
+				"symbol": "oMATIC",
 				"decimals": 18
 			} , {
 				"enabled": true,
@@ -5030,10 +5015,52 @@
 		"tokens": {
 			"allowlist": [{
 				"enabled": true,
+				"id": "binance-usd",
+				"address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+				"name": "Binance USD",
+				"symbol": "BUSD",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "usd-coin",
+				"address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+				"name": "USD Coin",
+				"symbol": "USDC",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "wrapped-bitcoin",
+				"address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+				"name": "Wrapped BTC",
+				"symbol": "WBTC",
+				"decimals": 8
+			} , {
+				"enabled": true,
 				"id": "dai",
-				"address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+				"address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
 				"name": "Dai Stablecoin",
 				"symbol": "DAI",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "binancecoin",
+				"address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+				"name": "BNB",
+				"symbol": "BNB",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "chainlink",
+				"address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+				"name": "ChainLink",
+				"symbol": "LINK",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "quarashi",
+				"address": "0xd35c06a2781f648c75290976ecF71E71582188B7",
+				"name": "Quarashi",
+				"symbol": "QUA",
 				"decimals": 18
 			}]
 		}
