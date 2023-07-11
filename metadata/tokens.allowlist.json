@@ -4821,9 +4821,16 @@
 			"allowlist": [{
 				"enabled": true,
 				"id": "weth",
-				"address": "0x722E8BdD2ce80A4422E880164f2079488e115365",
+				"address": "0X722E8BDD2CE80A4422E880164F2079488E115365",
 				"name": "Wrapped Ether",
 				"symbol": "WETH",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "weth",
+				"address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+				"name": "Multichain anyWETH",
+				"symbol": "anyWETH",
 				"decimals": 18
 			} , {
 				"enabled": true,
