@@ -310,7 +310,7 @@
 		"id2": "arbitrum-nova",
 		"name": "Arbitrum Nova",
 		"urls": ["https://nova.arbitrum.io"],
-		"explorers": ["https://nova-explorer.arbitrum.io"]
+		"explorers": ["https://nova.arbiscan.io", "https://nova-explorer.arbitrum.io"]
 	},
 	"42220": {
 		"enabled": true,
