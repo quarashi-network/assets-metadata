@@ -4820,8 +4820,22 @@
 		"tokens": {
 			"allowlist": [{
 				"enabled": true,
+				"id": "arbitrum",
+				"address": "0xf823C3cD3CeBE0a1fA952ba88Dc9EEf8e0Bf46AD",
+				"name": "Arbitrum",
+				"symbol": "ARB",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "arbitrum",
+				"address": "0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818",
+				"name": "Multichain Arbitrum",
+				"symbol": "anyARB",
+				"decimals": 18,
+			} , {
+				"enabled": true,
 				"id": "weth",
-				"address": "0X722E8BDD2CE80A4422E880164F2079488E115365",
+				"address": "0x722E8BdD2ce80A4422E880164f2079488e115365",
 				"name": "Wrapped Ether",
 				"symbol": "WETH",
 				"decimals": 18
@@ -4845,13 +4859,6 @@
 				"address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
 				"name": "Dai Stablecoin",
 				"symbol": "DAI",
-				"decimals": 18
-			} , {
-				"enabled": true,
-				"id": "arbitrum",
-				"address": "0xf823C3cD3CeBE0a1fA952ba88Dc9EEf8e0Bf46AD",
-				"name": "Arbitrum",
-				"symbol": "ARB",
 				"decimals": 18
 			}]
 		}
