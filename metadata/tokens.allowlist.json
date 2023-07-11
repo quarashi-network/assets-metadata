@@ -4044,7 +4044,7 @@
 				"decimals": 18
 			} , {
 				"enabled": true,
-				"id": "wbnb",
+				"id": "binancecoin",
 				"address": "0x94bd7a37d2ce24cc597e158facaa8d601083ffec",
 				"name": "BNB",
 				"symbol": "BNB",
