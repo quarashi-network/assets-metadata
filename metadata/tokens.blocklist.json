@@ -20,5 +20,38 @@
 				"status": "DEPRECATED"
 			}]
 		}
+	},
+	"369": {
+		"id": 369,
+		"name": "PulseChain",
+		"tokens": {
+			"blocklist": [{
+				"address": "0x0aFf88B4Cf3015c9c17f1dA1FCCb88C632F3505E",
+				"name": "Quarashi V1 ERC-20",
+				"status": "DEPRECATED"
+			}]
+		}
+	},
+	"10001": {
+		"id": 10001,
+		"name": "EthereumPoW",
+		"tokens": {
+			"blocklist": [{
+				"address": "0x0aFf88B4Cf3015c9c17f1dA1FCCb88C632F3505E",
+				"name": "Quarashi V1 ERC-20",
+				"status": "DEPRECATED"
+			}]
+		}
+	},
+	"513100": {
+		"id": 513100,
+		"name": "Ethereum Fair",
+		"tokens": {
+			"blocklist": [{
+				"address": "0x0aFf88B4Cf3015c9c17f1dA1FCCb88C632F3505E",
+				"name": "Quarashi V1 ERC-20",
+				"status": "DEPRECATED"
+			}]
+		}
 	}
 }
