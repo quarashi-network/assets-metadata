@@ -4831,7 +4831,7 @@
 				"address": "0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818",
 				"name": "Multichain Arbitrum",
 				"symbol": "anyARB",
-				"decimals": 18,
+				"decimals": 18
 			} , {
 				"enabled": true,
 				"id": "weth",
