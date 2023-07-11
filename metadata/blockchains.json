@@ -93,7 +93,7 @@
 		"id2": "ethereum-classic",
 		"name": "Ethereum Classic",
 		"urls": ["https://ethereumclassic.org"],
-		"explorers": ["https://blockscout.com/etc/mainnet/"]
+		"explorers": ["https://blockscout.com/etc/mainnet"]
 	},
 	"66": {
 		"enabled": true,
@@ -101,13 +101,13 @@
 		"id2": "okex-chain",
 		"name": "OKXChain",
 		"urls": ["https://okx.com/oktc"],
-		"explorers": ["https://okx.com/explorer/oktc"],
+		"explorers": ["https://oklink.com/oktc", "https://okx.com/explorer/oktc"],
 		"testnet": {
 			"65": {
 				"enabled": false,
 				"id": 65,
 				"name": "OKXChain Testnet",
-				"explorers": ["https://www.oklink.com/okexchain-test"]
+				"explorers": ["https://oklink.com/okexchain-test"]
 			}
 		}
 	},
@@ -123,8 +123,8 @@
 		"enabled": true,
 		"id": 100,
 		"name": "Gnosis Chain",
-		"urls": ["https://gnosischain.com"],
-		"explorers": ["https://blockscout.com/xdai/mainnet/"]
+		"urls": ["https://gnosis.io"],
+		"explorers": ["https://gnosis.blockscout.com"]
 	},
 	"128": {
 		"enabled": true,
@@ -261,7 +261,7 @@
 		"id2": "ethereumpow",
 		"name": "EthereumPoW",
 		"urls": ["https://ethereumpow.org"],
-		"explorers": ["https://ethwscan.com"]
+		"explorers": ["https://oklink.com/ethw"]
 	},
 	"32659": {
 		"enabled": true,
