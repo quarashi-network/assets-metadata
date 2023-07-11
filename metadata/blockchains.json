@@ -318,7 +318,7 @@
 		"id2": "celo",
 		"name": "Celo",
 		"urls": ["https://celo.org"],
-		"explorers": ["https://explorer.celo.org"],
+		"explorers": ["https://explorer.celo.org/mainnet"],
 		"testnet": {
 			"44787": {
 				"enabled": false,

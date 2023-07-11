@@ -456,9 +456,6 @@
 			"rpc": [{
 				"enabled": true,
 				"url": "https://eth-rpc-api.thetatoken.org/rpc"
-			} , {
-				"enabled": true,
-				"url": "https://conflux-espace-public.unifra.io"
 			}]
 		}
 	},
@@ -483,6 +480,9 @@
 			"rpc": [{
 				"enabled": true,
 				"url": "https://evm.confluxrpc.com"
+			} , {
+				"enabled": true,
+				"url": "https://conflux-espace-public.unifra.io"
 			}]
 		},
 		"testnet": {
