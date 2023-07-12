@@ -1525,6 +1525,13 @@
 				"decimals": 6
 			} , {
 				"enabled": true,
+				"id": "usd-coin",
+				"address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+				"name": "USD Coin",
+				"symbol": "USDC",
+				"decimals": 6
+			} , {
+				"enabled": true,
 				"id": "weth",
 				"address": "0x1540020a94aa8bc189aa97639da213a4ca49d9a7",
 				"name": "Wrapped ETH",
