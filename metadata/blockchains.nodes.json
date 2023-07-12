@@ -288,7 +288,7 @@
 		"name": "Gnosis Chain",
 		"nodes": {
 			"rpc": [{
-				"enabled": true,
+				"enabled": false,
 				"url": "https://rpc.gnosischain.com"
 			} , {
 				"enabled": true,

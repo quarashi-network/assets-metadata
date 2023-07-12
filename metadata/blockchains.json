@@ -45,7 +45,7 @@
 		"id2": "kardiachain",
 		"name": "KardiaChain",
 		"urls": ["https://kardiachain.io"],
-		"explorers": ["https://explorer.kardiachain.io"]
+		"explorers": ["https://explorer.kardiachain.io", "https://legacy-explorer.kardiachain.io"]
 	},
 	"25": {
 		"enabled": true,
