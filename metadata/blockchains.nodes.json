@@ -481,7 +481,7 @@
 				"enabled": true,
 				"url": "https://evm.confluxrpc.com"
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"url": "https://conflux-espace-public.unifra.io"
 			}]
 		},
