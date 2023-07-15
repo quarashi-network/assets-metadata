@@ -2090,7 +2090,7 @@
 				"symbol": "CAKE",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "mask-network",
 				"address": "0x2eD9a5C8C13b93955103B9a7C167B67Ef4d568a3",
 				"name": "Mask Network",
@@ -2111,7 +2111,7 @@
 				"symbol": "1INCH",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "basic-attention-token",
 				"address": "0x101d82428437127bF1608F699CD651e6Abf9766E",
 				"name": "Basic Attention",
@@ -2237,7 +2237,7 @@
 				"symbol": "IOTX",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "band-protocol",
 				"address": "0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18",
 				"name": "Band Protocol",
@@ -2279,7 +2279,7 @@
 				"symbol": "CTSI",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "space-id",
 				"address": "0x2dfF88A56767223A5529eA5960Da7A3F5f766406",
 				"name": "SPACE ID",
@@ -2300,7 +2300,7 @@
 				"symbol": "ELF",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "kyber-network-crystal",
 				"address": "0xfe56d5892BDffC7BF58f2E84BE1b2C32D21C308b",
 				"name": "Kyber Network Crystal",
@@ -2397,7 +2397,7 @@
 				"symbol": "IDEX",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "defichain",
 				"address": "0x361C60b7c2828fCAb80988d00D1D542c83387b50",
 				"name": "DeFiChain",
@@ -2446,7 +2446,7 @@
 				"symbol": "ELON",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "my-neighbor-alice",
 				"address": "0xac51066d7bec65dc4589368da368b212745d63e8",
 				"name": "My Neighbor Alice",
@@ -2474,7 +2474,7 @@
 				"symbol": "XRP",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "biswap",
 				"address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1",
 				"name": "Biswap",
@@ -2488,14 +2488,14 @@
 				"symbol": "BIFI",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "cream-2",
 				"address": "0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888",
 				"name": "Cream",
 				"symbol": "CREAM",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "bakerytoken",
 				"address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
 				"name": "BakerySwap",
@@ -2544,7 +2544,7 @@
 				"symbol": "KMD",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "mines-of-dalarnia",
 				"address": "0x23CE9e926048273eF83be0A3A8Ba9Cb6D45cd978",
 				"name": "Mines of Dalarnia",
@@ -2572,7 +2572,7 @@
 				"symbol": "CELR",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "volt-inu-2",
 				"address": "0x7db5af2B9624e1b3B4Bb69D6DeBd9aD1016A58Ac",
 				"name": "VoltSwap",
@@ -2593,7 +2593,7 @@
 				"symbol": "DODO",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "seedify-fund",
 				"address": "0x477bC8d23c634C154061869478bce96BE6045D12",
 				"name": "SeedifyFund",
@@ -2649,14 +2649,14 @@
 				"symbol": "XVS",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "measurable-data-token",
 				"address": "0x668DB7aa38eaC6B40c9D13dBE61361DC4c4611d1",
 				"name": "Measurable Data",
 				"symbol": "MDT",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "winklink-bsc",
 				"address": "0xaeF0d72a118ce24feE3cD1d43d383897D05B4e99",
 				"name": "WINkLink BSC",
@@ -2691,7 +2691,7 @@
 				"symbol": "CEEK",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "radio-caca",
 				"address": "0x12BB890508c125661E03b09EC06E404bc9289040",
 				"name": "Radio Caca V2",
@@ -2705,7 +2705,7 @@
 				"symbol": "DUSK",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "mandala-exchange-token",
 				"address": "0x9C65AB58d8d978DB963e63f2bfB7121627e3a739",
 				"name": "Mandala Exchange",
@@ -2733,7 +2733,7 @@
 				"symbol": "PROM",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "wazirx",
 				"address": "0x8e17ed70334c87ece574c9d537bc153d8609e2a3",
 				"name": "WazirX",
@@ -2747,7 +2747,7 @@
 				"symbol": "NRV",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "mcdex",
 				"address": "0x5fe80d2cd054645b9419657d3d10d26391780a7b",
 				"name": "MCDEX",
@@ -2789,14 +2789,14 @@
 				"symbol": "OVR",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "insure",
 				"address": "0x9b17bAADf0f21F03e35249e0e59723F34994F806",
 				"name": "inSure DeFi",
 				"symbol": "SURE",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "merit-circle",
 				"address": "0x949D48EcA67b17269629c7194F4b727d4Ef9E5d6",
 				"name": "Merit Circle",
@@ -2810,7 +2810,7 @@
 				"symbol": "PERP",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "bella-protocol",
 				"address": "0x8443f091997f06a61670B735ED92734F5628692F",
 				"name": "Bella Protocol",
@@ -2824,63 +2824,63 @@
 				"symbol": "ILV",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "venus-btc",
 				"address": "0x882C173bC7Ff3b7786CA16dfeD3DFFfb9Ee7847B",
 				"name": "Venus BTC",
 				"symbol": "VBTC",
 				"decimals": 8
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "radiant-capital",
 				"address": "0xf7DE7E8A6bd59ED41a4b5fe50278b3B7f31384dF",
 				"name": "Radiant Capital",
 				"symbol": "RDNT",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "vai",
 				"address": "0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7",
 				"name": "Vai",
 				"symbol": "VAI",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "decentralized-intelligence-agency",
 				"address": "0x99956D38059cf7bEDA96Ec91Aa7BB2477E0901DD",
 				"name": "Decentralized Intelligence Agency",
 				"symbol": "DIA",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "clover-finance",
 				"address": "0x09E889BB4D5b474f561db0491C38702F367A4e4d",
 				"name": "Clover Finance",
 				"symbol": "CLV",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "metahero",
 				"address": "0xD40bEDb44C081D2935eebA6eF5a3c8A31A1bBE13",
 				"name": "Metahero",
 				"symbol": "HERO",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "everdome",
 				"address": "0x475bFaa1848591ae0E6aB69600f48d828f61a80E",
 				"name": "Everdome",
 				"symbol": "DOME",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "contentos",
 				"address": "0x96Dd399F9c3AFda1F194182F71600F1B65946501",
 				"name": "Contentos",
 				"symbol": "COS",
 				"decimals": 18
 			} , {
-				"enabled": true,
+				"enabled": false,
 				"id": "saito",
 				"address": "0x3c6DAd0475d3a1696B359dc04C99FD401BE134dA",
 				"name": "SAITO",
