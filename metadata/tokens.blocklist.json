@@ -7,6 +7,10 @@
 				"address": "0x0aFf88B4Cf3015c9c17f1dA1FCCb88C632F3505E",
 				"name": "Quarashi V1 ERC-20",
 				"status": "DEPRECATED"
+			} , {
+				"address": "0x11eeF04c884E24d9B7B4760e7476D06ddF797f36",
+				"name": "MX Token ERC-20",
+				"status": "DISABLED"
 			}]
 		}
 	},
@@ -18,6 +22,21 @@
 				"address": "0x7c0DCE613443a493d69Df8AA7623486602e63B65",
 				"name": "Quarashi V1 BEP-20",
 				"status": "DEPRECATED"
+			} , {
+				"address": "0x9F882567A62a5560d147d64871776EeA72Df41D3",
+				"name": "MX Token BEP-20",
+				"status": "DISABLED"
+			}]
+		}
+	},
+	"128": {
+		"id": 128,
+		"name": "Huobi ECO Chain",
+		"tokens": {
+			"blocklist": [{
+				"address": "0x8d854e603dc777337134286f5b3408261736a88f",
+				"name": "Heco-Peg MX Token HRC-20",
+				"status": "DISABLED"
 			}]
 		}
 	},
@@ -29,6 +48,10 @@
 				"address": "0x0aFf88B4Cf3015c9c17f1dA1FCCb88C632F3505E",
 				"name": "Quarashi V1 ERC-20",
 				"status": "DEPRECATED"
+			} , {
+				"address": "0x11eeF04c884E24d9B7B4760e7476D06ddF797f36",
+				"name": "MX Token ERC-20",
+				"status": "DISABLED"
 			}]
 		}
 	},
@@ -40,6 +63,10 @@
 				"address": "0x0aFf88B4Cf3015c9c17f1dA1FCCb88C632F3505E",
 				"name": "Quarashi V1 ERC-20",
 				"status": "DEPRECATED"
+			} , {
+				"address": "0x11eeF04c884E24d9B7B4760e7476D06ddF797f36",
+				"name": "MX Token ERC-20",
+				"status": "DISABLED"
 			}]
 		}
 	},
@@ -51,6 +78,10 @@
 				"address": "0x0aFf88B4Cf3015c9c17f1dA1FCCb88C632F3505E",
 				"name": "Quarashi V1 ERC-20",
 				"status": "DEPRECATED"
+			} , {
+				"address": "0x11eeF04c884E24d9B7B4760e7476D06ddF797f36",
+				"name": "MX Token ERC-20",
+				"status": "DISABLED"
 			}]
 		}
 	}
