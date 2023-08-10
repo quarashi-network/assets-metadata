@@ -527,6 +527,31 @@
 			}]
 		}
 	},
+	"8453": {
+		"id": 8453,
+		"name": "Base",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://mainnet.base.org"
+			} , {
+				"enabled": true,
+				"url": "https://developer-access-mainnet.base.org"
+			} , {
+				"enabled": true,
+				"url": "https://1rpc.io/base"
+			} , {
+				"enabled": true,
+				"url": "https://base-mainnet.public.blastapi.io"
+			} , {
+				"enabled": true,
+				"url": "https://base.meowrpc.com"
+			} , {
+				"enabled": true,
+				"url": "https://base.blockpi.network/v1/rpc/public"
+			}]
+		}
+	},
 	"8217": {
 		"id": 8217,
 		"name": "Klaytn",

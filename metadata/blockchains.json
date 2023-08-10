@@ -255,6 +255,14 @@
 			}
 		}
 	},
+	"8453": {
+		"enabled": true,
+		"id": 8453,
+		"id2": "base",
+		"name": "Base",
+		"urls": ["https://base.org"],
+		"explorers": ["https://basescan.org"]
+	},
 	"10001": {
 		"enabled": true,
 		"id": 10001,
