@@ -1,384 +1,435 @@
 {
-	"1": {
+	"ethereum": {
 		"enabled": true,
-		"id": 1,
+		"evm": true,
+		"chainid": 1,
 		"id2": "ethereum",
 		"name": "Ethereum",
 		"slug": "eth-mainnet",
 		"urls": ["https://ethereum.org"],
-		"explorers": ["https://etherscan.io", "https://ethplorer.io"],
+		"explorers": ["https://etherscan.io", "https://ethplorer.io", "https://eth.blockscout.com", "https://www.oklink.com/eth"],
 		"testnet": {
-			"5": {
+			"ethereum-goerli": {
 				"enabled": false,
-				"id": 5,
+				"chainid": 5,
 				"name": "Ethereum Görli",
 				"explorers": ["https://goerli.etherscan.io"]
 			},
-			"11155111": {
+			"ethereum-sepolia": {
 				"enabled": false,
-				"id": 11155111,
+				"chainid": 11155111,
 				"name": "Ethereum Sepolia",
 				"explorers": ["https://sepolia.etherscan.io"]
 			}
 		}
 	},
-	"10": {
+	"optimism": {
 		"enabled": true,
-		"id": 10,
+		"evm": true,
+		"chainid": 10,
 		"id2": "optimistic-ethereum",
 		"name": "Optimism",
 		"slug": "opt-mainnet",
 		"urls": ["https://optimism.io"],
 		"explorers": ["https://optimistic.etherscan.io"],
 		"testnet": {
-			"420": {
+			"optimism-goerli": {
 				"enabled": false,
-				"id": 420,
+				"chainid": 420,
 				"name": "Optimism Görli",
 				"explorers": ["https://goerli-explorer.optimism.io"]
 			}
 		}
 	},
-	"24": {
+	"kardiachain": {
 		"enabled": true,
-		"id": 24,
+		"evm": true,
+		"chainid": 24,
 		"id2": "kardiachain",
 		"name": "KardiaChain",
 		"urls": ["https://kardiachain.io"],
 		"explorers": ["https://explorer.kardiachain.io", "https://legacy-explorer.kardiachain.io"]
 	},
-	"25": {
+	"cronos": {
 		"enabled": true,
-		"id": 25,
+		"evm": true,
+		"chainid": 25,
 		"id2": "cronos",
 		"name": "Cronos",
 		"urls": ["https://cronos.org"],
 		"explorers": ["https://cronoscan.com"]
 	},
-	"56": {
+	"bnbsmartchain": {
 		"enabled": true,
-		"id": 56,
+		"evm": true,
+		"chainid": 56,
 		"id2": "binance-smart-chain",
 		"name": "BNB Smart Chain",
 		"urls": ["https://bnbchain.org"],
-		"explorers": ["https://bscscan.com"],
+		"explorers": ["https://bscscan.com", "https://binplorer.com", "https://www.oklink.com/bsc"],
 		"testnet": {
-			"97": {
+			"bnbsmartchain-testnet": {
 				"enabled": false,
-				"id": 97,
+				"chainid": 97,
 				"name": "BNB Smart Chain Testnet",
 				"explorers": ["https://testnet.bscscan.com"]
 			}
 		}
 	},
-	"57": {
+	"syscoin": {
 		"enabled": true,
-		"id": 57,
+		"evm": true,
+		"chainid": 57,
 		"id2": "syscoin",
 		"name": "Syscoin",
 		"urls": ["https://syscoin.org"],
 		"explorers": ["https://explorer.syscoin.org"]
 	},
-	"60": {
+	"gochain": {
 		"enabled": true,
-		"id": 60,
+		"evm": true,
+		"chainid": 60,
 		"id2": "gochain",
 		"name": "GoChain",
 		"urls": ["https://gochain.io"],
 		"explorers": ["https://explorer.gochain.io"]
 	},
-	"61": {
+	"ethereum-classic": {
 		"enabled": true,
-		"id": 61,
+		"evm": true,
+		"chainid": 61,
 		"id2": "ethereum-classic",
 		"name": "Ethereum Classic",
 		"urls": ["https://ethereumclassic.org"],
 		"explorers": ["https://blockscout.com/etc/mainnet"]
 	},
-	"66": {
+	"oktchain": {
 		"enabled": true,
-		"id": 66,
+		"evm": true,
+		"chainid": 66,
 		"id2": "okex-chain",
-		"name": "OKXChain",
+		"name": "OKTChain",
 		"urls": ["https://okx.com/oktc"],
 		"explorers": ["https://oklink.com/oktc", "https://okx.com/explorer/oktc"],
 		"testnet": {
-			"65": {
+			"oktchain-testnet": {
 				"enabled": false,
-				"id": 65,
-				"name": "OKXChain Testnet",
+				"chainid": 65,
+				"name": "OKTChain Testnet",
 				"explorers": ["https://oklink.com/okexchain-test"]
 			}
 		}
 	},
-	"88": {
+	"tomochain": {
 		"enabled": true,
-		"id": 88,
+		"evm": true,
+		"chainid": 88,
 		"id2": "tomochain",
 		"name": "TomoChain",
 		"urls": ["https://tomochain.com"],
 		"explorers": ["https://tomoscan.io"]
 	},
-	"100": {
+	"gnosis": {
 		"enabled": true,
-		"id": 100,
+		"evm": true,
+		"chainid": 100,
 		"name": "Gnosis Chain",
 		"urls": ["https://gnosis.io"],
 		"explorers": ["https://gnosis.blockscout.com"]
 	},
-	"128": {
+	"huobi": {
 		"enabled": true,
-		"id": 128,
+		"evm": true,
+		"chainid": 128,
 		"id2": "huobi-token",
 		"name": "Huobi ECO Chain",
 		"urls": ["https://hecochain.com"],
 		"explorers": ["https://hecoinfo.com"]
 	},
-	"137": {
+	"polygon": {
 		"enabled": true,
-		"id": 137,
+		"evm": true,
+		"chainid": 137,
 		"id2": "polygon-pos",
 		"name": "Polygon",
 		"slug": "polygon-mainnet",
 		"urls": ["https://polygon.technology"],
 		"explorers": ["https://polygonscan.com"],
 		"testnet": {
-			"80001": {
+			"polygon-mumbai": {
 				"enabled": false,
-				"id": 80001,
+				"chainid": 80001,
 				"name": "Polygon Mumbai",
 				"explorers": ["https://mumbai.polygonscan.com"]
 			}
 		}
 	},
-	"250": {
+	"fantom": {
 		"enabled": true,
-		"id": 250,
+		"evm": true,
+		"chainid": 250,
 		"id2": "fantom",
 		"name": "Fantom Opera",
 		"urls": ["https://fantom.foundation"],
 		"explorers": ["https://ftmscan.com"]
 	},
-	"288": {
+	"boba": {
 		"enabled": true,
-		"id": 288,
+		"evm": true,
+		"chainid": 288,
 		"id2": "boba",
 		"name": "Boba Network",
 		"urls": ["https://boba.network"],
 		"explorers": ["https://bobascan.com"]
 	},
-	"314": {
+	"filecoin": {
 		"enabled": true,
+		"evm": true,
 		"special_address": true,
-		"id": 314,
+		"chainid": 314,
 		"name": "Filecoin",
 		"urls": ["https://filecoin.io"],
 		"explorers": ["https://filfox.info"]
 	},
-	"324": {
+	"zksync": {
 		"enabled": true,
-		"id": 324,
+		"evm": true,
+		"chainid": 324,
 		"id2": "zksync",
 		"name": "zkSync Era",
 		"urls": ["https://zksync.io"],
 		"explorers": ["https://explorer.zksync.io"],
 		"testnet": {
-			"280": {
+			"zksync-testnet": {
 				"enabled": false,
-				"id": 280,
+				"chainid": 280,
 				"name": "zkSync Era Testnet",
 				"explorers": ["https://goerli.explorer.zksync.io"]
 			}
 		}
 	},
-	"361": {
+	"theta": {
 		"enabled": true,
-		"id": 361,
+		"evm": true,
+		"chainid": 361,
 		"id2": "theta",
 		"name": "Theta",
 		"urls": ["https://thetatoken.org"],
 		"explorers": ["https://explorer.thetatoken.org"]
 	},
-	"369": {
+	"pulsechain": {
 		"enabled": true,
-		"id": 369,
+		"evm": true,
+		"chainid": 369,
 		"id2": "pulsechain",
 		"name": "PulseChain",
 		"urls": ["https://pulsechain.com"],
 		"explorers": ["https://otter.pulsechain.com", "https://beacon.pulsechain.com", "https://scan.pulsechain.com"]
 	},
-	"1030": {
+	"conflux": {
 		"enabled": true,
-		"id": 1030,
+		"evm": true,
+		"chainid": 1030,
 		"id2": "conflux",
 		"name": "Conflux eSpace",
 		"urls": ["https://confluxnetwork.org"],
 		"explorers": ["https://evm.confluxscan.net"],
 		"testnet": {
-			"71": {
+			"conflux-testnet": {
 				"enabled": false,
-				"id": 71,
+				"chainid": 71,
 				"name": "Conflux eSpace Testnet",
 				"explorers": ["https://evmtestnet.confluxscan.net"]
 			}
 		}
 	},
-	"1284": {
+	"moonbeam": {
 		"enabled": true,
-		"id": 1284,
+		"evm": true,
+		"chainid": 1284,
 		"id2": "moonbeam",
 		"name": "Moonbeam",
 		"urls": ["https://moonbeam.network"],
 		"explorers": ["https://moonbeam.moonscan.io"]
 	},
-	"1285": {
+	"moonriver": {
 		"enabled": true,
-		"id": 1285,
+		"evm": true,
+		"chainid": 1285,
 		"id2": "moonriver",
 		"name": "Moonriver",
 		"urls": ["https://moonbeam.network/networks/moonriver/"],
 		"explorers": ["https://moonriver.moonscan.io"]
 	},
-	"8217": {
+	"klaytn": {
 		"enabled": true,
-		"id": 8217,
+		"evm": true,
+		"chainid": 8217,
 		"id2": "klay-token",
 		"name": "Klaytn",
 		"urls": ["https://klaytn.foundation"],
 		"explorers": ["https://scope.klaytn.com", "https://www.klaytnfinder.io"],
 		"testnet": {
-			"1001 ": {
+			"klaytn-baobab": {
 				"enabled": false,
-				"id": 1001,
+				"chainid": 1001,
 				"name": "Klaytn Testnet Baobab",
 				"explorers": ["https://baobab.klaytnscope.com", "https://baobab.klaytnfinder.io"]
 			}
 		}
 	},
-	"8453": {
+	"base": {
 		"enabled": true,
-		"id": 8453,
+		"evm": true,
+		"chainid": 8453,
 		"id2": "base",
 		"name": "Base",
 		"urls": ["https://base.org"],
 		"explorers": ["https://basescan.org"]
 	},
-	"10001": {
+	"ethereumpow": {
 		"enabled": true,
-		"id": 10001,
+		"evm": true,
+		"chainid": 10001,
 		"id2": "ethereumpow",
 		"name": "EthereumPoW",
 		"urls": ["https://ethereumpow.org"],
 		"explorers": ["https://oklink.com/ethw"]
 	},
-	"32659": {
+	"fusion": {
 		"enabled": true,
-		"id": 32659,
+		"evm": true,
+		"chainid": 32659,
 		"id2": "fusion-network",
 		"name": "Fusion",
 		"urls": ["https://fusion.org"],
 		"explorers": ["https://fsnscan.com"]
 	},
-	"32769": {
+	"zilliqa": {
 		"enabled": true,
-		"id": 32769,
+		"evm": true,
+		"chainid": 32769,
 		"id2": "zilliqa",
 		"name": "Zilliqa EVM",
 		"urls": ["https://www.zilliqa.com/"],
 		"explorers": ["https://evmx.zilliqa.com"],
 		"testnet": {
-			"33101": {
+			"zilliqa-testnet": {
 				"enabled": false,
-				"id": 33101,
+				"chainid": 33101,
 				"name": "Zilliqa EVM Testnet",
 				"explorers": ["https://evmx.zilliqa.com"]
 			}
 		}
 	},
-	"42161": {
+	"arbitrum-one": {
 		"enabled": true,
-		"id": 42161,
+		"evm": true,
+		"chainid": 42161,
 		"id2": "arbitrum-one",
 		"name": "Arbitrum One",
 		"slug": "arb-mainnet",
 		"urls": ["https://arbitrum.io"],
 		"explorers": ["https://arbiscan.io"],
 		"testnet": {
-			"421613": {
+			"arbitrum-one-goerli": {
 				"enabled": false,
-				"id": 421613,
+				"chainid": 421613,
 				"name": "Arbitrum Görli",
 				"explorers": ["https://testnet.arbiscan.io"]
 			}
 		}
 	},
-	"42170": {
+	"arbitrum-nova": {
 		"enabled": true,
-		"id": 42170,
+		"evm": true,
+		"chainid": 42170,
 		"id2": "arbitrum-nova",
 		"name": "Arbitrum Nova",
 		"urls": ["https://nova.arbitrum.io"],
 		"explorers": ["https://nova.arbiscan.io", "https://nova-explorer.arbitrum.io"]
 	},
-	"42220": {
+	"celo": {
 		"enabled": true,
-		"id": 42220,
+		"evm": true,
+		"chainid": 42220,
 		"id2": "celo",
 		"name": "Celo",
 		"urls": ["https://celo.org"],
 		"explorers": ["https://explorer.celo.org/mainnet"],
 		"testnet": {
-			"44787": {
+			"celo-alfajores": {
 				"enabled": false,
-				"id": 44787,
+				"chainid": 44787,
 				"name": "Celo Alfajores",
 				"explorers": ["https://alfajores-blockscout.celo-testnet.org"]
 			},
-			"62320": {
+			"celo-baklava": {
 				"enabled": false,
-				"id": 62320,
+				"chainid": 62320,
 				"name": "Celo Baklava",
 				"explorers": ["https://docs.celo.org"]
 			}
 		}
 	},
-	"43114": {
+	"avalanche": {
 		"enabled": true,
-		"id": 43114,
+		"evm": true,
+		"chainid": 43114,
 		"id2": "avalanche",
 		"name": "Avalanche C-Chain",
 		"urls": ["https://avax.network"],
 		"explorers": ["https://snowtrace.io"]
 	},
-	"513100": {
+	"ethereum-fair": {
 		"enabled": true,
-		"id": 513100,
+		"evm": true,
+		"chainid": 513100,
 		"name": "Ethereum Fair",
 		"urls": ["https://etherfair.org"],
 		"explorers": ["https://oklink.com/ethf"]
 	},
-	"1313161554": {
+	"aurora": {
 		"enabled": true,
-		"id": 1313161554,
+		"evm": true,
+		"chainid": 1313161554,
 		"id2": "aurora",
 		"name": "Aurora",
 		"urls": ["https://aurora.dev"],
 		"explorers": ["https://explorer.aurora.dev"]
 	},
-	"1666600000": {
+	"harmony": {
 		"enabled": true,
+		"evm": true,
 		"special_address": true,
-		"id": 1666600000,
+		"chainid": 1666600000,
 		"id2": "harmony-shard-0",
 		"name": "Harmony",
 		"urls": ["https://harmony.one"],
 		"explorers": ["https://explorer.harmony.one"]
 	},
-	"11297108109": {
+	"palm": {
 		"enabled": false,
-		"id": 11297108109,
+		"evm": true,
+		"chainid": 11297108109,
 		"name": "Palm",
 		"urls": ["https://palmnftstudio.com"],
 		"explorers": ["https://explorer.palm.io"]
+	},
+	"multiversx": {
+		"enabled": true,
+		"evm": false,
+		"special_address": true,
+		"chainid": "multiversx",
+		"name": "MultiversX",
+		"urls": ["https://multiversx.com"],
+		"explorers": ["https://explorer.multiversx.com"],
+		"testnet": {
+			"multiversx-devnet": {
+				"enabled": false,
+				"name": "MultiversX DevNet",
+				"explorers": ["https://explorer.multiversx.com"]
+			}
+		}
 	}
 }

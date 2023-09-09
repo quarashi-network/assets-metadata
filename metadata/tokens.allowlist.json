@@ -1,6 +1,6 @@
 {
-	"1": {
-		"id": 1,
+	"ethereum": {
+		"chainid": 1,
 		"name": "Ethereum",
 		"tokens": {
 			"allowlist": [{
@@ -1428,8 +1428,8 @@
 			}]
 		}
 	},
-	"10": {
-		"id": 10,
+	"optimism": {
+		"chainid": 10,
 		"name": "Optimism",
 		"tokens": {
 			"allowlist": [{
@@ -1512,8 +1512,8 @@
 			}]
 		}
 	},
-	"24": {
-		"id": 24,
+	"kardiachain": {
+		"chainid": 24,
 		"name": "KardiaChain",
 		"tokens": {
 			"allowlist": [{
@@ -1540,8 +1540,8 @@
 			}]
 		}
 	},
-	"25": {
-		"id": 25,
+	"cronos": {
+		"chainid": 25,
 		"name": "Cronos",
 		"tokens": {
 			"allowlist": [{
@@ -1736,8 +1736,8 @@
 			}]
 		}
 	},
-	"56": {
-		"id": 56,
+	"bnbsmartchain": {
+		"chainid": 56,
 		"name": "Binance Smart Chain",
 		"tokens": {
 			"allowlist": [{
@@ -2889,8 +2889,8 @@
 			}]
 		}
 	},
-	"57": {
-		"id": 57,
+	"syscoin": {
+		"chainid": 57,
 		"name": "Syscoin",
 		"tokens": {
 			"allowlist": [{
@@ -2910,8 +2910,29 @@
 			}]
 		}
 	},
-	"61": {
-		"id": 61,
+	"gochain": {
+		"chainid": 60,
+		"name": "GoChain",
+		"tokens": {
+			"allowlist": [{
+				"enabled": true,
+				"id": "turbo-wallet",
+				"address": "0xA25AB62fe6dC7e5BE35DF80Da3DA43ADD0a0e4A3",
+				"name": "Turbo Wallet",
+				"symbol": "TURBO",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "fast-finance",
+				"address": "0x67bBB47f6942486184f08a671155FCFA6cAd8d71",
+				"name": "Fast Finance",
+				"symbol": "FAST",
+				"decimals": 18
+			}]
+		}
+	},
+	"ethereum-classic": {
+		"chainid": 61,
 		"name": "Ethereum Classic",
 		"tokens": {
 			"allowlist": [{
@@ -2931,9 +2952,9 @@
 			}]
 		}
 	},
-	"66": {
-		"id": 66,
-		"name": "OKXChain",
+	"oktchain": {
+		"chainid": 66,
+		"name": "OKTChain",
 		"tokens": {
 			"allowlist": [{
 				"enabled": true,
@@ -2952,8 +2973,8 @@
 			}]
 		}
 	},
-	"88": {
-		"id": 88,
+	"tomochain": {
+		"chainid": 88,
 		"name": "TomoChain",
 		"tokens": {
 			"allowlist": [{
@@ -2980,8 +3001,8 @@
 			}]
 		}
 	},
-	"100": {
-		"id": 100,
+	"gnosis": {
+		"chainid": 100,
 		"name": "Gnosis Chain",
 		"tokens": {
 			"allowlist": [{
@@ -3099,8 +3120,8 @@
 			}]
 		}
 	},
-	"128": {
-		"id": 128,
+	"huobi": {
+		"chainid": 128,
 		"name": "Huobi ECO Chain",
 		"tokens": {
 			"allowlist": [{
@@ -3225,8 +3246,8 @@
 			}]
 		}
 	},
-	"137": {
-		"id": 137,
+	"polygon": {
+		"chainid": 137,
 		"name": "Polygon",
 		"tokens": {
 			"allowlist": [{
@@ -3778,8 +3799,8 @@
 			}]
 		}
 	},
-	"250": {
-		"id": 250,
+	"fantom": {
+		"chainid": 250,
 		"name": "Fantom Opera",
 		"tokens": {
 			"allowlist": [{
@@ -3946,8 +3967,8 @@
 			}]
 		}
 	},
-	"288": {
-		"id": 288,
+	"boba": {
+		"chainid": 288,
 		"name": "Boba Network",
 		"tokens": {
 			"allowlist": [{
@@ -4023,8 +4044,8 @@
 			}]
 		}
 	},
-	"324": {
-		"id": 324,
+	"zksync": {
+		"chainid": 324,
 		"name": "zkSync",
 		"tokens": {
 			"allowlist": [{
@@ -4037,8 +4058,8 @@
 			}]
 		}
 	},
-	"369": {
-		"id": 369,
+	"pulsechain": {
+		"chainid": 369,
 		"name": "PulseChain",
 		"tokens": {
 			"allowlist": [{
@@ -4120,8 +4141,8 @@
 			}]
 		}
 	},
-	"1030": {
-		"id": 1030,
+	"conflux": {
+		"chainid": 1030,
 		"name": "Conflux eSpace",
 		"tokens": {
 			"allowlist": [{
@@ -4169,8 +4190,8 @@
 			}]
 		}
 	},
-	"1284": {
-		"id": 1284,
+	"moonbeam": {
+		"chainid": 1284,
 		"name": "Moonbeam",
 		"tokens": {
 			"allowlist": [{
@@ -4267,8 +4288,8 @@
 			}]
 		}
 	},
-	"1285": {
-		"id": 1285,
+	"moonriver": {
+		"chainid": 1285,
 		"name": "Moonriver",
 		"tokens": {
 			"allowlist": [{
@@ -4330,8 +4351,8 @@
 			}]
 		}
 	},
-	"8217": {
-		"id": 8217,
+	"klaytn": {
+		"chainid": 8217,
 		"name": "Klaytn",
 		"tokens": {
 			"allowlist": [{
@@ -4407,8 +4428,8 @@
 			}]
 		}
 	},
-	"10001": {
-		"id": 10001,
+	"ethereumpow": {
+		"chainid": 10001,
 		"name": "EthereumPoW",
 		"tokens": {
 			"allowlist": [{
@@ -4477,8 +4498,8 @@
 			}]
 		}
 	},
-	"32659": {
-		"id": 32659,
+	"fusion": {
+		"chainid": 32659,
 		"name": "Fusion",
 		"tokens": {
 			"allowlist": [{
@@ -4491,8 +4512,8 @@
 			}]
 		}
 	},
-	"42161": {
-		"id": 42161,
+	"arbitrum-one": {
+		"chainid": 42161,
 		"name": "Arbitrum One",
 		"tokens": {
 			"allowlist": [{
@@ -4834,8 +4855,8 @@
 			}]
 		}
 	},
-	"42170": {
-		"id": 42170,
+	"arbitrum-nova": {
+		"chainid": 42170,
 		"name": "Arbitrum Nova",
 		"tokens": {
 			"allowlist": [{
@@ -4883,8 +4904,8 @@
 			}]
 		}
 	},
-	"42220": {
-		"id": 42220,
+	"celo": {
+		"chainid": 42220,
 		"name": "Celo",
 		"tokens": {
 			"allowlist": [{
@@ -4946,8 +4967,8 @@
 			}]
 		}
 	},
-	"43114": {
-		"id": 43114,
+	"avalanche": {
+		"chainid": 43114,
 		"name": "Avalanche C-Chain",
 		"tokens": {
 			"allowlist": [{
@@ -5198,8 +5219,8 @@
 			}]
 		}
 	},
-	"513100": {
-		"id": 513100,
+	"ethereum-fair": {
+		"chainid": 513100,
 		"name": "Ethereum Fair",
 		"tokens": {
 			"allowlist": [{
@@ -5268,8 +5289,64 @@
 			}]
 		}
 	},
-	"1666600000": {
-		"id": 1666600000,
+	"aurora": {
+		"chainid": 1313161554,
+		"name": "Aurora",
+		"tokens": {
+			"allowlist": [{
+				"enabled": true,
+				"id": "aurora-near",
+				"address": "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+				"name": "Aurora",
+				"symbol": "AURORA",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "tether",
+				"address": "0x4988a896b1227218e4A686fdE5EabdcAbd91571f",
+				"name": "Tether",
+				"symbol": "USDT.e",
+				"decimals": 6
+			} , {
+				"enabled": true,
+				"id": "weth",
+				"address": "0xc9bdeed33cd01541e1eed10f90519d2c06fe3feb",
+				"name": "Wrapped Ether",
+				"symbol": "WETH",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "bastion-protocol",
+				"address": "0x9f1F933C660a1DC856F0E0Fe058435879c5CCEf0",
+				"name": "Bastion",
+				"symbol": "BSTN",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "dai",
+				"address": "0xe3520349f477a5f6eb06107066048508498a291b",
+				"name": "Dai Stablecoin",
+				"symbol": "DAI",
+				"decimals": 18
+			} , {
+				"enabled": true,
+				"id": "usd-coin",
+				"address": "0xb12bfca5a55806aaf64e99521918a4bf0fc40802",
+				"name": "USDC",
+				"symbol": "USDC.e",
+				"decimals": 6
+			} , {
+				"enabled": true,
+				"id": "wrapped-bitcoin",
+				"address": "0xf4eb217ba2454613b15dbdea6e5f22276410e89e",
+				"name": "Wrapped BTC",
+				"symbol": "WBTC",
+				"decimals": 8
+			}]
+		}
+	},
+	"harmony": {
+		"chainid": 1666600000,
 		"name": "Harmony",
 		"tokens": {
 			"allowlist": [{
@@ -5328,62 +5405,6 @@
 				"name": "DAI Stablecoin",
 				"symbol": "DAI",
 				"decimals": 18
-			}]
-		}
-	},
-	"1313161554": {
-		"id": 1313161554,
-		"name": "Aurora",
-		"tokens": {
-			"allowlist": [{
-				"enabled": true,
-				"id": "aurora-near",
-				"address": "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
-				"name": "Aurora",
-				"symbol": "AURORA",
-				"decimals": 18
-			} , {
-				"enabled": true,
-				"id": "tether",
-				"address": "0x4988a896b1227218e4A686fdE5EabdcAbd91571f",
-				"name": "Tether",
-				"symbol": "USDT.e",
-				"decimals": 6
-			} , {
-				"enabled": true,
-				"id": "weth",
-				"address": "0xc9bdeed33cd01541e1eed10f90519d2c06fe3feb",
-				"name": "Wrapped Ether",
-				"symbol": "WETH",
-				"decimals": 18
-			} , {
-				"enabled": true,
-				"id": "bastion-protocol",
-				"address": "0x9f1F933C660a1DC856F0E0Fe058435879c5CCEf0",
-				"name": "Bastion",
-				"symbol": "BSTN",
-				"decimals": 18
-			} , {
-				"enabled": true,
-				"id": "dai",
-				"address": "0xe3520349f477a5f6eb06107066048508498a291b",
-				"name": "Dai Stablecoin",
-				"symbol": "DAI",
-				"decimals": 18
-			} , {
-				"enabled": true,
-				"id": "usd-coin",
-				"address": "0xb12bfca5a55806aaf64e99521918a4bf0fc40802",
-				"name": "USDC",
-				"symbol": "USDC.e",
-				"decimals": 6
-			} , {
-				"enabled": true,
-				"id": "wrapped-bitcoin",
-				"address": "0xf4eb217ba2454613b15dbdea6e5f22276410e89e",
-				"name": "Wrapped BTC",
-				"symbol": "WBTC",
-				"decimals": 8
 			}]
 		}
 	}

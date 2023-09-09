@@ -1,6 +1,6 @@
 {
-	"1": {
-		"id": 1,
+	"ethereum": {
+		"chainid": 1,
 		"name": "Ethereum",
 		"tokens": {
 			"blocklist": [{
@@ -14,8 +14,8 @@
 			}]
 		}
 	},
-	"56": {
-		"id": 56,
+	"bnbsmartchain": {
+		"chainid": 56,
 		"name": "Binance Smart Chain",
 		"tokens": {
 			"blocklist": [{
@@ -29,8 +29,8 @@
 			}]
 		}
 	},
-	"128": {
-		"id": 128,
+	"huobi": {
+		"chainid": 128,
 		"name": "Huobi ECO Chain",
 		"tokens": {
 			"blocklist": [{
@@ -40,8 +40,8 @@
 			}]
 		}
 	},
-	"369": {
-		"id": 369,
+	"pulsechain": {
+		"chainid": 369,
 		"name": "PulseChain",
 		"tokens": {
 			"blocklist": [{
@@ -55,8 +55,8 @@
 			}]
 		}
 	},
-	"10001": {
-		"id": 10001,
+	"ethereumpow": {
+		"chainid": 10001,
 		"name": "EthereumPoW",
 		"tokens": {
 			"blocklist": [{
@@ -70,8 +70,8 @@
 			}]
 		}
 	},
-	"513100": {
-		"id": 513100,
+	"ethereum-fair": {
+		"chainid": 513100,
 		"name": "Ethereum Fair",
 		"tokens": {
 			"blocklist": [{
