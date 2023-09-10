@@ -3967,9 +3967,9 @@
 			}]
 		}
 	},
-	"boba": {
+	"boba-eth": {
 		"chainid": 288,
-		"name": "Boba Network",
+		"name": "Boba Network (ETH)",
 		"tokens": {
 			"allowlist": [{
 				"enabled": true,
@@ -5215,6 +5215,20 @@
 				"address": "0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc",
 				"name": "yearn.finance",
 				"symbol": "YFI",
+				"decimals": 18
+			}]
+		}
+	},
+	"boba-bnb": {
+		"chainid": 56288,
+		"name": "Boba Network (BNB)",
+		"tokens": {
+			"allowlist": [{
+				"enabled": true,
+				"id": "binance-usd",
+				"address": "0x4a2c2838c3907D024916c3f4Fe07832745Ae4bec",
+				"name": "Binance USD",
+				"symbol": "BUSD",
 				"decimals": 18
 			}]
 		}

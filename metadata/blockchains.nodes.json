@@ -398,9 +398,9 @@
 			}]
 		}
 	},
-	"boba": {
+	"boba-eth": {
 		"chainid": 288,
-		"name": "Boba Network",
+		"name": "Boba Network (ETH)",
 		"nodes": {
 			"rpc": [{
 				"enabled": true,
@@ -747,6 +747,16 @@
 			} , {
 				"enabled": true,
 				"url": "https://nodes.quarashi.network/avalanche"
+			}]
+		}
+	},
+	"boba-bnb": {
+		"chainid": 56288,
+		"name": "Boba Network (BNB)",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://bnb.boba.network"
 			}]
 		}
 	},

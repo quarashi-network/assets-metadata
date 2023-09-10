@@ -173,12 +173,12 @@
 		"urls": ["https://fantom.foundation"],
 		"explorers": ["https://ftmscan.com"]
 	},
-	"boba": {
+	"boba-eth": {
 		"enabled": true,
 		"evm": true,
 		"chainid": 288,
 		"id2": "boba",
-		"name": "Boba Network",
+		"name": "Boba Network (ETH)",
 		"urls": ["https://boba.network"],
 		"explorers": ["https://bobascan.com"]
 	},
@@ -380,6 +380,15 @@
 		"name": "Avalanche C-Chain",
 		"urls": ["https://avax.network"],
 		"explorers": ["https://snowtrace.io"]
+	},
+	"boba-bnb": {
+		"enabled": true,
+		"evm": true,
+		"chainid": 56288,
+		"id2": "boba",
+		"name": "Boba Network (BNB)",
+		"urls": ["https://boba.network"],
+		"explorers": ["https://bnb.bobascan.com/"]
 	},
 	"ethereum-fair": {
 		"enabled": true,
