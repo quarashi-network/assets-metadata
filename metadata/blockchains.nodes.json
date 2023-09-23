@@ -4,8 +4,9 @@
 		"name": "Ethereum",
 		"nodes": {
 			"rpc": [{
-				"enabled": true,
-				"url": "https://cloudflare-eth.com"
+				"enabled": false,
+				"url": "https://cloudflare-eth.com",
+				"comment": "Batching limited to only 10 requests per batch"
 			} , {
 				"enabled": true,
 				"url": "https://eth.llamarpc.com"
@@ -64,6 +65,9 @@
 		"nodes": {
 			"rpc": [{
 				"enabled": true,
+				"url": "https://mainnet.optimism.io"
+			} , {
+				"enabled": true,
 				"url": "https://rpc.ankr.com/optimism"
 			} , {
 				"enabled": true,
@@ -71,9 +75,6 @@
 			} , {
 				"enabled": true,
 				"url": "https://nodes.quarashi.network/optimism"
-			} , {
-				"enabled": true,
-				"url": "https://mainnet.optimism.io"
 			}]
 		},
 		"testnet": {
@@ -288,7 +289,7 @@
 		"name": "Gnosis Chain",
 		"nodes": {
 			"rpc": [{
-				"enabled": false,
+				"enabled": true,
 				"url": "https://rpc.gnosischain.com"
 			} , {
 				"enabled": true,
@@ -413,7 +414,7 @@
 	},
 	"filecoin": {
 		"chainid": 314,
-		"name": "Filecoin",
+		"name": "Filecoin FEVM",
 		"nodes": {
 			"rpc": [{
 				"enabled": true,
@@ -421,9 +422,6 @@
 			} , {
 				"enabled": true,
 				"url": "https://rpc.ankr.com/filecoin"
-			} , {
-				"enabled": true,
-				"url": "https://api.node.glif.io"
 			}]
 		}
 	},
@@ -434,6 +432,9 @@
 			"rpc": [{
 				"enabled": true,
 				"url": "https://mainnet.era.zksync.io"
+			} , {
+				"enabled": true,
+				"url": "https://zksync2-mainnet.zksync.io"
 			}]
 		},
 		"testnet": {
@@ -480,9 +481,6 @@
 			"rpc": [{
 				"enabled": true,
 				"url": "https://evm.confluxrpc.com"
-			} , {
-				"enabled": false,
-				"url": "https://conflux-espace-public.unifra.io"
 			}]
 		},
 		"testnet": {
@@ -527,22 +525,53 @@
 			}]
 		}
 	},
+	"mantle": {
+		"chainid": 5000,
+		"name": "Mantle",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://rpc.mantle.xyz"
+			} , {
+				"enabled": true,
+				"url": "https://rpc.ankr.com/mantle"
+			} , {
+				"enabled": true,
+				"url": "https://mantle.publicnode.com"
+			} , {
+				"enabled": true,
+				"url": "https://mantle.drpc.org"
+			} , {
+				"enabled": true,
+				"url": "https://mantle-mainnet.public.blastapi.io"
+			}]
+		}
+	},
 	"klaytn": {
 		"chainid": 8217,
 		"name": "Klaytn",
 		"nodes": {
 			"rpc": [{
 				"enabled": true,
-				"url": "https://public-node-api.klaytnapi.com/v1/cypress"
-			} , {
-				"enabled": true,
-				"url": "https://klaytn.public-rpc.com"
+				"url": "https://public-en-cypress.klaytn.net"
 			} , {
 				"enabled": true,
 				"url": "https://rpc.ankr.com/klaytn"
 			} , {
 				"enabled": true,
 				"url": "https://1rpc.io/klay"
+			} , {
+				"enabled": true,
+				"url": "https://klaytn.blockpi.network/v1/rpc/public"
+			} , {
+				"enabled": true,
+				"url": "https://klaytn.api.onfinality.io/public"
+			} , {
+				"enabled": true,
+				"url": "https://klaytn.drpc.org"
+			} , {
+				"enabled": true,
+				"url": "https://klaytn.public-rpc.com"
 			}]
 		},
 		"testnet": {
@@ -757,6 +786,25 @@
 			"rpc": [{
 				"enabled": true,
 				"url": "https://bnb.boba.network"
+			}]
+		}
+	},
+	"linea": {
+		"chainid": 59144,
+		"name": "Linea",
+		"nodes": {
+			"rpc": [{
+				"enabled": true,
+				"url": "https://rpc.linea.build"
+			} , {
+				"enabled": true,
+				"url": "https://1rpc.io/linea"
+			} , {
+				"enabled": true,
+				"url": "https://linea.drpc.org"
+			} , {
+				"enabled": true,
+				"url": "https://linea.blockpi.network/v1/rpc/public"
 			}]
 		}
 	},
