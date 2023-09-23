@@ -64,8 +64,9 @@
 		"name": "Optimism",
 		"nodes": {
 			"rpc": [{
-				"enabled": true,
-				"url": "https://mainnet.optimism.io"
+				"enabled": false,
+				"url": "https://mainnet.optimism.io",
+				"comment": "Batching limited to only 10 requests per batch"
 			} , {
 				"enabled": true,
 				"url": "https://rpc.ankr.com/optimism"
