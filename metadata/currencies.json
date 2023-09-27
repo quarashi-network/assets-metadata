@@ -1,0 +1,285 @@
+{
+	"currencies": [{
+		"enabled": true,
+		"name": "United Arab Emirates Dirham",
+		"country": "AE",
+		"symbol": "AED",
+		"alternate": "د.إ"
+	} , {
+		"enabled": true,
+		"name": "Argentine Peso",
+		"country": "AR",
+		"symbol": "ARS",
+		"alternate": "ARG$"
+	} , {
+		"enabled": true,
+		"name": "Australian Dollar",
+		"country": "AU",
+		"symbol": "AUD",
+		"alternate": "A$"
+	} , {
+		"enabled": true,
+		"name": "Bangladeshi Taka",
+		"country": "BD",
+		"symbol": "BDT",
+		"alternate": "৳"
+	} , {
+		"enabled": true,
+		"name": "Bahraini Dinar",
+		"country": "BH",
+		"symbol": "BHD",
+		"alternate": ".د.ب"
+	} , {
+		"enabled": true,
+		"name": "Bermudian Dollar",
+		"country": "BM",
+		"symbol": "BMD",
+		"alternate": "BD$"
+	} , {
+		"enabled": true,
+		"name": "Brazil Real",
+		"country": "BR",
+		"symbol": "BRL",
+		"alternate": "R$"
+	} , {
+		"enabled": true,
+		"name": "Canadian Dollar",
+		"country": "CA",
+		"symbol": "CAD",
+		"alternate": "C$"
+	} , {
+		"enabled": true,
+		"name": "Swiss Franc",
+		"country": "CH",
+		"symbol": "CHF",
+		"alternate": "₣"
+	} , {
+		"enabled": true,
+		"name": "Chilean Peso",
+		"country": "CL",
+		"symbol": "CLP",
+		"alternate": "CLP$"
+	} , {
+		"enabled": true,
+		"name": "Chinese Yuan",
+		"country": "CN",
+		"symbol": "CNY",
+		"alternate": "¥"
+	} , {
+		"enabled": true,
+		"name": "Czech Koruna",
+		"country": "CZ",
+		"symbol": "CZK",
+		"alternate": "Kč"
+	} , {
+		"enabled": true,
+		"name": "Danish Krone",
+		"country": "DK",
+		"symbol": "DKK",
+		"alternate": "kr"
+	} , {
+		"enabled": true,
+		"name": "Euro",
+		"country": "EU",
+		"symbol": "EUR",
+		"alternate": "€"
+	} , {
+		"enabled": true,
+		"name": "British Pound Sterling",
+		"country": "GB",
+		"symbol": "GBP",
+		"alternate": "£"
+	} , {
+		"enabled": true,
+		"name": "Hong Kong Dollar",
+		"country": "HK",
+		"symbol": "HKD",
+		"alternate": "HK$"
+	} , {
+		"enabled": true,
+		"name": "Hungarian Forint",
+		"country": "HU",
+		"symbol": "HUF",
+		"alternate": "Ft"
+	} , {
+		"enabled": true,
+		"name": "Indonesian Rupiah",
+		"country": "ID",
+		"symbol": "IDR",
+		"alternate": "Rp"
+	} , {
+		"enabled": true,
+		"name": "Israeli New Shekel",
+		"country": "IL",
+		"symbol": "ILS",
+		"alternate": "₪"
+	} , {
+		"enabled": true,
+		"name": "Indian Rupee",
+		"country": "IN",
+		"symbol": "INR",
+		"alternate": "₹"
+	} , {
+		"enabled": true,
+		"name": "Japanese Yen",
+		"country": "JP",
+		"symbol": "JPY",
+		"alternate": "¥"
+	} , {
+		"enabled": true,
+		"name": "South Korean Won",
+		"country": "KR",
+		"symbol": "KRW",
+		"alternate": "₩"
+	} , {
+		"enabled": true,
+		"name": "Kuwaiti Dinar",
+		"country": "KW",
+		"symbol": "KWD",
+		"alternate": "د.ك"
+	} , {
+		"enabled": true,
+		"name": "Sri Lankan Rupee",
+		"country": "LK",
+		"symbol": "LKR",
+		"alternate": "Rs"
+	} , {
+		"enabled": true,
+		"name": "Myanmar Kyat",
+		"country": "MM",
+		"symbol": "MMK",
+		"alternate": "Ks."
+	} , {
+		"enabled": true,
+		"name": "Mexican Peso",
+		"country": "MX",
+		"symbol": "MXN",
+		"alternate": "Mex$"
+	} , {
+		"enabled": true,
+		"name": "Malaysian Ringgit",
+		"country": "MY",
+		"symbol": "MYR",
+		"alternate": "RM"
+	} , {
+		"enabled": true,
+		"name": "Nigerian Naira",
+		"country": "NE",
+		"symbol": "NGN",
+		"alternate": "₦"
+	} , {
+		"enabled": true,
+		"name": "Norwegian Krone",
+		"country": "NO",
+		"symbol": "NOK",
+		"alternate": "kr"
+	} , {
+		"enabled": true,
+		"name": "New Zealand Dollar",
+		"country": "NZ",
+		"symbol": "NZD",
+		"alternate": "NZ$"
+	} , {
+		"enabled": true,
+		"name": "Philippine Peso",
+		"country": "PH",
+		"symbol": "PHP",
+		"alternate": "₱"
+	} , {
+		"enabled": true,
+		"name": "Pakistani Rupee",
+		"country": "PK",
+		"symbol": "PKR",
+		"alternate": "Rs."
+	} , {
+		"enabled": true,
+		"name": "Polish Zloty",
+		"country": "PL",
+		"symbol": "PLN",
+		"alternate": "zł"
+	} , {
+		"enabled": false,
+		"name": "Romanian Leu",
+		"country": "RO",
+		"symbol": "RON",
+		"alternate": "lei"
+	} , {
+		"enabled": true,
+		"name": "Russian Ruble",
+		"country": "RU",
+		"symbol": "RUB",
+		"alternate": "₽"
+	} , {
+		"enabled": true,
+		"name": "Saudi Riyal",
+		"country": "SA",
+		"symbol": "SAR",
+		"alternate": "﷼"
+	} , {
+		"enabled": true,
+		"name": "Swedish Krona",
+		"country": "SE",
+		"symbol": "SEK",
+		"alternate": "kr"
+	} , {
+		"enabled": true,
+		"name": "Singapore Dollar",
+		"country": "",
+		"symbol": "SGD",
+		"alternate": "S$"
+	} , {
+		"enabled": true,
+		"name": "Thai Baht",
+		"country": "TH",
+		"symbol": "THB",
+		"alternate": "฿"
+	} , {
+		"enabled": true,
+		"name": "Turkish Lira",
+		"country": "TR",
+		"symbol": "TRY",
+		"alternate": "₺"
+	} , {
+		"enabled": true,
+		"name": "New Taiwan Dollar",
+		"country": "TW",
+		"symbol": "TWD",
+		"alternate": "NT$"
+	} , {
+		"enabled": true,
+		"name": "Ukrainian hryvnia",
+		"country": "UA",
+		"symbol": "UAH",
+		"alternate": "₴"
+	} , {
+		"enabled": true,
+		"name": "US Dollar",
+		"country": "US",
+		"symbol": "USD",
+		"alternate": "$"
+	} , {
+		"enabled": true,
+		"name": "Venezuelan bolívar fuerte",
+		"country": "VE",
+		"symbol": "VEF",
+		"alternate": "Bs.F"
+	} , {
+		"enabled": true,
+		"name": "Vietnamese đồng",
+		"country": "VN",
+		"symbol": "VND",
+		"alternate": "đ"
+	} , {
+		"enabled": true,
+		"name": "South African Rand",
+		"country": "ZA",
+		"symbol": "ZAR",
+		"alternate": "R"
+	} , {
+		"enabled": false,
+		"name": "IMF Special Drawing Rights",
+		"country": "XX",
+		"symbol": "XDR",
+		"alternate": "SDR"
+	}]
+}
