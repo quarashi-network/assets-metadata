@@ -224,7 +224,7 @@
 	} , {
 		"enabled": true,
 		"name": "Singapore Dollar",
-		"country": "",
+		"country": "SG",
 		"symbol": "SGD",
 		"alternate": "S$"
 	} , {
@@ -253,7 +253,7 @@
 		"alternate": "₴"
 	} , {
 		"enabled": true,
-		"name": "US Dollar",
+		"name": "United States Dollar",
 		"country": "US",
 		"symbol": "USD",
 		"alternate": "$"
