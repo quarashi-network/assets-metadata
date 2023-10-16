@@ -195,6 +195,7 @@
 				"select_start_page": "Select Start Page",
 				"light_mode": "Light Mode",
 				"dark_mode": "Dark Mode",
+				"icons_size": "Icons Size",
 				"language": "Language",
 				"select_language": "Select Language",
 				"currency": "Currency",
@@ -397,10 +398,214 @@
 				"select_start_page": "Seleccione página de inicio",
 				"light_mode": "Modo de luz",
 				"dark_mode": "Modo oscuro",
+				"icons_size": "Tamaño de los iconos",
 				"language": "Idioma",
 				"select_language": "Seleccione idioma",
 				"currency": "Tipo de moneda",
 				"select_currency": "Seleccione tipo de moneda"
+			}
+		}
+	} , {
+		"enabled": true,
+		"name": "French",
+		"native": "Français",
+		"country": "FR",
+		"symbol": "FR",
+		"translations": {
+			"menu": {
+				"markets": "Marchés",
+				"accounts": "Comptes",
+				"vesting": "Vesting",
+				"staking": "Jalonnement",
+				"settings": "Paramètres",
+				"multi_sender": "Multi Expéditeur",
+				"chat": "PriviMeet",
+				"logout": "Déconnexion"
+			},
+			"changelog": {
+				"changelog": "Journal des modifications",
+				"build_version": "Version de Compilation",
+				"build_last_updated": "Dernière version mise à jour"
+			},
+			"welcome": {
+				"welcome_to": "Bienvenue à",
+				"crypto_assets_manager": "Gestionnaire d'actifs crypto",
+				"get_started": "Commencer",
+				"i_already_have_an_account": "Je ai déjà un compte"
+			},
+			"markets": {
+				"menu": {
+					"overview": "Overview",
+					"news": "News",
+					"discovery": "Discovery",
+					"favorites": "Favorites"
+				},
+				"search": {
+					"search": "Search",
+					"no_results": "No results"
+				},
+				"overview": {
+					"overview": "Aperçu",
+					"total_market_cap": "Capitalisation boursière totale",
+					"volume_24h": "Tome 24H",
+					"btc_dominance": "Dominance du BTC",
+					"defi_market_cap": "Capitalisation boursière DeFI",
+					"tvl_in_defi": "TVL dans DeFI",
+					"top_gainers": "Meilleurs gagnants",
+					"top_losers": "Meilleurs perdants",
+					"tvl_change": "Changement de TVL",
+					"name": "Nom",
+					"price": "Prix",
+					"twentyfour_hours": "24H",
+					"tvl": "TVL",
+					"more": "Plus",
+					"tokens": {
+						"total_market_cap": "Capitalisation boursière totale",
+						"btc_dominance": "Dominance du BTC",
+						"defi_market_cap": "Capitalisation boursière DeFI",
+						"total_value_locked": "Valeur totale verrouillée",
+						"defi_dominance": "Defi Dominance (vs. Global)",
+						"dominance": "Dominance",
+						"volume_24h": "Tome 24H",
+						"change_24h": "Changer 24H",
+						"top_gainers": "Meilleurs gagnants",
+						"top_losers": "Meilleurs perdants",
+						"name": "Nom",
+						"price": "Prix",
+						"twentyfour_hours": "24H",
+						"seven_days": "7D",
+						"one_week": "1W",
+						"one_month": "1M",
+						"versus": "VS",
+						"select_chain": "Sélectionnez la chaîne",
+						"chain": "Chaîne",
+						"tvl": "TVL",
+						"market_cap": "Capitalisation boursière",
+						"volume": "Volume",
+						"highest_cap": "Plafond le plus élevé",
+						"lowest_cap": "Plafond le plus bas",
+						"highest_volume": "Volume le plus élevé",
+						"lowest_volume": "Volume le plus bas",
+						"highest_price": "Le prix le plus élevé",
+						"lowest_price": "Prix le plus bas",
+						"rank": "Rang",
+						"category": "Catégorie",
+						"price_range": "Échelle des prix",
+						"performance": "Performance",
+						"twentyfour_hours_range": "24h Range",
+						"24h Range": "24h Range",
+						"seven_days_range": "7d Range",
+						"7d Range": "7d Range",
+						"all_time": "All Time",
+						"All Time": "All Time",
+						"funds_invested": "Fonds investis",
+						"fund": "Fonds",
+						"major_holders": "Détenteurs majeurs",
+						"address": "Adresse",
+						"percent": "Pour cent",
+						"in_circulation": "En circulation",
+						"total_supply": "Offre totale",
+						"diluted_market_cap": "Dilué MCap",
+						"launch_date": "Date de lancement",
+						"trading_volume": "Volume d'échanges",
+						"volume_rank": "Rang de volume",
+						"tvl_rank": "Classement TVL",
+						"market_cap_tvl_ratio": "M.cap / TVL ratio",
+						"security_parameters": "Paramètres de sécurité",
+						"privacy": "Confidentialité",
+						"high": "Haut",
+						"issuance": "Émission",
+						"confiscation_resistance": "Résistance à la confiscation",
+						"censorship_resistance": "Résistance à la censure",
+						"audited": "Vérifié",
+						"about": "À propos",
+						"guide": "Guide",
+						"whitepaper": "Papier blanc",
+						"markets": "Marchés",
+						"source": "Source",
+						"pairs": "Paires",
+						"add_to_favorites": "Ajouter aux Favoris",
+						"website": "Site web",
+						"twitter": "X (Twitter)",
+						"telegram": "Telegram",
+						"reddit": "Reddit",
+						"github": "Github",
+						"info": "Info",
+						"address_copied": "Adresse copiée!"
+					}
+				},
+				"news": {
+					"news": "Nouvelles"
+				},
+				"discovery": {
+					"categories": "Catégories",
+					"advanced_search": "Recherche Avancée",
+					"market_cap": "Capitalisation boursière",
+					"volume": "Volume",
+					"liquidity": "Liquidité",
+					"top": "Top",
+					"price_change": "Changement de prix",
+					"price_period": "Période de prix",
+					"1_day": "Un jour",
+					"1_week": "1 semaine",
+					"2_weeks": "2 semaines",
+					"1_month": "1 mois",
+					"6_months": "6 mois",
+					"1_year": "1 an",
+					"results": "Résultats",
+					"clear": "Clair"
+				},
+				"favorites": {
+					"no_favorites": "Vous n'avez pas encore ajouté de favoris.",
+					"add_favorites": "Vous pouvez ajouter aux favoris en cliquant sur l'icône étoile."
+				}
+			},
+			"accounts": {
+				"menu": {
+					"create": "Créer",
+					"import": "Importer",
+					"observe": "Observer",
+					"send": "Envoyer",
+					"receive": "Recevoir",
+					"history": "Histoire"
+				},
+				"splash": {
+					"you_dont_have_any_accounts": "Vous n'avez pas encore de compte.",
+					"create_account_or_import": "Créer un nouveau compte, importer un compte existant",
+					"observe_in_readonly_mode": "ou observer en mode lecture seule."
+				},
+				"balance": {
+					"balance": "Équilibre",
+					"vested": "Vested",
+					"staked": "Empilé",
+					"staking_rewards": "Récompenses de mise",
+					"account_address": "Adresse du compte",
+					"search": "Recherche",
+					"token": "Jeton",
+					"price": "Prix",
+					"value": "Valeur",
+					"info": "Info",
+					"address_copied": "Adresse copiée!"
+				}
+			},
+			"vesting": {
+				"claim_vested_tokens": "Réclamez vos jetons QUA acquis",
+				"no tokens vested": "Aucun jeton en acquisition pour ce compte"
+			},
+			"chat": {
+				"disconnect": "Déconnecter"
+			},
+			"settings": {
+				"settings": "Paramètres",
+				"start_page": "Page de démarrage",
+				"select_start_page": "Sélectionnez la page de démarrage",
+				"light_mode": "Mode lumière",
+				"dark_mode": "Mode sombre",
+				"icons_size": "Taille des icônes",
+				"language": "Langue",
+				"select_language": "Choisir la langue",
+				"currency": "Devise",
+				"select_currency": "Sélectionnez la devise"
 			}
 		}
 	}]
