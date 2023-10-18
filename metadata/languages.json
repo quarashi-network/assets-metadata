@@ -43,8 +43,8 @@
 					"total_market_cap": "Total Market Cap",
 					"volume_24h": "Volume 24H",
 					"btc_dominance": "BTC Dominance",
-					"defi_market_cap": "DeFI Market Cap",
-					"tvl_in_defi": "TVL in DeFI",
+					"defi_market_cap": "DeFi Market Cap",
+					"tvl_in_defi": "TVL in DeFi",
 					"top_gainers": "Top Gainers",
 					"top_losers": "Top Losers",
 					"tvl_change": "TVL change",
@@ -56,9 +56,9 @@
 					"tokens": {
 						"total_market_cap": "Total Market Cap",
 						"btc_dominance": "BTC Dominance",
-						"defi_market_cap": "DeFI Market Cap",
+						"defi_market_cap": "DeFi Market Cap",
 						"total_value_locked": "Total Value Locked",
-						"defi_dominance": "Defi Dominance (vs. Global)",
+						"defi_dominance": "DeFi Dominance (vs. Global)",
 						"dominance": "Dominance",
 						"volume_24h": "Volume 24H",
 						"change_24h": "Change 24H",
@@ -184,7 +184,7 @@
 			},
 			"vesting": {
 				"claim_vested_tokens": "Claim your Vested QUA Tokens",
-				"no tokens vested": "No tokens in Vesting for this Account"
+				"no_tokens_vested": "No tokens in Vesting for this Account"
 			},
 			"chat": {
 				"disconnect": "Disconnect"
@@ -204,6 +204,615 @@
 		}
 	} , {
 		"enabled": true,
+		"name": "French",
+		"native": "Français",
+		"country": "FR",
+		"symbol": "FR",
+		"translations": {
+			"menu": {
+				"markets": "Marchés",
+				"accounts": "Comptes",
+				"vesting": "Acquisition",
+				"staking": "Empilage",
+				"settings": "Paramètres",
+				"multi_sender": "Multi Expéditeur",
+				"chat": "PriviMeet",
+				"logout": "Déconnexion"
+			},
+			"changelog": {
+				"changelog": "Journal des modifications",
+				"build_version": "Version de compilation",
+				"build_last_updated": "Dernière version mise à jour"
+			},
+			"welcome": {
+				"welcome_to": "Bienvenue à",
+				"crypto_assets_manager": "Gestionnaire d'actifs crypto",
+				"get_started": "Commencer",
+				"i_already_have_an_account": "J'ai déjà un compte"
+			},
+			"markets": {
+				"menu": {
+					"overview": "Aperçu",
+					"news": "Actualités",
+					"discovery": "Découverte",
+					"favorites": "Favoris"
+				},
+				"search": {
+					"search": "Recherche",
+					"no_results": "Aucun résultat"
+				},
+				"overview": {
+					"overview": "Aperçu",
+					"total_market_cap": "Capitalisation boursière totale",
+					"volume_24h": "Tome 24H",
+					"btc_dominance": "Dominance du BTC",
+					"defi_market_cap": "Capitalisation boursière DeFi",
+					"tvl_in_defi": "TVL dans DeFi",
+					"top_gainers": "Meilleurs gagnants",
+					"top_losers": "Meilleurs perdants",
+					"tvl_change": "Changement de TVL",
+					"name": "Nom",
+					"price": "Prix",
+					"twentyfour_hours": "24H",
+					"tvl": "TVL",
+					"more": "Plus",
+					"tokens": {
+						"total_market_cap": "Capitalisation boursière totale",
+						"btc_dominance": "Dominance du BTC",
+						"defi_market_cap": "Capitalisation boursière DeFi",
+						"total_value_locked": "Valeur totale verrouillée",
+						"defi_dominance": "DeFi Dominance (vs. Global)",
+						"dominance": "Dominance",
+						"volume_24h": "Tome 24H",
+						"change_24h": "Changer 24H",
+						"top_gainers": "Meilleurs gagnants",
+						"top_losers": "Meilleurs perdants",
+						"name": "Nom",
+						"price": "Prix",
+						"twentyfour_hours": "24H",
+						"seven_days": "7D",
+						"one_week": "1W",
+						"one_month": "1M",
+						"versus": "VS",
+						"select_chain": "Sélectionnez la chaîne",
+						"chain": "Chaîne",
+						"tvl": "TVL",
+						"market_cap": "Capitalisation boursière",
+						"volume": "Volume",
+						"highest_cap": "Plafond le plus élevé",
+						"lowest_cap": "Plafond le plus bas",
+						"highest_volume": "Volume le plus élevé",
+						"lowest_volume": "Volume le plus bas",
+						"highest_price": "Le prix le plus élevé",
+						"lowest_price": "Prix le plus bas",
+						"rank": "Rang",
+						"category": "Catégorie",
+						"price_range": "Échelle des prix",
+						"performance": "Performance",
+						"twentyfour_hours_range": "24h période",
+						"24h Range": "24h période",
+						"seven_days_range": "7j période",
+						"7d Range": "7j période",
+						"all_time": "Toute la période",
+						"All Time": "Toute la période",
+						"funds_invested": "Fonds investis",
+						"fund": "Fonds",
+						"major_holders": "Détenteurs majeurs",
+						"address": "Adresse",
+						"percent": "Pour cent",
+						"in_circulation": "En circulation",
+						"total_supply": "Offre totale",
+						"diluted_market_cap": "Dilué MCap",
+						"launch_date": "Date de lancement",
+						"trading_volume": "Volume d'échanges",
+						"volume_rank": "Rang de volume",
+						"tvl_rank": "Classement TVL",
+						"market_cap_tvl_ratio": "M.cap / TVL ratio",
+						"security_parameters": "Paramètres de sécurité",
+						"privacy": "Confidentialité",
+						"high": "Haut",
+						"issuance": "Émission",
+						"confiscation_resistance": "Résistance à la confiscation",
+						"censorship_resistance": "Résistance à la censure",
+						"audited": "Vérifié",
+						"about": "À propos",
+						"guide": "Guide",
+						"whitepaper": "Papier blanc",
+						"markets": "Marchés",
+						"source": "Source",
+						"pairs": "Paires",
+						"add_to_favorites": "Ajouter aux Favoris",
+						"website": "Site web",
+						"twitter": "X (Twitter)",
+						"telegram": "Telegram",
+						"reddit": "Reddit",
+						"github": "Github",
+						"info": "Info",
+						"address_copied": "Adresse copiée!"
+					}
+				},
+				"news": {
+					"news": "Actualités"
+				},
+				"discovery": {
+					"categories": "Catégories",
+					"advanced_search": "Recherche Avancée",
+					"market_cap": "Capitalisation boursière",
+					"volume": "Volume",
+					"liquidity": "Liquidité",
+					"top": "Top",
+					"price_change": "Changement de prix",
+					"price_period": "Période de prix",
+					"1_day": "Un jour",
+					"1_week": "1 semaine",
+					"2_weeks": "2 semaines",
+					"1_month": "1 mois",
+					"6_months": "6 mois",
+					"1_year": "1 an",
+					"results": "Résultats",
+					"clear": "Clair"
+				},
+				"favorites": {
+					"no_favorites": "Vous n'avez pas encore ajouté de favoris.",
+					"add_favorites": "Vous pouvez ajouter aux favoris en cliquant sur l'icône étoile."
+				}
+			},
+			"accounts": {
+				"menu": {
+					"create": "Créer",
+					"import": "Importer",
+					"observe": "Observer",
+					"send": "Envoyer",
+					"receive": "Recevoir",
+					"history": "Histoire"
+				},
+				"splash": {
+					"you_dont_have_any_accounts": "Vous n'avez pas encore de compte.",
+					"create_account_or_import": "Créer un nouveau compte, importer un compte existant",
+					"observe_in_readonly_mode": "ou observer en mode lecture seule."
+				},
+				"balance": {
+					"balance": "Équilibre",
+					"vested": "Acquis",
+					"staked": "Empilé",
+					"staking_rewards": "Récompenses de mise",
+					"account_address": "Adresse du compte",
+					"search": "Recherche",
+					"token": "Jeton",
+					"price": "Prix",
+					"value": "Valeur",
+					"info": "Info",
+					"address_copied": "Adresse copiée!"
+				}
+			},
+			"vesting": {
+				"claim_vested_tokens": "Réclamez vos jetons QUA acquis",
+				"no_tokens_vested": "Aucun jeton en acquisition pour ce compte"
+			},
+			"chat": {
+				"disconnect": "Déconnecter"
+			},
+			"settings": {
+				"settings": "Paramètres",
+				"start_page": "Page de démarrage",
+				"select_start_page": "Sélectionnez la page de démarrage",
+				"light_mode": "Mode lumière",
+				"dark_mode": "Mode sombre",
+				"icons_size": "Taille des icônes",
+				"language": "Langue",
+				"select_language": "Choisir la langue",
+				"currency": "Devise",
+				"select_currency": "Sélectionnez la devise"
+			}
+		}
+	} , {
+		"enabled": true,
+		"name": "Portuguese",
+		"native": "Portuguese",
+		"country": "PT",
+		"symbol": "PT",
+		"translations": {
+			"menu": {
+				"markets": "Mercados",
+				"accounts": "Contas",
+				"vesting": "Aquisição",
+				"staking": "Estacamento",
+				"settings": "Configurações",
+				"multi_sender": "Vários Remetentes",
+				"chat": "PriviMeet",
+				"logout": "Sair"
+			},
+			"changelog": {
+				"changelog": "Changelog",
+				"build_version": "Versão de compilação",
+				"build_last_updated": "Última atualização da versão"
+			},
+			"welcome": {
+				"welcome_to": "Bem-vindo ao",
+				"crypto_assets_manager": "Gerenciador de ativos criptos",
+				"get_started": "Iniciar",
+				"i_already_have_an_account": "Eu já tenho uma conta"
+			},
+			"markets": {
+				"menu": {
+					"overview": "Visão geral",
+					"news": "Notícias",
+					"discovery": "Descoberta",
+					"favorites": "Favoritos"
+				},
+				"search": {
+					"search": "Procurar",
+					"no_results": "Nenhum resultado"
+				},
+				"overview": {
+					"overview": "Visão geral",
+					"total_market_cap": "Valor total de mercado",
+					"volume_24h": "Volume 24H",
+					"btc_dominance": "Domínio do BTC",
+					"defi_market_cap": "Capitalização de mercado DeFi",
+					"tvl_in_defi": "TVL em DeFi",
+					"top_gainers": "Principais ganhadores",
+					"top_losers": "Principais perdedores",
+					"tvl_change": "TVL change",
+					"name": "Nome",
+					"price": "Preço",
+					"twentyfour_hours": "24H",
+					"tvl": "TVL",
+					"more": "Mais",
+					"tokens": {
+						"total_market_cap": "Valor total de mercado",
+						"btc_dominance": "Domínio do BTC",
+						"defi_market_cap": "Capitalização de mercado DeFi",
+						"total_value_locked": "Valor Total Bloqueado",
+						"defi_dominance": "Dominância DeFi (vs. Global)",
+						"dominance": "Domínio",
+						"volume_24h": "Volume 24H",
+						"change_24h": "Alterar 24H",
+						"top_gainers": "Principais ganhadores",
+						"top_losers": "Principais perdedores",
+						"name": "Nome",
+						"price": "Preço",
+						"twentyfour_hours": "24H",
+						"seven_days": "7D",
+						"one_week": "1W",
+						"one_month": "1M",
+						"versus": "VS",
+						"select_chain": "Selecione a cadeia",
+						"chain": "Corrente",
+						"tvl": "TVL",
+						"market_cap": "Valor de mercado",
+						"volume": "Volume",
+						"highest_cap": "Limite mais alto",
+						"lowest_cap": "Limite mais baixo",
+						"highest_volume": "Volume mais alto",
+						"lowest_volume": "Volume mais baixo",
+						"highest_price": "Preço mais alto",
+						"lowest_price": "Menor preço",
+						"rank": "Classificação",
+						"category": "Categoria",
+						"price_range": "Faixa de preço",
+						"performance": "Desempenho",
+						"twentyfour_hours_range": "24h períodoada",
+						"24h Range": "24h períodoada",
+						"seven_days_range": "7d períodoada",
+						"7d Range": "7d períodoada",
+						"all_time": "Tempo todo",
+						"All Time": "Tempo todo",
+						"funds_invested": "Fundos investidos",
+						"fund": "Fundo",
+						"major_holders": "Principais detentores",
+						"address": "Endereço",
+						"percent": "Por cento",
+						"in_circulation": "Em circulação",
+						"total_supply": "Fornecimento total",
+						"diluted_market_cap": "MCap diluída",
+						"launch_date": "Data de lançamento",
+						"trading_volume": "Volume de negócios",
+						"volume_rank": "Classificação de volume",
+						"tvl_rank": "Classificação TVL",
+						"market_cap_tvl_ratio": "Relação M.cap/TVL",
+						"security_parameters": "Parâmetros de segurança",
+						"privacy": "Privacidade",
+						"high": "Alto",
+						"issuance": "Emissão",
+						"confiscation_resistance": "Resistência ao Confisco",
+						"censorship_resistance": "Resistência à censura",
+						"audited": "Auditado",
+						"about": "About",
+						"guide": "Sobre",
+						"whitepaper": "Papel branco",
+						"markets": "Mercados",
+						"source": "Fonte",
+						"pairs": "Pares",
+						"add_to_favorites": "Adicionar aos favoritos",
+						"website": "Local na rede Internet",
+						"twitter": "X (Twitter)",
+						"telegram": "Telegram",
+						"reddit": "Reddit",
+						"github": "Github",
+						"info": "Informações",
+						"address_copied": "Endereço copiado!"
+					}
+				},
+				"news": {
+					"news": "Notícias"
+				},
+				"discovery": {
+					"categories": "Categorias",
+					"advanced_search": "Busca Avançada",
+					"market_cap": "Valor de mercado",
+					"volume": "Volume",
+					"liquidity": "Liquidez",
+					"top": "Top",
+					"price_change": "Mudança de preço",
+					"price_period": "Período de preço",
+					"1_day": "1 Dia",
+					"1_week": "1 Semana",
+					"2_weeks": "2 Semanas",
+					"1_month": "1 Mês",
+					"6_months": "6 Meses",
+					"1_year": "1 Ano",
+					"results": "Resultados",
+					"clear": "Claro"
+				},
+				"favorites": {
+					"no_favorites": "Você ainda não tem nenhum favorito adicionado.",
+					"add_favorites": "Você pode adicionar aos favoritos clicando no ícone de estrela."
+				}
+			},
+			"accounts": {
+				"menu": {
+					"create": "Criar",
+					"import": "Importar",
+					"observe": "Observar",
+					"send": "Enviar",
+					"receive": "Receber",
+					"history": "História"
+				},
+				"splash": {
+					"you_dont_have_any_accounts": "Você ainda não tem contas",
+					"create_account_or_import": "Crie uma nova conta, importe uma existente",
+					"observe_in_readonly_mode": "ou observe no modo somente leitura."
+				},
+				"balance": {
+					"balance": "Equilíbrio",
+					"vested": "Empossado",
+					"staked": "Empilhado",
+					"staking_rewards": "Recompensas de aposta",
+					"account_address": "Endereço da conta",
+					"search": "Procurar",
+					"token": "Símbolo",
+					"price": "Preço",
+					"value": "Valor",
+					"info": "Informações",
+					"address_copied": "Endereço copiado!"
+				}
+			},
+			"vesting": {
+				"claim_vested_tokens": "Reivindique seus tokens QUA adquiridos",
+				"no_tokens_vested": "Nenhum token em aquisição para esta conta"
+			},
+			"chat": {
+				"disconnect": "Desconectar"
+			},
+			"settings": {
+				"settings": "Configurações",
+				"start_page": "Página inicial",
+				"select_start_page": "Selecione a página inicial",
+				"light_mode": "Modo claro",
+				"dark_mode": "Modo escuro",
+				"icons_size": "Tamanho dos ícones",
+				"language": "Idioma",
+				"select_language": "Selecione o idioma",
+				"currency": "Moeda",
+				"select_currency": "Escolha a moeda"
+			}
+		}
+	} , {
+		"enabled": true,
+		"name": "Romanian",
+		"native": "Română",
+		"country": "RO",
+		"symbol": "RO",
+		"translations": {
+			"menu": {
+				"markets": "Piețe",
+				"accounts": "Contul meu",
+				"vesting": "Achiziție",
+				"staking": "Miză",
+				"settings": "Setări",
+				"multi_sender": "Multi-Transfer",
+				"chat": "PriviMeet",
+				"logout": "Deconectare"
+			},
+			"changelog": {
+				"changelog": "Jurnalul modificărilor",
+				"build_version": "Versiunea curentă",
+				"build_last_updated": "Ultima actualizare"
+			},
+			"welcome": {
+				"welcome_to": "Bun venit în",
+				"crypto_assets_manager": "Managerul de Cripto",
+				"get_started": "Începe",
+				"i_already_have_an_account": "Am deja un cont"
+			},
+			"markets": {
+				"menu": {
+					"overview": "Privire de ansamblu",
+					"news": "Știri",
+					"discovery": "Descoperă",
+					"favorites": "Favorite"
+				},
+				"search": {
+					"search": "Căutare",
+					"no_results": "Fără rezultate"
+				},
+				"overview": {
+					"overview": "Privire de ansamblu",
+					"total_market_cap": "Valoarea totală a pieței",
+					"volume_24h": "Volum 24 ore",
+					"btc_dominance": "Dominanța BTC",
+					"defi_market_cap": "Capitalizarea pieței DeFi",
+					"tvl_in_defi": "TVB în DeFi",
+					"top_gainers": "În creștere",
+					"top_losers": "În scădere",
+					"tvl_change": "Schimbare TVB",
+					"name": "Nume",
+					"price": "Preț",
+					"twentyfour_hours": "24 ore",
+					"tvl": "TVB",
+					"more": "Mai mult",
+					"tokens": {
+						"total_market_cap": "Valoarea totală a pieței",
+						"btc_dominance": "Dominanța BTC",
+						"defi_market_cap": "Capitalizarea pieței DeFi",
+						"total_value_locked": "Valoarea Totală Blocată",
+						"defi_dominance": "Dominanța DeFi (vs. Global)",
+						"dominance": "Dominanța",
+						"volume_24h": "Volum 24 ore",
+						"change_24h": "Schimbări în ultimele 24 ore",
+						"top_gainers": "În creștere",
+						"top_losers": "În scădere",
+						"name": "Nume",
+						"price": "Preț",
+						"twentyfour_hours": "24 ORE",
+						"seven_days": "7 ZILE",
+						"one_week": "1 SĂPTĂMÂNĂ",
+						"one_month": "1 LUNĂ",
+						"versus": "VS",
+						"select_chain": "Selectare rețea",
+						"chain": "Rețea",
+						"tvl": "TVB",
+						"market_cap": "Capitalizarea pieței",
+						"volume": "Volum",
+						"highest_cap": "Cea mai înaltă capitalziare",
+						"lowest_cap": "Cea mai joasă capitalziare",
+						"highest_volume": "Cel mai mare volum",
+						"lowest_volume": "Cel mai mic volum",
+						"highest_price": "Cel mai mare preț",
+						"lowest_price": "Cel mai mic preț",
+						"rank": "Rang",
+						"category": "Categorie",
+						"price_range": "Interval preț",
+						"performance": "Performanţă",
+						"twentyfour_hours_range": "Interval 24 ore",
+						"24h Range": "Interval 24 ore",
+						"seven_days_range": "Interval 7 zile",
+						"7d Range": "Interval 7 zile",
+						"all_time": "Toată perioada",
+						"All Time": "Toată perioada",
+						"funds_invested": "Fonduri investite",
+						"fund": "Fond",
+						"major_holders": "Principalii deținători",
+						"address": "Adresă",
+						"percent": "Procent",
+						"in_circulation": "În circulație",
+						"total_supply": "Număr total de tokeni",
+						"diluted_market_cap": "Capitalizare diluată",
+						"launch_date": "Data lansării",
+						"trading_volume": "Volumul de tranzacționare",
+						"volume_rank": "Clasament volum",
+						"tvl_rank": "Clasament TVB",
+						"market_cap_tvl_ratio": "Capitalizare / Rație TVB",
+						"security_parameters": "Parametrii de securitate",
+						"privacy": "Confidențialitate",
+						"high": "Înalt",
+						"issuance": "Emitere",
+						"confiscation_resistance": "Rezistența la confiscare",
+						"censorship_resistance": "Rezistența la cenzură",
+						"audited": "Auditat",
+						"about": "Despre",
+						"guide": "Ghid",
+						"whitepaper": "Documentație",
+						"markets": "Piețe",
+						"source": "Surse",
+						"pairs": "Perechi",
+						"add_to_favorites": "Adaugă la favorite",
+						"website": "Site",
+						"twitter": "X (Twitter)",
+						"telegram": "Telegram",
+						"reddit": "Reddit",
+						"github": "Github",
+						"info": "Info",
+						"address_copied": "Adresă copiată!"
+					}
+				},
+				"news": {
+					"news": "Știri"
+				},
+				"discovery": {
+					"categories": "Categorii",
+					"advanced_search": "Căutare avansată",
+					"market_cap": "Capitalizarea pieței",
+					"volume": "Volum",
+					"liquidity": "Lichiditate",
+					"top": "Top",
+					"price_change": "Schimbare de preț",
+					"price_period": "Perioada de preț",
+					"1_day": "1 zi",
+					"1_week": "1 săptămână",
+					"2_weeks": "2 săptămâni",
+					"1_month": "1 lună",
+					"6_months": "6 luni",
+					"1_year": "1 an",
+					"results": "Rezultate",
+					"clear": "Șterge filtre"
+				},
+				"favorites": {
+					"no_favorites": "Încă nu aveți nici un token favorit adăugat.",
+					"add_favorites": "Puteți adăuga la favorite făcând click pe pictograma în stea."
+				}
+			},
+			"accounts": {
+				"menu": {
+					"create": "Crează",
+					"import": "Importă",
+					"observe": "Observă",
+					"send": "Trimite",
+					"receive": "Primește",
+					"history": "Istoric"
+				},
+				"splash": {
+					"you_dont_have_any_accounts": "Încă nu aveți nici un cont",
+					"create_account_or_import": "Creați un cont nou sau importați unul existent",
+					"observe_in_readonly_mode": "sau observați în modul doar citire."
+				},
+				"balance": {
+					"balance": "Balanță",
+					"vested": "Rămas de achiziționat",
+					"staked": "Mizat",
+					"staking_rewards": "Recompensă tokeni mizați",
+					"account_address": "Adresa contului",
+					"search": "Căutare",
+					"token": "Token",
+					"price": "Preț",
+					"value": "Valoare",
+					"info": "Info",
+					"address_copied": "Adresă copiată!"
+				}
+			},
+			"vesting": {
+				"claim_vested_tokens": "Revendicați-vă tokenii QUA rămași de achiziționat",
+				"no_tokens_vested": "Nu există tokeni rămași de achiziționat pentru acest cont"
+			},
+			"chat": {
+				"disconnect": "Deconectare"
+			},
+			"settings": {
+				"settings": "Setări",
+				"start_page": "Pagină de pornire",
+				"select_start_page": "Selectați pagina de pornire",
+				"light_mode": "Tema luminată",
+				"dark_mode": "Tema întunecată",
+				"icons_size": "Dimensiunea pictogramelor",
+				"language": "Limbă",
+				"select_language": "Selectare limbă",
+				"currency": "Valută",
+				"select_currency": "Selectare valută"
+			}
+		}
+	} , {
+		"enabled": true,
 		"name": "Spanish",
 		"native": "Español",
 		"country": "ES",
@@ -212,7 +821,7 @@
 			"menu": {
 				"markets": "Mercados",
 				"accounts": "Cuentas",
-				"vesting": "Otorgar",
+				"vesting": "Adquisición",
 				"staking": "Participación",
 				"settings": "Ajustes",
 				"multi_sender": "Enviar múltiples",
@@ -246,8 +855,8 @@
 					"total_market_cap": "Capitalización total",
 					"volume_24h": "Volumen 24H",
 					"btc_dominance": "Dominio de BTC",
-					"defi_market_cap": "Capitalización DeFI",
-					"tvl_in_defi": "VTB en DeFI",
+					"defi_market_cap": "Capitalización DeFi",
+					"tvl_in_defi": "VTB en DeFi",
 					"top_gainers": "Mejores ganadores",
 					"top_losers": "Mejores perdedores",
 					"tvl_change": "VTB cambio",
@@ -259,9 +868,9 @@
 					"tokens": {
 						"total_market_cap": "Capitalización total",
 						"btc_dominance": "Dominio de BTC",
-						"defi_market_cap": "Capitalización DeFI",
+						"defi_market_cap": "Capitalización DeFi",
 						"total_value_locked": "Valor Total bloqueado",
-						"defi_dominance": "Dominio de DeFI (frente a global)",
+						"defi_dominance": "Dominio de DeFi (frente a global)",
 						"dominance": "Dominio",
 						"volume_24h": "Volumen 24H",
 						"change_24h": "Cambio 24H",
@@ -387,7 +996,7 @@
 			},
 			"vesting": {
 				"claim_vested_tokens": "Claim your Vested QUA Tokens",
-				"no tokens vested": "No tokens in Vesting for this Account"
+				"no_tokens_vested": "No tokens in Vesting for this Account"
 			},
 			"chat": {
 				"disconnect": "Desconectar"
@@ -403,209 +1012,6 @@
 				"select_language": "Seleccione idioma",
 				"currency": "Tipo de moneda",
 				"select_currency": "Seleccione tipo de moneda"
-			}
-		}
-	} , {
-		"enabled": true,
-		"name": "French",
-		"native": "Français",
-		"country": "FR",
-		"symbol": "FR",
-		"translations": {
-			"menu": {
-				"markets": "Marchés",
-				"accounts": "Comptes",
-				"vesting": "Vesting",
-				"staking": "Jalonnement",
-				"settings": "Paramètres",
-				"multi_sender": "Multi Expéditeur",
-				"chat": "PriviMeet",
-				"logout": "Déconnexion"
-			},
-			"changelog": {
-				"changelog": "Journal des modifications",
-				"build_version": "Version de Compilation",
-				"build_last_updated": "Dernière version mise à jour"
-			},
-			"welcome": {
-				"welcome_to": "Bienvenue à",
-				"crypto_assets_manager": "Gestionnaire d'actifs crypto",
-				"get_started": "Commencer",
-				"i_already_have_an_account": "Je ai déjà un compte"
-			},
-			"markets": {
-				"menu": {
-					"overview": "Overview",
-					"news": "News",
-					"discovery": "Discovery",
-					"favorites": "Favorites"
-				},
-				"search": {
-					"search": "Search",
-					"no_results": "No results"
-				},
-				"overview": {
-					"overview": "Aperçu",
-					"total_market_cap": "Capitalisation boursière totale",
-					"volume_24h": "Tome 24H",
-					"btc_dominance": "Dominance du BTC",
-					"defi_market_cap": "Capitalisation boursière DeFI",
-					"tvl_in_defi": "TVL dans DeFI",
-					"top_gainers": "Meilleurs gagnants",
-					"top_losers": "Meilleurs perdants",
-					"tvl_change": "Changement de TVL",
-					"name": "Nom",
-					"price": "Prix",
-					"twentyfour_hours": "24H",
-					"tvl": "TVL",
-					"more": "Plus",
-					"tokens": {
-						"total_market_cap": "Capitalisation boursière totale",
-						"btc_dominance": "Dominance du BTC",
-						"defi_market_cap": "Capitalisation boursière DeFI",
-						"total_value_locked": "Valeur totale verrouillée",
-						"defi_dominance": "Defi Dominance (vs. Global)",
-						"dominance": "Dominance",
-						"volume_24h": "Tome 24H",
-						"change_24h": "Changer 24H",
-						"top_gainers": "Meilleurs gagnants",
-						"top_losers": "Meilleurs perdants",
-						"name": "Nom",
-						"price": "Prix",
-						"twentyfour_hours": "24H",
-						"seven_days": "7D",
-						"one_week": "1W",
-						"one_month": "1M",
-						"versus": "VS",
-						"select_chain": "Sélectionnez la chaîne",
-						"chain": "Chaîne",
-						"tvl": "TVL",
-						"market_cap": "Capitalisation boursière",
-						"volume": "Volume",
-						"highest_cap": "Plafond le plus élevé",
-						"lowest_cap": "Plafond le plus bas",
-						"highest_volume": "Volume le plus élevé",
-						"lowest_volume": "Volume le plus bas",
-						"highest_price": "Le prix le plus élevé",
-						"lowest_price": "Prix le plus bas",
-						"rank": "Rang",
-						"category": "Catégorie",
-						"price_range": "Échelle des prix",
-						"performance": "Performance",
-						"twentyfour_hours_range": "24h Range",
-						"24h Range": "24h Range",
-						"seven_days_range": "7d Range",
-						"7d Range": "7d Range",
-						"all_time": "All Time",
-						"All Time": "All Time",
-						"funds_invested": "Fonds investis",
-						"fund": "Fonds",
-						"major_holders": "Détenteurs majeurs",
-						"address": "Adresse",
-						"percent": "Pour cent",
-						"in_circulation": "En circulation",
-						"total_supply": "Offre totale",
-						"diluted_market_cap": "Dilué MCap",
-						"launch_date": "Date de lancement",
-						"trading_volume": "Volume d'échanges",
-						"volume_rank": "Rang de volume",
-						"tvl_rank": "Classement TVL",
-						"market_cap_tvl_ratio": "M.cap / TVL ratio",
-						"security_parameters": "Paramètres de sécurité",
-						"privacy": "Confidentialité",
-						"high": "Haut",
-						"issuance": "Émission",
-						"confiscation_resistance": "Résistance à la confiscation",
-						"censorship_resistance": "Résistance à la censure",
-						"audited": "Vérifié",
-						"about": "À propos",
-						"guide": "Guide",
-						"whitepaper": "Papier blanc",
-						"markets": "Marchés",
-						"source": "Source",
-						"pairs": "Paires",
-						"add_to_favorites": "Ajouter aux Favoris",
-						"website": "Site web",
-						"twitter": "X (Twitter)",
-						"telegram": "Telegram",
-						"reddit": "Reddit",
-						"github": "Github",
-						"info": "Info",
-						"address_copied": "Adresse copiée!"
-					}
-				},
-				"news": {
-					"news": "Nouvelles"
-				},
-				"discovery": {
-					"categories": "Catégories",
-					"advanced_search": "Recherche Avancée",
-					"market_cap": "Capitalisation boursière",
-					"volume": "Volume",
-					"liquidity": "Liquidité",
-					"top": "Top",
-					"price_change": "Changement de prix",
-					"price_period": "Période de prix",
-					"1_day": "Un jour",
-					"1_week": "1 semaine",
-					"2_weeks": "2 semaines",
-					"1_month": "1 mois",
-					"6_months": "6 mois",
-					"1_year": "1 an",
-					"results": "Résultats",
-					"clear": "Clair"
-				},
-				"favorites": {
-					"no_favorites": "Vous n'avez pas encore ajouté de favoris.",
-					"add_favorites": "Vous pouvez ajouter aux favoris en cliquant sur l'icône étoile."
-				}
-			},
-			"accounts": {
-				"menu": {
-					"create": "Créer",
-					"import": "Importer",
-					"observe": "Observer",
-					"send": "Envoyer",
-					"receive": "Recevoir",
-					"history": "Histoire"
-				},
-				"splash": {
-					"you_dont_have_any_accounts": "Vous n'avez pas encore de compte.",
-					"create_account_or_import": "Créer un nouveau compte, importer un compte existant",
-					"observe_in_readonly_mode": "ou observer en mode lecture seule."
-				},
-				"balance": {
-					"balance": "Équilibre",
-					"vested": "Vested",
-					"staked": "Empilé",
-					"staking_rewards": "Récompenses de mise",
-					"account_address": "Adresse du compte",
-					"search": "Recherche",
-					"token": "Jeton",
-					"price": "Prix",
-					"value": "Valeur",
-					"info": "Info",
-					"address_copied": "Adresse copiée!"
-				}
-			},
-			"vesting": {
-				"claim_vested_tokens": "Réclamez vos jetons QUA acquis",
-				"no tokens vested": "Aucun jeton en acquisition pour ce compte"
-			},
-			"chat": {
-				"disconnect": "Déconnecter"
-			},
-			"settings": {
-				"settings": "Paramètres",
-				"start_page": "Page de démarrage",
-				"select_start_page": "Sélectionnez la page de démarrage",
-				"light_mode": "Mode lumière",
-				"dark_mode": "Mode sombre",
-				"icons_size": "Taille des icônes",
-				"language": "Langue",
-				"select_language": "Choisir la langue",
-				"currency": "Devise",
-				"select_currency": "Sélectionnez la devise"
 			}
 		}
 	}]
