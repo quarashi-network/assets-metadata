@@ -408,7 +408,7 @@
 	} , {
 		"enabled": true,
 		"name": "Portuguese",
-		"native": "Portuguese",
+		"native": "Português",
 		"country": "PT",
 		"symbol": "PT",
 		"translations": {
