@@ -638,7 +638,7 @@
 			},
 			"markets": {
 				"menu": {
-					"overview": "Privire de ansamblu",
+					"overview": "Sinteză",
 					"news": "Știri",
 					"discovery": "Descoperă",
 					"favorites": "Favorite"
@@ -648,7 +648,7 @@
 					"no_results": "Fără rezultate"
 				},
 				"overview": {
-					"overview": "Privire de ansamblu",
+					"overview": "Sinteză",
 					"total_market_cap": "Valoarea totală a pieței",
 					"volume_24h": "Volum 24 ore",
 					"btc_dominance": "Dominanța BTC",
@@ -759,7 +759,7 @@
 					"clear": "Șterge filtre"
 				},
 				"favorites": {
-					"no_favorites": "Încă nu aveți nici un token favorit adăugat.",
+					"no_favorites": "Încă nu aveți nici un token adăugat la favorite.",
 					"add_favorites": "Puteți adăuga la favorite făcând click pe pictograma în stea."
 				}
 			},
@@ -802,9 +802,9 @@
 				"settings": "Setări",
 				"start_page": "Pagină de pornire",
 				"select_start_page": "Selectați pagina de pornire",
-				"light_mode": "Tema luminată",
-				"dark_mode": "Tema întunecată",
-				"icons_size": "Dimensiunea pictogramelor",
+				"light_mode": "Temă luminată",
+				"dark_mode": "Temă întunecată",
+				"icons_size": "Mărime pictograme",
 				"language": "Limbă",
 				"select_language": "Selectare limbă",
 				"currency": "Valută",
