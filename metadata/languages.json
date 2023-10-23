@@ -6,26 +6,31 @@
 		"country": "GB",
 		"symbol": "EN",
 		"translations": {
-			"menu": {
-				"markets": "Markets",
-				"accounts": "Accounts",
-				"vesting": "Vesting",
-				"staking": "Staking",
-				"settings": "Settings",
-				"multi_sender": "Multi Sender",
-				"chat": "PriviMeet",
-				"logout": "Logout"
-			},
-			"changelog": {
-				"changelog": "Changelog",
-				"build_version": "Build Version",
-				"build_last_updated": "Build Last Updated"
-			},
 			"welcome": {
 				"welcome_to": "Welcome to",
 				"crypto_assets_manager": "Crypto Assets Manager",
 				"get_started": "Get Started",
 				"i_already_have_an_account": "I already have an account"
+			},
+			"dashboard": {
+				"menu": {
+					"markets": "Markets",
+					"accounts": "Accounts",
+					"vesting": "Vesting",
+					"staking": "Staking",
+					"settings": "Settings",
+					"multi_sender": "Multi Sender",
+					"chat": "PriviMeet",
+					"logout": "Logout"
+				},
+				"info": "Info",
+				"under_development": "This module is under development and not yet released, check back soon! 👍",
+				"address_copied": "Address copied!",
+				"no_internet_connection": "No Internet Connection",
+				"no_internet_connection_message": "Please check your network settings and ensure you have a stable internet connection before continuing.",
+				"changelog": "Changelog",
+				"build_version": "Build Version",
+				"build_last_updated": "Build Last Updated"
 			},
 			"markets": {
 				"menu": {
@@ -168,18 +173,26 @@
 					"create_account_or_import": "Create a new account, import an existing one",
 					"observe_in_readonly_mode": "or observe in read-only mode."
 				},
+				"create": {
+					"create_account": "Create Account",
+					"choose_recovery_phrase_type": "Choose Recovery Phrase Type",
+					"words": "words",
+					"save_your_recovery_phrase": "Save your Recovery Phrase",
+					"copy": "Copy",
+					"regenerate": "Regenerate",
+					"continue": "Continue"
+				},
 				"balance": {
 					"balance": "Balance",
+					"select_blockchain": "Select Blockchain",
 					"vested": "Vested",
-					"staked": "Stacked",
+					"staked": "Staked",
 					"staking_rewards": "Staking Rewards",
 					"account_address": "Account Address",
 					"search": "Search",
 					"token": "Token",
 					"price": "Price",
-					"value": "Value",
-					"info": "Info",
-					"address_copied": "Address copied!"
+					"value": "Value"
 				}
 			},
 			"vesting": {
@@ -209,17 +222,22 @@
 		"country": "FR",
 		"symbol": "FR",
 		"translations": {
-			"menu": {
-				"markets": "Marchés",
-				"accounts": "Comptes",
-				"vesting": "Acquisition",
-				"staking": "Empilage",
-				"settings": "Paramètres",
-				"multi_sender": "Multi Expéditeur",
-				"chat": "PriviMeet",
-				"logout": "Déconnexion"
-			},
-			"changelog": {
+			"dashboard": {
+				"menu": {
+					"markets": "Marchés",
+					"accounts": "Comptes",
+					"vesting": "Acquisition",
+					"staking": "Empilage",
+					"settings": "Paramètres",
+					"multi_sender": "Multi Expéditeur",
+					"chat": "PriviMeet",
+					"logout": "Déconnexion"
+				},
+				"info": "Info",
+				"under_development": "Ce module est en cours de développement et n'est pas encore publié, revenez bientôt! 👍",
+				"address_copied": "Adresse copiée!",
+				"no_internet_connection": "No Internet Connection",
+				"no_internet_connection_message": "Please check your network settings and ensure you have a stable internet connection before continuing.",
 				"changelog": "Journal des modifications",
 				"build_version": "Version de compilation",
 				"build_last_updated": "Dernière version mise à jour"
@@ -371,8 +389,18 @@
 					"create_account_or_import": "Créer un nouveau compte, importer un compte existant",
 					"observe_in_readonly_mode": "ou observer en mode lecture seule."
 				},
+				"create": {
+					"create_account": "Créer un compte",
+					"choose_recovery_phrase_type": "Choisissez le type de phrase de récupération",
+					"words": "mots",
+					"save_your_recovery_phrase": "Enregistrez votre phrase de récupération",
+					"copy": "Copier",
+					"regenerate": "Régénérer",
+					"continue": "Continuer"
+				},
 				"balance": {
-					"balance": "Équilibre",
+					"balance": "Solde",
+					"select_blockchain": "Sélectionnez la blockchain",
 					"vested": "Acquis",
 					"staked": "Empilé",
 					"staking_rewards": "Récompenses de mise",
@@ -380,9 +408,7 @@
 					"search": "Recherche",
 					"token": "Jeton",
 					"price": "Prix",
-					"value": "Valeur",
-					"info": "Info",
-					"address_copied": "Adresse copiée!"
+					"value": "Valeur"
 				}
 			},
 			"vesting": {
@@ -412,26 +438,31 @@
 		"country": "PT",
 		"symbol": "PT",
 		"translations": {
-			"menu": {
-				"markets": "Mercados",
-				"accounts": "Contas",
-				"vesting": "Aquisição",
-				"staking": "Estacamento",
-				"settings": "Configurações",
-				"multi_sender": "Vários Remetentes",
-				"chat": "PriviMeet",
-				"logout": "Sair"
-			},
-			"changelog": {
-				"changelog": "Changelog",
-				"build_version": "Versão de compilação",
-				"build_last_updated": "Última atualização da versão"
-			},
 			"welcome": {
 				"welcome_to": "Bem-vindo ao",
 				"crypto_assets_manager": "Gerenciador de ativos criptos",
 				"get_started": "Iniciar",
 				"i_already_have_an_account": "Eu já tenho uma conta"
+			},
+			"dashboard": {
+				"menu": {
+					"markets": "Mercados",
+					"accounts": "Contas",
+					"vesting": "Aquisição",
+					"staking": "Estacamento",
+					"settings": "Configurações",
+					"multi_sender": "Vários Remetentes",
+					"chat": "PriviMeet",
+					"logout": "Sair"
+				},
+				"info": "Info",
+				"under_development": "Este módulo está em desenvolvimento e ainda não foi lançado, volte em breve! 👍",
+				"address_copied": "Endereço copiado!",
+				"no_internet_connection": "No Internet Connection",
+				"no_internet_connection_message": "Please check your network settings and ensure you have a stable internet connection before continuing.",
+				"changelog": "Changelog",
+				"build_version": "Versão de compilação",
+				"build_last_updated": "Última atualização da versão"
 			},
 			"markets": {
 				"menu": {
@@ -574,8 +605,18 @@
 					"create_account_or_import": "Crie uma nova conta, importe uma existente",
 					"observe_in_readonly_mode": "ou observe no modo somente leitura."
 				},
+				"create": {
+					"create_account": "Criar uma conta",
+					"choose_recovery_phrase_type": "Escolha o tipo de frase de recuperação",
+					"words": "palavras",
+					"save_your_recovery_phrase": "Salve sua frase de recuperação",
+					"copy": "Copiar",
+					"regenerate": "Regenerar",
+					"continue": "Continuar"
+				},
 				"balance": {
-					"balance": "Equilíbrio",
+					"balance": "Saldo",
+					"select_blockchain": "Selecione Blockchain",
 					"vested": "Empossado",
 					"staked": "Empilhado",
 					"staking_rewards": "Recompensas de aposta",
@@ -583,9 +624,7 @@
 					"search": "Procurar",
 					"token": "Símbolo",
 					"price": "Preço",
-					"value": "Valor",
-					"info": "Informações",
-					"address_copied": "Endereço copiado!"
+					"value": "Valor"
 				}
 			},
 			"vesting": {
@@ -615,26 +654,31 @@
 		"country": "RO",
 		"symbol": "RO",
 		"translations": {
-			"menu": {
-				"markets": "Piețe",
-				"accounts": "Contul meu",
-				"vesting": "Achiziție",
-				"staking": "Miză",
-				"settings": "Setări",
-				"multi_sender": "Multi-Transfer",
-				"chat": "PriviMeet",
-				"logout": "Deconectare"
-			},
-			"changelog": {
-				"changelog": "Jurnalul modificărilor",
-				"build_version": "Versiunea curentă",
-				"build_last_updated": "Ultima actualizare"
-			},
 			"welcome": {
 				"welcome_to": "Bun venit în",
 				"crypto_assets_manager": "Managerul de Cripto",
 				"get_started": "Începe",
 				"i_already_have_an_account": "Am deja un cont"
+			},
+			"dashboard": {
+				"menu": {
+					"markets": "Piețe",
+					"accounts": "Contul meu",
+					"vesting": "Achiziție",
+					"staking": "Miză",
+					"settings": "Setări",
+					"multi_sender": "Multi-Transfer",
+					"chat": "PriviMeet",
+					"logout": "Deconectare"
+				},
+				"info": "Info",
+				"under_development": "Acest modul este în curs de dezvoltare și nu a fost încă lansat, verificați din nou în curând! 👍",
+				"address_copied": "Adresă copiată!",
+				"no_internet_connection": "No Internet Connection",
+				"no_internet_connection_message": "Please check your network settings and ensure you have a stable internet connection before continuing.",
+				"changelog": "Jurnalul modificărilor",
+				"build_version": "Versiunea curentă",
+				"build_last_updated": "Ultima actualizare"
 			},
 			"markets": {
 				"menu": {
@@ -777,8 +821,18 @@
 					"create_account_or_import": "Creați un cont nou sau importați unul existent",
 					"observe_in_readonly_mode": "sau observați în modul doar citire."
 				},
+				"create": {
+					"create_account": "Creează cont",
+					"choose_recovery_phrase_type": "Alegeți tipul frazei de recuperare",
+					"words": "cuvinte",
+					"save_your_recovery_phrase": "Salvați fraza de recuperare",
+					"copy": "Copiază",
+					"regenerate": "Regenerează",
+					"continue": "Continuă"
+				},
 				"balance": {
 					"balance": "Balanță",
+					"select_blockchain": "Selectează Blockchain",
 					"vested": "Rămas de achiziționat",
 					"staked": "Mizat",
 					"staking_rewards": "Recompensă tokeni mizați",
@@ -786,9 +840,7 @@
 					"search": "Căutare",
 					"token": "Token",
 					"price": "Preț",
-					"value": "Valoare",
-					"info": "Info",
-					"address_copied": "Adresă copiată!"
+					"value": "Valoare"
 				}
 			},
 			"vesting": {
@@ -818,26 +870,31 @@
 		"country": "ES",
 		"symbol": "ES",
 		"translations": {
-			"menu": {
-				"markets": "Mercados",
-				"accounts": "Cuentas",
-				"vesting": "Adquisición",
-				"staking": "Participación",
-				"settings": "Ajustes",
-				"multi_sender": "Enviar múltiples",
-				"chat": "PriviMeet",
-				"logout": "Cerrar sesión"
-			},
-			"changelog": {
-				"changelog": "Registro de cambios",
-				"build_version": "Versión",
-				"build_last_updated": "Versión actualizada en"
-			},
 			"welcome": {
 				"welcome_to": "Bienvenido a",
 				"crypto_assets_manager": "Gerente de Criptoactivos",
 				"get_started": "Empezar",
 				"i_already_have_an_account": "Ya tengo una cuenta"
+			},
+			"dashboard": {
+				"menu": {
+					"markets": "Mercados",
+					"accounts": "Cuentas",
+					"vesting": "Adquisición",
+					"staking": "Participación",
+					"settings": "Ajustes",
+					"multi_sender": "Enviar múltiples",
+					"chat": "PriviMeet",
+					"logout": "Cerrar sesión"
+				},
+				"info": "Info",
+				"under_development": "Este módulo está en desarrollo y aún no se ha publicado. ¡Vuelve pronto! 👍",
+				"address_copied": "¡Dirección copiada!",
+				"no_internet_connection": "No Internet Connection",
+				"no_internet_connection_message": "Please check your network settings and ensure you have a stable internet connection before continuing.",
+				"changelog": "Registro de cambios",
+				"build_version": "Versión",
+				"build_last_updated": "Versión actualizada en"
 			},
 			"markets": {
 				"menu": {
@@ -980,8 +1037,18 @@
 					"create_account_or_import": "Crear una nueva cuenta, importar una existente",
 					"observe_in_readonly_mode": "u observar en modo de solo lectura."
 				},
+				"create": {
+					"create_account": "Crear cuenta",
+					"choose_recovery_phrase_type": "Elija el tipo de frase de recuperación",
+					"words": "palabras",
+					"save_your_recovery_phrase": "Guarde su frase de recuperación",
+					"copy": "Copiar",
+					"regenerate": "Regenerar",
+					"continue": "Continuar"
+				},
 				"balance": {
 					"balance": "Saldo",
+					"select_blockchain": "Seleccione Blockchain",
 					"vested": "Investida",
 					"staked": "Apostando",
 					"staking_rewards": "Apostar Recompensas",
@@ -989,9 +1056,7 @@
 					"search": "Buscar",
 					"token": "Token",
 					"price": "Precio",
-					"value": "Valor",
-					"info": "Info",
-					"address_copied": "¡Dirección copiada!"
+					"value": "Valor"
 				}
 			},
 			"vesting": {
