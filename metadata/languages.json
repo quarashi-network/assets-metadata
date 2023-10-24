@@ -30,7 +30,8 @@
 				"no_internet_connection_message": "Please check your network settings and ensure you have a stable internet connection before continuing.",
 				"changelog": "Changelog",
 				"build_version": "Build Version",
-				"build_last_updated": "Build Last Updated"
+				"build_last_updated": "Build Last Updated",
+				"no_changes_found": "No changes found..."
 			},
 			"markets": {
 				"menu": {
@@ -236,11 +237,12 @@
 				"info": "Info",
 				"under_development": "Ce module est en cours de développement et n'est pas encore publié, revenez bientôt! 👍",
 				"address_copied": "Adresse copiée!",
-				"no_internet_connection": "No Internet Connection",
-				"no_internet_connection_message": "Please check your network settings and ensure you have a stable internet connection before continuing.",
+				"no_internet_connection": "Pas de connexion Internet",
+				"no_internet_connection_message": "Veuillez vérifier vos paramètres réseau et assurez-vous que vous disposez d'une connexion Internet stable avant de continuer.",
 				"changelog": "Journal des modifications",
 				"build_version": "Version de compilation",
-				"build_last_updated": "Dernière version mise à jour"
+				"build_last_updated": "Dernière version mise à jour",
+				"no_changes_found": "Aucun modifications trouvé..."
 			},
 			"welcome": {
 				"welcome_to": "Bienvenue à",
@@ -458,11 +460,12 @@
 				"info": "Info",
 				"under_development": "Este módulo está em desenvolvimento e ainda não foi lançado, volte em breve! 👍",
 				"address_copied": "Endereço copiado!",
-				"no_internet_connection": "No Internet Connection",
-				"no_internet_connection_message": "Please check your network settings and ensure you have a stable internet connection before continuing.",
-				"changelog": "Changelog",
+				"no_internet_connection": "Sem conexão com a Internet",
+				"no_internet_connection_message": "Verifique suas configurações de rede e certifique-se de ter uma conexão estável com a Internet antes de continuar.",
+				"changelog": "Registro de alterações",
 				"build_version": "Versão de compilação",
-				"build_last_updated": "Última atualização da versão"
+				"build_last_updated": "Última atualização da versão",
+				"no_changes_found": "Nenhuma alteração encontrada..."
 			},
 			"markets": {
 				"menu": {
@@ -674,11 +677,12 @@
 				"info": "Info",
 				"under_development": "Acest modul este în curs de dezvoltare și nu a fost încă lansat, verificați din nou în curând! 👍",
 				"address_copied": "Adresă copiată!",
-				"no_internet_connection": "No Internet Connection",
-				"no_internet_connection_message": "Please check your network settings and ensure you have a stable internet connection before continuing.",
+				"no_internet_connection": "Nu există conexiune la Internet",
+				"no_internet_connection_message": "Verificați setările de rețea și asigurați-vă că aveți o conexiune stabilă la Internet înainte de a continua.",
 				"changelog": "Jurnalul modificărilor",
 				"build_version": "Versiunea curentă",
-				"build_last_updated": "Ultima actualizare"
+				"build_last_updated": "Ultima actualizare",
+				"no_changes_found": "Nu s-au găsit modificări..."
 			},
 			"markets": {
 				"menu": {
@@ -890,11 +894,12 @@
 				"info": "Info",
 				"under_development": "Este módulo está en desarrollo y aún no se ha publicado. ¡Vuelve pronto! 👍",
 				"address_copied": "¡Dirección copiada!",
-				"no_internet_connection": "No Internet Connection",
-				"no_internet_connection_message": "Please check your network settings and ensure you have a stable internet connection before continuing.",
+				"no_internet_connection": "Sin conexión a Internet",
+				"no_internet_connection_message": "Verifique la configuración de su red y asegúrese de tener una conexión a Internet estable antes de continuar.",
 				"changelog": "Registro de cambios",
 				"build_version": "Versión",
-				"build_last_updated": "Versión actualizada en"
+				"build_last_updated": "Versión actualizada en",
+				"no_changes_found": "No se encontraron cambios..."
 			},
 			"markets": {
 				"menu": {
