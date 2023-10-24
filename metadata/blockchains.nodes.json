@@ -171,6 +171,9 @@
 				"url": "https://bsc-dataseed4.ninicoin.io"
 			} , {
 				"enabled": true,
+				"url": "https://binance.llamarpc.com/"
+			} , {
+				"enabled": true,
 				"url": "https://bscrpc.com"
 			} , {
 				"enabled": true,

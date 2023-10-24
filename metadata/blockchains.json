@@ -187,7 +187,7 @@
 		"evm": true,
 		"special_address": true,
 		"chainid": 314,
-		"name": "Filecoin",
+		"name": "Filecoin FEVM",
 		"urls": ["https://filecoin.io"],
 		"explorers": ["https://filfox.info"]
 	},
@@ -260,6 +260,15 @@
 		"name": "Moonriver",
 		"urls": ["https://moonbeam.network/networks/moonriver/"],
 		"explorers": ["https://moonriver.moonscan.io"]
+	},
+	"mantle": {
+		"enabled": false,
+		"evm": true,
+		"chainid": 5000,
+		"id2": "mantle",
+		"name": "Mantle",
+		"urls": ["https://explorer.mantle.xyz"],
+		"explorers": ["https://explorer.mantle.xyz"]
 	},
 	"klaytn": {
 		"enabled": true,
@@ -388,7 +397,16 @@
 		"id2": "boba",
 		"name": "Boba Network (BNB)",
 		"urls": ["https://boba.network"],
-		"explorers": ["https://bnb.bobascan.com/"]
+		"explorers": ["https://bnb.bobascan.com"]
+	},
+	"linea": {
+		"enabled": false,
+		"evm": true,
+		"chainid": 59144,
+		"id2": "linea",
+		"name": "Linea",
+		"urls": ["https://linea.build"],
+		"explorers": ["https://lineascan.build"]
 	},
 	"ethereum-fair": {
 		"enabled": true,
@@ -426,7 +444,7 @@
 		"explorers": ["https://explorer.palm.io"]
 	},
 	"multiversx": {
-		"enabled": true,
+		"enabled": false,
 		"evm": false,
 		"special_address": true,
 		"chainid": "multiversx",

@@ -1749,6 +1749,7 @@
 				"decimals": 18
 			} , {
 				"enabled": true,
+				"id": "bitmarket",
 				"address": "0xc7E9d03b6f13d7215c2e2b1854a2B0bDbEBE6FB9",
 				"name": "Bitmarket",
 				"symbol": "BMK",
