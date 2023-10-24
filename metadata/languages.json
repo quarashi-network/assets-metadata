@@ -183,6 +183,17 @@
 					"regenerate": "Regenerate",
 					"continue": "Continue"
 				},
+				"import": {
+					"import_account": "Import Account",
+					"what_is_a_recovery_phrase": "What is a Recovery Phrase ?",
+					"what_is_a_recovery_phrase_message": "It is a 12, 15, 18, 21 or 24-word phrase that can be used to restore your account.",
+					"what_is_a_private_key": "What is a Private Key ?",
+					"what_is_a_private_key_message": "A private key is like a password, a string of letters and numbers, that allows you to restore your account.",
+					"enter_your": "Enter your",
+					"or": "or",
+					"recovery_phrase": "Recovery Phrase",
+					"private_key": "Private Key"
+				},
 				"balance": {
 					"balance": "Balance",
 					"select_blockchain": "Select Blockchain",
@@ -229,7 +240,7 @@
 					"accounts": "Comptes",
 					"vesting": "Acquisition",
 					"staking": "Participation",
-					"settings": "Paramètres",
+					"settings": "Réglages",
 					"multi_sender": "Multi-Expéditeur",
 					"chat": "PriviMeet",
 					"logout": "Déconnexion"
@@ -400,6 +411,17 @@
 					"regenerate": "Régénérer",
 					"continue": "Continuer"
 				},
+				"import": {
+					"import_account": "Import Account",
+					"what_is_a_recovery_phrase": "What is a Recovery Phrase ?",
+					"what_is_a_recovery_phrase_message": "It is a 12, 15, 18, 21 or 24-word phrase that can be used to restore your account.",
+					"what_is_a_private_key": "What is a Private Key ?",
+					"what_is_a_private_key_message": "A private key is like a password, a string of letters and numbers, that allows you to restore your account.",
+					"enter_your": "Enter your",
+					"or": "or",
+					"recovery_phrase": "Recovery Phrase",
+					"private_key": "Private Key"
+				},
 				"balance": {
 					"balance": "Solde",
 					"select_blockchain": "Sélectionnez la blockchain",
@@ -421,8 +443,8 @@
 				"disconnect": "Déconnecter"
 			},
 			"settings": {
-				"settings": "Paramètres",
-				"start_page": "Page de démarrage",
+				"settings": "Réglages",
+				"start_page": "Page d'accueil",
 				"select_start_page": "Sélectionnez la page de démarrage",
 				"light_mode": "Mode lumière",
 				"dark_mode": "Mode sombre",
@@ -617,6 +639,17 @@
 					"regenerate": "Regenerar",
 					"continue": "Continuar"
 				},
+				"import": {
+					"import_account": "Import Account",
+					"what_is_a_recovery_phrase": "What is a Recovery Phrase ?",
+					"what_is_a_recovery_phrase_message": "It is a 12, 15, 18, 21 or 24-word phrase that can be used to restore your account.",
+					"what_is_a_private_key": "What is a Private Key ?",
+					"what_is_a_private_key_message": "A private key is like a password, a string of letters and numbers, that allows you to restore your account.",
+					"enter_your": "Enter your",
+					"or": "or",
+					"recovery_phrase": "Recovery Phrase",
+					"private_key": "Private Key"
+				},
 				"balance": {
 					"balance": "Saldo",
 					"select_blockchain": "Selecione Blockchain",
@@ -643,7 +676,7 @@
 				"select_start_page": "Selecione a página inicial",
 				"light_mode": "Modo claro",
 				"dark_mode": "Modo escuro",
-				"icons_size": "Tamanho dos ícones",
+				"icons_size": "Tamanho ícones",
 				"language": "Idioma",
 				"select_language": "Selecione o idioma",
 				"currency": "Moeda",
@@ -666,7 +699,7 @@
 			"dashboard": {
 				"menu": {
 					"markets": "Piețe",
-					"accounts": "Contul meu",
+					"accounts": "Conturi",
 					"vesting": "Achiziție",
 					"staking": "Participaţie",
 					"settings": "Setări",
@@ -834,6 +867,17 @@
 					"regenerate": "Regenerează",
 					"continue": "Continuă"
 				},
+				"import": {
+					"import_account": "Import Account",
+					"what_is_a_recovery_phrase": "What is a Recovery Phrase ?",
+					"what_is_a_recovery_phrase_message": "It is a 12, 15, 18, 21 or 24-word phrase that can be used to restore your account.",
+					"what_is_a_private_key": "What is a Private Key ?",
+					"what_is_a_private_key_message": "A private key is like a password, a string of letters and numbers, that allows you to restore your account.",
+					"enter_your": "Enter your",
+					"or": "or",
+					"recovery_phrase": "Recovery Phrase",
+					"private_key": "Private Key"
+				},
 				"balance": {
 					"balance": "Balanță",
 					"select_blockchain": "Selectează Blockchain",
@@ -863,8 +907,8 @@
 				"icons_size": "Mărime pictograme",
 				"language": "Limbă",
 				"select_language": "Selectare limbă",
-				"currency": "Valută",
-				"select_currency": "Selectare valută"
+				"currency": "Monedă",
+				"select_currency": "Selectare monedă"
 			}
 		}
 	} , {
@@ -886,7 +930,7 @@
 					"accounts": "Cuentas",
 					"vesting": "Adquisición",
 					"staking": "Participación",
-					"settings": "Ajustes",
+					"settings": "Configuración",
 					"multi_sender": "Multi Remitente",
 					"chat": "PriviMeet",
 					"logout": "Cerrar sesión"
@@ -1051,6 +1095,17 @@
 					"regenerate": "Regenerar",
 					"continue": "Continuar"
 				},
+				"import": {
+					"import_account": "Import Account",
+					"what_is_a_recovery_phrase": "What is a Recovery Phrase ?",
+					"what_is_a_recovery_phrase_message": "It is a 12, 15, 18, 21 or 24-word phrase that can be used to restore your account.",
+					"what_is_a_private_key": "What is a Private Key ?",
+					"what_is_a_private_key_message": "A private key is like a password, a string of letters and numbers, that allows you to restore your account.",
+					"enter_your": "Enter your",
+					"or": "or",
+					"recovery_phrase": "Recovery Phrase",
+					"private_key": "Private Key"
+				},
 				"balance": {
 					"balance": "Saldo",
 					"select_blockchain": "Seleccione Blockchain",
@@ -1072,16 +1127,16 @@
 				"disconnect": "Desconectar"
 			},
 			"settings": {
-				"settings": "Ajustes",
+				"settings": "Configuración",
 				"start_page": "Página de inicio",
 				"select_start_page": "Seleccione página de inicio",
 				"light_mode": "Modo de luz",
 				"dark_mode": "Modo oscuro",
-				"icons_size": "Tamaño de los iconos",
+				"icons_size": "Tamaño iconos",
 				"language": "Idioma",
 				"select_language": "Seleccione idioma",
-				"currency": "Tipo de moneda",
-				"select_currency": "Seleccione tipo de moneda"
+				"currency": "Moneda",
+				"select_currency": "Seleccione moneda"
 			}
 		}
 	}]
